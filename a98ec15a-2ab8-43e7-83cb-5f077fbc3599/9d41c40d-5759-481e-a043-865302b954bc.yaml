@@ -1,0 +1,79 @@
+id: https://osmt.wgu.edu/api/skills/9d41c40d-5759-481e-a043-865302b954bc
+uuid: 9d41c40d-5759-481e-a043-865302b954bc
+status: published
+publishDate: '2022-02-02T14:20:37.123387'
+archiveDate: null
+skillName: Self-Directed Learning Experiences Implementation
+skillStatement: Implement self-directed, collaborative learning experiences.
+category: Collaboration
+keywords:
+  - ISTE_Educators_4d
+  - InTASC_3a
+  - InTASC_3d
+  - InTASC_3g
+  - InTASC_3i
+  - InTASC_3m
+  - InTASC_3n
+  - InTASC_4g
+  - InTASC_5i
+  - InTASC_6p
+  - InTASC_8n
+  - ATD.Prof.ID
+  - ATD.Prof.TDF
+  - ISTE.Coach.C.3a
+  - ISTE.Coach.CA.1a
+  - ISTE.Coach.CA.1c
+  - ISTE.Coach.CL.2c
+  - ISTE.Coach.LD.4a
+  - ISTE.Coach.LD.4b
+  - ISTE.Coach.LD.4d
+  - ISTE.Coach.PLF.5b
+  - InTASC_3b
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - ATD.Pers.CL
+  - InTASC_3j
+  - ISTE_Educators_1c
+  - ISTE_Educators_2b
+  - ISTE_Educators_3a
+  - ISTE_Educators_5a
+  - ISTE_Educators_5b
+  - ISTE_Educators_5c
+  - ISTE_Educators_6a
+  - ISTE_Educators_6b
+  - ISTE_Educators_6c
+  - ISTE_Educators_6d
+  - ISTE.Coach.PLF.5bAAQEP_1a
+  - AAQEP_1b
+  - ISTE_EdLeaders_4a
+  - ISTE_Educators_4a
+  - ISTE_Educators_4b
+  - ISTE_Educators_4c
+  - ISTE_Educators_2a
+  - Collaboration
+  - Collaboration
+  - ATD.Pers.C
+  - ISTE_Educators_2c
+  - 'WGUSID: 4319'
+  - ILA_Teachers_5.2
+  - NSQ_Teaching_B3
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-4020
+    targetNodeName: Librarians and Media Collections Specialists
+    frameworkName: bls
+  - code: 25-4022
+    targetNodeName: Librarians and Media Collections Specialists
+    frameworkName: bls
+  - code: 25-9030
+    targetNodeName: Instructional Coordinators
+    frameworkName: bls
+  - code: 25-9031
+    targetNodeName: Instructional Coordinators
+    frameworkName: bls
+  - code: 25-9090
+    targetNodeName: Miscellaneous Educational Instruction and Library Workers
+    frameworkName: bls

@@ -1,0 +1,57 @@
+id: https://osmt.wgu.edu/api/skills/c18326e8-153a-4295-a205-4c143f3d4704
+uuid: c18326e8-153a-4295-a205-4c143f3d4704
+status: published
+publishDate: '2022-02-04T21:15:58.604204'
+archiveDate: null
+skillName: Student Learner Analysis Evaluation
+skillStatement: >-
+  Evaluate the demographics, prior knowledge, and the physiological and social
+  needs of one's students to influence the instructional methods and strategies
+  to implement in the classroom.
+category: Learner Analysis
+keywords:
+  - ISTE_Educators_7c
+  - InTASC_3a
+  - InTASC_3i
+  - InTASC_3n
+  - InTASC_4g
+  - InTASC_8n
+  - ISTE_EdLeaders_2c
+  - ISTE_Educators_7a
+  - ISTE_Educators_7b
+  - InTASC_3b
+  - InTASC_3e
+  - InTASC_3f
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_4f
+  - InTASC_5d
+  - InTASC_6o
+  - InTASC_6s
+  - AAQEP_1d
+  - Learner Analysis
+  - ISTE_Educators_1c
+  - ISTE_Educators_2b
+  - ISTE_Educators_3a
+  - ISTE_Educators_3b
+  - ISTE_Educators_5a
+  - ISTE_Educators_5b
+  - ISTE_Educators_5c
+  - ISTE_Educators_6a
+  - ISTE_Educators_6b
+  - ISTE_Educators_6c
+  - ISTE_Educators_6d
+  - InTASC_3c
+  - Learner Analysis
+  - Schoology
+  - Teaching Institute for Excellence in STEM (TIES)
+  - 'WGUSID: 3203'
+occupations:
+  - code: 11-3130
+    targetNodeName: Training and Development Managers
+    frameworkName: bls
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: '449919'

@@ -1,0 +1,76 @@
+id: https://osmt.wgu.edu/api/skills/87f4b160-a4ab-498b-8099-db7cfb0253b4
+uuid: 87f4b160-a4ab-498b-8099-db7cfb0253b4
+status: published
+publishDate: '2022-01-25T16:54:03.974002'
+archiveDate: null
+skillName: Promote Student Engagement
+skillStatement: Promote student engagement through active learning.
+category: Student Engagement
+keywords:
+  - Special Education
+  - ISTE_Educators_4d
+  - ISTE_Educators_7c
+  - InTASC_3i
+  - ISTE_Educators_7a
+  - ISTE_Educators_7b
+  - InTASC_3b
+  - InTASC_3e
+  - InTASC_3l
+  - CEC_6.3
+  - InTASC_6o
+  - CEC_4.1
+  - UETS_5
+  - ISTE_Educators_1c
+  - ISTE_Educators_2b
+  - ISTE_Educators_3a
+  - ISTE_Educators_3b
+  - ISTE_Educators_5a
+  - ISTE_Educators_5b
+  - ISTE_Educators_5c
+  - ISTE_Educators_6a
+  - ISTE_Educators_6b
+  - ISTE_Educators_6c
+  - ISTE_Educators_6d
+  - ISTE_EdLeaders_3a
+  - ISTE_EdLeaders_3b
+  - CEC_6.2
+  - CEC_2.2
+  - ISTE_Educators_4a
+  - ISTE_Educators_4b
+  - ISTE_Educators_4c
+  - AAQEP_1a
+  - Student Engagement
+  - 'WGUSID: 5679'
+  - Student Engagement
+  - NSQ_Teaching_C1
+  - NSQ_Teaching_C3
+  - SL_GL5
+  - TESOL_K12 Teacher Prep_3b
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-1010
+    targetNodeName: Business Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1020
+    targetNodeName: Math and Computer Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1040
+    targetNodeName: Life Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1050
+    targetNodeName: Physical Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1060
+    targetNodeName: Social Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1070
+    targetNodeName: Health Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1080
+    targetNodeName: Education and Library Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1120
+    targetNodeName: Arts, Communications, History, and Humanities Teachers, Postsecondary
+    frameworkName: bls

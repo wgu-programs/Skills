@@ -1,0 +1,46 @@
+id: https://osmt.wgu.edu/api/skills/6d7f7505-389c-4a44-94fa-39f6a819c10a
+uuid: 6d7f7505-389c-4a44-94fa-39f6a819c10a
+status: published
+publishDate: '2022-02-03T00:34:29.342618'
+archiveDate: null
+skillName: Student Information Communication
+skillStatement: Communicate information to students and to the students' parents.
+category: Ethical Responsibility
+keywords:
+  - AAQEP_1f
+  - ISTE_Educators_4d
+  - ISTE_Educators_7c
+  - ISTE_EdLeaders_2d
+  - InTASC_3a
+  - InTASC_3i
+  - InTASC_3n
+  - InTASC_4g
+  - InTASC_8n
+  - InTASC_3b
+  - InTASC_3e
+  - InTASC_3f
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_4f
+  - InTASC_5d
+  - InTASC_6o
+  - AAQEP_1e
+  - Professional Responsibility
+  - Ethical Responsibility
+  - Moral Reasoning
+  - Ethical Responsibility
+  - 'WGUSID: 1065'
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-2010
+    targetNodeName: Preschool and Kindergarten Teachers
+    frameworkName: bls
+  - code: 25-2020
+    targetNodeName: Elementary and Middle School Teachers
+    frameworkName: bls
+  - code: 25-2030
+    targetNodeName: Secondary School Teachers
+    frameworkName: bls

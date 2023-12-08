@@ -1,0 +1,68 @@
+id: https://osmt.wgu.edu/api/skills/0d5e6517-4dba-47a2-a12d-5b01d0948b4c
+uuid: 0d5e6517-4dba-47a2-a12d-5b01d0948b4c
+status: published
+publishDate: '2022-02-04T21:15:45.985199'
+archiveDate: null
+skillName: Student Interest Learning Experience Design
+skillStatement: >-
+  Design relevant learning experiences that develop a student's area of
+  interest.
+category: Learner Analysis
+keywords:
+  - ISTE_Educators_7c
+  - InTASC_3a
+  - InTASC_3i
+  - InTASC_3n
+  - InTASC_4g
+  - InTASC_8n
+  - ISTE.Coach.C.3a
+  - ISTE.Coach.CA.1a
+  - ISTE.Coach.CA.1c
+  - ISTE.Coach.CL.2c
+  - ISTE.Coach.LD.4a
+  - ISTE.Coach.LD.4d
+  - ISTE.Coach.PLF.5b
+  - ISTE_Educators_7a
+  - ISTE_Educators_7b
+  - InTASC_3b
+  - InTASC_3e
+  - InTASC_3f
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_4f
+  - InTASC_5d
+  - ISTE.Coach.PLF.5a
+  - InTASC_6o
+  - InTASC_6s
+  - Learner Analysis
+  - ISTE_Educators_1c
+  - ISTE_Educators_2b
+  - ISTE_Educators_3a
+  - ISTE_Educators_3b
+  - ISTE_Educators_5a
+  - ISTE_Educators_5b
+  - ISTE_Educators_5c
+  - ISTE_Educators_6a
+  - ISTE_Educators_6b
+  - ISTE_Educators_6c
+  - ISTE_Educators_6d
+  - InTASC_1b
+  - InTASC_1h
+  - InTASC_1i
+  - InTASC_3c
+  - Learner Analysis
+  - ISTE_EdLeaders_3a
+  - ISTE_EdLeaders_3b
+  - ISTE.Coach.C.3b
+  - ISTE.Coach.PLF.5bAAQEP_1b
+  - learning experiences
+  - 'WGUSID: 2139'
+occupations:
+  - code: 11-3130
+    targetNodeName: Training and Development Managers
+    frameworkName: bls
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: '449919'

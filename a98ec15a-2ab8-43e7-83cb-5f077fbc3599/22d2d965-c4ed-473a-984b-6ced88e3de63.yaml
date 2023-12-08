@@ -1,0 +1,67 @@
+id: https://osmt.wgu.edu/api/skills/22d2d965-c4ed-473a-984b-6ced88e3de63
+uuid: 22d2d965-c4ed-473a-984b-6ced88e3de63
+status: published
+publishDate: '2022-02-08T00:32:43.015668'
+archiveDate: null
+skillName: Maintain and Improve Professional Competence
+skillStatement: >-
+  Take part in professional meetings, conferences, and training workshops to
+  maintain and improve professional competence.
+category: Professional Development Programs
+keywords:
+  - AAQEP_1f
+  - ISTE_EdLeaders_5a
+  - InTASC_3a
+  - InTASC_3i
+  - InTASC_4g
+  - InTASC_8n
+  - InTASC_3b
+  - InTASC_3e
+  - InTASC_3f
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_5d
+  - InTASC_3q
+  - InTASC_6o
+  - InTASC_6s
+  - ISTE_Educators_1c
+  - ISTE_Educators_1a
+  - ISTE_Educators_1b
+  - ISTE_Educators_2a
+  - Professional Development
+  - Professional Development Programs
+  - Professional Development Programs
+  - meetings
+  - conferences
+  - training workshops
+  - competence
+  - 'WGUSID: 790'
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-1010
+    targetNodeName: Business Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1020
+    targetNodeName: Math and Computer Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1040
+    targetNodeName: Life Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1050
+    targetNodeName: Physical Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1060
+    targetNodeName: Social Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1070
+    targetNodeName: Health Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1080
+    targetNodeName: Education and Library Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1120
+    targetNodeName: Arts, Communications, History, and Humanities Teachers, Postsecondary
+    frameworkName: bls

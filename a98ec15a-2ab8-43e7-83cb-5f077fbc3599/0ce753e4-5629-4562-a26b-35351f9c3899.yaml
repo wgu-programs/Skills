@@ -1,0 +1,64 @@
+id: https://osmt.wgu.edu/api/skills/0ce753e4-5629-4562-a26b-35351f9c3899
+uuid: 0ce753e4-5629-4562-a26b-35351f9c3899
+status: published
+publishDate: '2022-01-25T16:54:06.592273'
+archiveDate: null
+skillName: Student Materials Integration
+skillStatement: Integrate materials to ensure student access to content.
+category: Learning Aids
+keywords:
+  - Special Education
+  - ISTE_Educators_4d
+  - ISTE_Educators_7c
+  - InTASC_3a
+  - InTASC_3i
+  - InTASC_3n
+  - InTASC_4g
+  - InTASC_8n
+  - ISTE_Educators_7a
+  - ISTE_Educators_7b
+  - InTASC_3b
+  - InTASC_3e
+  - InTASC_3f
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_4f
+  - InTASC_5d
+  - InTASC_6o
+  - InTASC_6s
+  - ISTE_Educators_1c
+  - ISTE_Educators_2b
+  - ISTE_Educators_3a
+  - ISTE_Educators_3b
+  - ISTE_Educators_5a
+  - ISTE_Educators_5b
+  - ISTE_Educators_5c
+  - ISTE_Educators_6a
+  - ISTE_Educators_6b
+  - ISTE_Educators_6c
+  - ISTE_Educators_6d
+  - InTASC_3c
+  - ISTE_EdLeaders_3a
+  - ISTE_EdLeaders_3b
+  - ISTE_Educators_4a
+  - ISTE_Educators_4b
+  - ISTE_Educators_4c
+  - AAQEP_1a
+  - Learning Aids
+  - Educational Materials
+  - Teachers-Pay-Teachers
+  - Google
+  - 'WGUSID: 4536'
+  - Learning Aids
+  - NSQ_Teaching_D6
+occupations:
+  - code: 11-3130
+    targetNodeName: Training and Development Managers
+    frameworkName: bls
+  - code: 11-3131
+    targetNodeName: Training and Development Managers
+    frameworkName: bls
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls

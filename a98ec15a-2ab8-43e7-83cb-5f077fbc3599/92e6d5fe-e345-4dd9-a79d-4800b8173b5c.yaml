@@ -1,0 +1,56 @@
+id: https://osmt.wgu.edu/api/skills/92e6d5fe-e345-4dd9-a79d-4800b8173b5c
+uuid: 92e6d5fe-e345-4dd9-a79d-4800b8173b5c
+status: published
+publishDate: '2022-12-02T21:34:23.409097'
+archiveDate: null
+skillName: Learner Plan Family Collaboration
+skillStatement: Collaborate with families to develop a plan for learner performance.
+category: Family Engagement
+keywords:
+  - InTASC
+  - Family Engagement
+  - InTASC_10g
+  - Family Engagement
+  - TESOL_K12 Teacher Prep_2d
+occupations:
+  - code: 25-2011.00
+    targetNodeName: Preschool Teachers, Except Special Education
+    frameworkName: o*net
+  - code: 25-2012.00
+    targetNodeName: Kindergarten Teachers, Except Special Education
+    frameworkName: o*net
+  - code: 25-2021.00
+    targetNodeName: Elementary School Teachers, Except Special Education
+    frameworkName: o*net
+  - code: 25-2022.00
+    targetNodeName: Middle School Teachers, Except Special and Career/Technical Education
+    frameworkName: o*net
+  - code: 25-2031.00
+    targetNodeName: Secondary School Teachers, Except Special and Career/Technical Education
+    frameworkName: o*net
+  - code: 25-2051.00
+    targetNodeName: Special Education Teachers, Preschool
+    frameworkName: o*net
+  - code: 25-2055.00
+    targetNodeName: Special Education Teachers, Kindergarten
+    frameworkName: o*net
+  - code: 25-2056.00
+    targetNodeName: Special Education Teachers, Elementary School
+    frameworkName: o*net
+  - code: 25-2057.00
+    targetNodeName: Special Education Teachers, Middle School
+    frameworkName: o*net
+  - code: 25-2058.00
+    targetNodeName: Special Education Teachers, Secondary School
+    frameworkName: o*net
+  - code: 25-2059.00
+    targetNodeName: Special Education Teachers, All Other
+    frameworkName: o*net
+  - code: 25-9042.00
+    targetNodeName: >-
+      Teaching Assistants, Preschool, Elementary, Middle, and Secondary School,
+      Except Special Education
+    frameworkName: o*net
+  - code: 25-9043.00
+    targetNodeName: Teaching Assistants, Special Education
+    frameworkName: o*net

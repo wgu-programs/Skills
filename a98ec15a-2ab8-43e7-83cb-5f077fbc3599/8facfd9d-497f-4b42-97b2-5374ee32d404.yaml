@@ -1,0 +1,75 @@
+id: https://osmt.wgu.edu/api/skills/8facfd9d-497f-4b42-97b2-5374ee32d404
+uuid: 8facfd9d-497f-4b42-97b2-5374ee32d404
+status: published
+publishDate: '2022-02-04T01:13:36.607811'
+archiveDate: null
+skillName: Discussion Method Implementation
+skillStatement: Implement the discussion method for instruction.
+category: Interactive Communications
+keywords:
+  - AAQEP_1f
+  - ISTE_Educators_4d
+  - ISTE_Educators_7c
+  - ISTE_EdLeaders_2d
+  - InTASC_3a
+  - InTASC_3i
+  - InTASC_3n
+  - InTASC_4g
+  - InTASC_8n
+  - InTASC_3b
+  - InTASC_3e
+  - InTASC_3f
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_4f
+  - InTASC_5d
+  - InTASC_6o
+  - InTASC_6s
+  - ISTE_Educators_2b
+  - ISTE_Educators_3a
+  - ISTE_Educators_3b
+  - ISTE_Educators_6a
+  - ISTE_Educators_6b
+  - ISTE_Educators_6c
+  - ISTE_Educators_6d
+  - InTASC_3c
+  - ISTE_Educators_4a
+  - ISTE_Educators_4b
+  - ISTE_Educators_4c
+  - ISTE_Educators_2a
+  - Interactive Communications
+  - Interactive Communications
+  - instruction
+  - LMS
+  - 'WGUSID: 4370'
+  - TC Disposition 1
+  - Healthy Learning Strategies
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-1010
+    targetNodeName: Business Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1020
+    targetNodeName: Math and Computer Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1040
+    targetNodeName: Life Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1050
+    targetNodeName: Physical Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1060
+    targetNodeName: Social Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1070
+    targetNodeName: Health Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1080
+    targetNodeName: Education and Library Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1120
+    targetNodeName: Arts, Communications, History, and Humanities Teachers, Postsecondary
+    frameworkName: bls

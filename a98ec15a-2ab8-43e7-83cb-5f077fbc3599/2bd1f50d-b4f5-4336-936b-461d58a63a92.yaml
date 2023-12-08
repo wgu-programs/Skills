@@ -1,0 +1,61 @@
+id: https://osmt.wgu.edu/api/skills/2bd1f50d-b4f5-4336-936b-461d58a63a92
+uuid: 2bd1f50d-b4f5-4336-936b-461d58a63a92
+status: published
+publishDate: '2022-01-27T22:23:49.398265'
+archiveDate: null
+skillName: Demonstrate Accountability in a Controlled Situation
+skillStatement: >-
+  Demonstrate accountability for something or someone that is under one's
+  control.
+category: Responsibility to Others
+keywords:
+  - Character
+  - 21st_Century_Skills
+  - AAQEP_1f
+  - InTASC_3a
+  - InTASC_3i
+  - InTASC_3b
+  - InTASC_3e
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_5d
+  - InTASC_6o
+  - InTASC_6s
+  - ISTE_EdLeaders_3a
+  - ISTE_Educators_1a
+  - Responsibility to Others
+  - Professional Responsibility
+  - 'Social Emotional Learning (SEL): General'
+  - 'Social Emotional Learning (SEL): Social Awareness'
+  - Social Accountability
+  - Social Accountability
+  - 'WGUSID: 807'
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-1010
+    targetNodeName: Business Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1020
+    targetNodeName: Math and Computer Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1040
+    targetNodeName: Life Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1050
+    targetNodeName: Physical Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1060
+    targetNodeName: Social Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1070
+    targetNodeName: Health Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1080
+    targetNodeName: Education and Library Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1120
+    targetNodeName: Arts, Communications, History, and Humanities Teachers, Postsecondary
+    frameworkName: bls

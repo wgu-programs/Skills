@@ -1,0 +1,93 @@
+id: https://osmt.wgu.edu/api/skills/cbfc90ad-68c7-4e35-9134-86fdeb3ef0a9
+uuid: cbfc90ad-68c7-4e35-9134-86fdeb3ef0a9
+status: published
+publishDate: '2022-02-03T00:30:22.551929'
+archiveDate: null
+skillName: Safe Information Implementation
+skillStatement: Implement the safe, legal, and ethical use of information and technology.
+category: Educational Technologies
+keywords:
+  - InTASC_3a
+  - InTASC_3i
+  - InTASC_3n
+  - InTASC_4g
+  - InTASC_8n
+  - ATD.Prof.ID
+  - ATD.Prof.TA
+  - ATD.Prof.TDF
+  - ISTE.Coach.C.3a
+  - ISTE.Coach.CA.1a
+  - ISTE.Coach.CA.1c
+  - ISTE.Coach.CL.2c
+  - ISTE.Coach.PLF.5b
+  - InTASC_3b
+  - InTASC_3e
+  - InTASC_3f
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_4f
+  - InTASC_5d
+  - ISTE.Coach.CL.2a
+  - ISTE.Coach.CL.2b
+  - ISTE.Coach.PLF.5a
+  - InTASC_6o
+  - ISTE_Educators_6a
+  - ISTE_Educators_6b
+  - ISTE_Educators_6c
+  - ISTE_Educators_6d
+  - ISTE.Coach.PLF.5bAAQEP_1a
+  - ISTE.Coach.DCA.7d
+  - ISTE_EdLeaders_1d
+  - ATD.Pers.CE
+  - Educational Technologies
+  - InTASC_9f
+  - Educational Technologies
+  - ISTE_EdLeaders_4c
+  - 'WGUSID: 4308'
+occupations:
+  - code: 11-9033
+    targetNodeName: Education Administrators, Postsecondary
+    frameworkName: bls
+  - code: 11-9039
+    targetNodeName: Education Administrators, All Other
+    frameworkName: bls
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-1020
+    targetNodeName: Math and Computer Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1040
+    targetNodeName: Life Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1050
+    targetNodeName: Physical Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1080
+    targetNodeName: Education and Library Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-2020
+    targetNodeName: Elementary and Middle School Teachers
+    frameworkName: bls
+  - code: 25-2030
+    targetNodeName: Secondary School Teachers
+    frameworkName: bls
+  - code: 25-2050
+    targetNodeName: Special Education Teachers
+    frameworkName: bls
+  - code: 25-4020
+    targetNodeName: Librarians and Media Collections Specialists
+    frameworkName: bls
+  - code: 25-4022
+    targetNodeName: Librarians and Media Collections Specialists
+    frameworkName: bls
+  - code: 25-9030
+    targetNodeName: Instructional Coordinators
+    frameworkName: bls
+  - code: 25-9031
+    targetNodeName: Instructional Coordinators
+    frameworkName: bls
+  - code: 25-9090
+    targetNodeName: Miscellaneous Educational Instruction and Library Workers
+    frameworkName: bls

@@ -1,0 +1,46 @@
+id: https://osmt.wgu.edu/api/skills/ad65da7c-e85b-4192-a9e4-275bf5da7020
+uuid: ad65da7c-e85b-4192-a9e4-275bf5da7020
+status: published
+publishDate: '2022-02-04T21:16:00.547849'
+archiveDate: null
+skillName: Adapt Teaching Method
+skillStatement: Adapt the method of teaching depending on the audience and situation.
+category: Mental Agility
+keywords:
+  - InTASC_3a
+  - InTASC_3i
+  - InTASC_3n
+  - InTASC_4g
+  - InTASC_8n
+  - InTASC_3b
+  - InTASC_3e
+  - InTASC_3f
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_5d
+  - InTASC_6o
+  - InTASC_6s
+  - ISTE_Educators_6a
+  - ISTE_Educators_6b
+  - ISTE_Educators_6c
+  - ISTE_Educators_6d
+  - InTASC_3c
+  - Problem Solving
+  - Mental Process
+  - ISTE_EdLeaders_3a
+  - ISTE_EdLeaders_3b
+  - AAQEP_1a
+  - Troubleshooting (Problem Solving)
+  - Teaching
+  - Mental Agility
+  - Mental Agility
+  - 'WGUSID: 6889'
+occupations:
+  - code: 11-3130
+    targetNodeName: Training and Development Managers
+    frameworkName: bls
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: '449919'

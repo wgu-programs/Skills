@@ -1,0 +1,65 @@
+id: https://osmt.wgu.edu/api/skills/32fd5f98-631a-4e31-9639-cb428a038d9c
+uuid: 32fd5f98-631a-4e31-9639-cb428a038d9c
+status: published
+publishDate: '2022-02-02T14:19:25.157914'
+archiveDate: null
+skillName: Content Instruction and Assessment Application
+skillStatement: >-
+  Apply new methods of instruction and assessment relevant to one's content
+  area.
+category: Active Learning
+keywords:
+  - ISTE_Educators_7c
+  - InTASC_3a
+  - InTASC_3g
+  - InTASC_3m
+  - InTASC_4g
+  - InTASC_5i
+  - InTASC_6p
+  - InTASC_8n
+  - ISTE_Educators_7a
+  - ISTE_Educators_7b
+  - AAQEP_1d
+  - ISTE_Educators_1c
+  - ISTE_Educators_2b
+  - ISTE_Educators_5a
+  - ISTE_Educators_5b
+  - ISTE_Educators_5c
+  - ISTE_EdLeaders_2b
+  - AAQEP_1a
+  - ISTE_EdLeaders_2a
+  - ISTE_Educators_1a
+  - Active Learning
+  - InTASC_8h
+  - Active Learning
+  - InTASC_9n
+  - 'WGUSID: 507'
+  - InTASC_8r
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-1010
+    targetNodeName: Business Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1020
+    targetNodeName: Math and Computer Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1040
+    targetNodeName: Life Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1050
+    targetNodeName: Physical Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1060
+    targetNodeName: Social Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1070
+    targetNodeName: Health Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1080
+    targetNodeName: Education and Library Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1120
+    targetNodeName: Arts, Communications, History, and Humanities Teachers, Postsecondary
+    frameworkName: bls

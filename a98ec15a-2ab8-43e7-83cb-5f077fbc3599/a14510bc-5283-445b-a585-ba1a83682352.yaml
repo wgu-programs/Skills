@@ -1,0 +1,33 @@
+id: https://osmt.wgu.edu/api/skills/a14510bc-5283-445b-a585-ba1a83682352
+uuid: a14510bc-5283-445b-a585-ba1a83682352
+status: published
+publishDate: '2022-02-07T21:30:23.880941'
+archiveDate: null
+skillName: Prior Knowledge Lesson Plans Creation
+skillStatement: Create lesson plans that build on prior knowledge.
+category: Lesson Planning
+keywords:
+  - Teaching
+  - Lesson Planning
+  - Learning
+  - Education
+  - InTASC
+  - InTASC_7d
+  - Lesson Planning
+  - UDL_1.3
+  - TC Disposition 1
+  - Healthy Learning Strategies
+  - SL_GL1
+occupations:
+  - code: 11-0000
+    targetNodeName: Management Occupations
+    frameworkName: bls
+  - code: 11-3130
+    targetNodeName: Training and Development Managers
+    frameworkName: bls
+  - code: 11-3131
+    targetNodeName: Training and Development Managers
+    frameworkName: bls
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls

@@ -1,0 +1,46 @@
+id: https://osmt.wgu.edu/api/skills/477cb9a7-c4fd-43c8-bca5-e96c9e9f4cbb
+uuid: 477cb9a7-c4fd-43c8-bca5-e96c9e9f4cbb
+status: published
+publishDate: '2022-02-04T21:15:53.783048'
+archiveDate: null
+skillName: Student Privacy Protection
+skillStatement: Protect students' privacy.
+category: Legal Knowledge
+keywords:
+  - InTASC_3a
+  - InTASC_3i
+  - InTASC_3n
+  - InTASC_4g
+  - InTASC_8n
+  - InTASC_3b
+  - InTASC_3e
+  - InTASC_3f
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_5d
+  - InTASC_6o
+  - InTASC_6s
+  - ISTE_Educators_1c
+  - InTASC_3c
+  - ISTE_EdLeaders_1d
+  - Legal Knowledge
+  - Legal Knowledge
+  - ISTE_EdLeaders_4c
+  - student privacy
+  - 'WGUSID: 2970'
+  - NSQ_Teaching_B5
+occupations:
+  - code: 11-3130
+    targetNodeName: Training and Development Managers
+    frameworkName: bls
+  - code: 11-9033
+    targetNodeName: Education Administrators, Postsecondary
+    frameworkName: bls
+  - code: 11-9039
+    targetNodeName: Education Administrators, All Other
+    frameworkName: bls
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: '449919'

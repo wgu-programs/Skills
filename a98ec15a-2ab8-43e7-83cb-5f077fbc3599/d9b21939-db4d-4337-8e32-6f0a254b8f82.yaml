@@ -1,0 +1,72 @@
+id: https://osmt.wgu.edu/api/skills/d9b21939-db4d-4337-8e32-6f0a254b8f82
+uuid: d9b21939-db4d-4337-8e32-6f0a254b8f82
+status: published
+publishDate: '2022-02-02T14:19:36.9338'
+archiveDate: null
+skillName: Instructor Role Recognition
+skillStatement: >-
+  Recognize the instructor's role while collaborating and supporting others to
+  achieve goals.
+category: Coordinating
+keywords:
+  - AAQEP_1f
+  - InTASC_3a
+  - InTASC_3d
+  - InTASC_3g
+  - InTASC_3i
+  - InTASC_3m
+  - InTASC_3n
+  - InTASC_4g
+  - InTASC_5i
+  - InTASC_6p
+  - InTASC_8n
+  - InTASC_3b
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_3j
+  - Coordinating
+  - Coordinating
+  - ISTE_Educators_2b
+  - ISTE_Educators_2a
+  - AAQEP_1e
+  - ISTE_Educators_2c
+  - ISTE_EdLeaders_5b
+  - 'WGUSID: 5892'
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-1010
+    targetNodeName: Business Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1020
+    targetNodeName: Math and Computer Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1040
+    targetNodeName: Life Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1050
+    targetNodeName: Physical Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1060
+    targetNodeName: Social Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1070
+    targetNodeName: Health Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1080
+    targetNodeName: Education and Library Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1120
+    targetNodeName: Arts, Communications, History, and Humanities Teachers, Postsecondary
+    frameworkName: bls
+  - code: 33-0000
+    targetNodeName: Protective Service Occupations
+    frameworkName: bls
+  - code: 33-3020
+    targetNodeName: Detectives and Criminal Investigators
+    frameworkName: bls
+  - code: 33-3050
+    targetNodeName: Police Officers
+    frameworkName: bls

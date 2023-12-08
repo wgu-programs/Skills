@@ -1,0 +1,70 @@
+id: https://osmt.wgu.edu/api/skills/6a482593-42a9-4f6b-8f81-95eea0c5bb14
+uuid: 6a482593-42a9-4f6b-8f81-95eea0c5bb14
+status: published
+publishDate: '2022-02-02T14:20:24.11003'
+archiveDate: null
+skillName: Instructional Resource Integration
+skillStatement: >-
+  Integrate instructional resources to meet the needs of learners who require
+  accommodation.
+category: Academic Accommodation Plans
+keywords:
+  - ATD.Prof.ID
+  - ATD.Prof.TA
+  - ATD.Prof.TDF
+  - ISTE.Coach.C.3a
+  - ISTE.Coach.CA.1a
+  - ISTE.Coach.CA.1c
+  - ISTE.Coach.CL.2c
+  - ISTE.Coach.PLF.5b
+  - ISTE_Educators_7a
+  - ISTE_Educators_7b
+  - ATD.Prof.LS
+  - ISTE_Educators_5a
+  - ISTE_Educators_5b
+  - ISTE_Educators_5c
+  - ISTE_Educators_6b
+  - ISTE.Coach.LD.4c
+  - ISTE.Coach.PLF.5bAAQEP_1a
+  - ISTE_EdLeaders_3a
+  - ISTE_EdLeaders_3b
+  - ISTE.Coach.C.3b
+  - ATD.Pers.CE
+  - ISTE.Coach.C.3d
+  - ISTE.Coach.CA.1b
+  - AAQEP_1c
+  - AAQEP_2c
+  - AAQEP_2b
+  - ISTE_EdLeaders_3c
+  - Academic Accommodation Plans
+  - Accommodations
+  - InTASC_7b
+  - Academic Accommodation Plans
+  - 'WGUSID: 4526'
+  - InTASC_2f
+  - UDL_1.1
+occupations:
+  - code: 11-9033
+    targetNodeName: Education Administrators, Postsecondary
+    frameworkName: bls
+  - code: 11-9039
+    targetNodeName: Education Administrators, All Other
+    frameworkName: bls
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-4020
+    targetNodeName: Librarians and Media Collections Specialists
+    frameworkName: bls
+  - code: 25-4022
+    targetNodeName: Librarians and Media Collections Specialists
+    frameworkName: bls
+  - code: 25-9030
+    targetNodeName: Instructional Coordinators
+    frameworkName: bls
+  - code: 25-9031
+    targetNodeName: Instructional Coordinators
+    frameworkName: bls
+  - code: 25-9090
+    targetNodeName: Miscellaneous Educational Instruction and Library Workers
+    frameworkName: bls

@@ -1,0 +1,57 @@
+id: https://osmt.wgu.edu/api/skills/2cf30c88-d51e-43bb-ac03-8d7a5287fa41
+uuid: 2cf30c88-d51e-43bb-ac03-8d7a5287fa41
+status: published
+publishDate: '2022-12-02T22:16:42.86323'
+archiveDate: null
+skillName: Applying Knowledge to Understand Problems
+skillStatement: >-
+  Support the application of knowledge from multiple disciplines to understand a
+  problem.
+category: Interdisciplinary Teaching
+keywords:
+  - Interdisciplinary Teaching
+  - InTASC
+  - InTASC_5q
+  - Interdisciplinary Teaching
+occupations:
+  - code: 25-2011.00
+    targetNodeName: Preschool Teachers, Except Special Education
+    frameworkName: o*net
+  - code: 25-2012.00
+    targetNodeName: Kindergarten Teachers, Except Special Education
+    frameworkName: o*net
+  - code: 25-2021.00
+    targetNodeName: Elementary School Teachers, Except Special Education
+    frameworkName: o*net
+  - code: 25-2022.00
+    targetNodeName: Middle School Teachers, Except Special and Career/Technical Education
+    frameworkName: o*net
+  - code: 25-2031.00
+    targetNodeName: Secondary School Teachers, Except Special and Career/Technical Education
+    frameworkName: o*net
+  - code: 25-2051.00
+    targetNodeName: Special Education Teachers, Preschool
+    frameworkName: o*net
+  - code: 25-2055.00
+    targetNodeName: Special Education Teachers, Kindergarten
+    frameworkName: o*net
+  - code: 25-2056.00
+    targetNodeName: Special Education Teachers, Elementary School
+    frameworkName: o*net
+  - code: 25-2057.00
+    targetNodeName: Special Education Teachers, Middle School
+    frameworkName: o*net
+  - code: 25-2058.00
+    targetNodeName: Special Education Teachers, Secondary School
+    frameworkName: o*net
+  - code: 25-2059.00
+    targetNodeName: Special Education Teachers, All Other
+    frameworkName: o*net
+  - code: 25-9042.00
+    targetNodeName: >-
+      Teaching Assistants, Preschool, Elementary, Middle, and Secondary School,
+      Except Special Education
+    frameworkName: o*net
+  - code: 25-9043.00
+    targetNodeName: Teaching Assistants, Special Education
+    frameworkName: o*net

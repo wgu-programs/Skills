@@ -1,0 +1,70 @@
+id: https://osmt.wgu.edu/api/skills/cbf65cb7-d146-499f-b82e-5f311517c91b
+uuid: cbf65cb7-d146-499f-b82e-5f311517c91b
+status: published
+publishDate: '2022-01-31T16:58:56.437949'
+archiveDate: null
+skillName: Application of Ethical Standards for Students' Rights
+skillStatement: >-
+  Apply ethical standards related to students' rights and teacher
+  responsibilities.
+category: Ethical Codes
+keywords:
+  - Professional_Ethics
+  - Doing
+  - Special Education
+  - AAQEP_1f
+  - InTASC_3a
+  - InTASC_3i
+  - InTASC_3n
+  - InTASC_4g
+  - InTASC_8n
+  - InTASC_3b
+  - InTASC_3e
+  - InTASC_3f
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_4f
+  - InTASC_5d
+  - InTASC_6o
+  - ISTE_Educators_1c
+  - ISTE_Educators_5a
+  - ISTE_Educators_5b
+  - ISTE_Educators_5c
+  - ISTE_Educators_6a
+  - ISTE_Educators_6b
+  - ISTE_Educators_6c
+  - ISTE_Educators_6d
+  - ISTE_EdLeaders_3b
+  - Ethical Codes
+  - ISTE_EdLeaders_1d
+  - ISTE_EdLeaders_4a
+  - Ethical Codes
+  - 'WGUSID: 450'
+  - ISTE_EdLeaders_1c
+  - ILA_Teachers_4.3
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-1020
+    targetNodeName: Math and Computer Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1040
+    targetNodeName: Life Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1050
+    targetNodeName: Physical Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1080
+    targetNodeName: Education and Library Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-2020
+    targetNodeName: Elementary and Middle School Teachers
+    frameworkName: bls
+  - code: 25-2030
+    targetNodeName: Secondary School Teachers
+    frameworkName: bls
+  - code: 25-2050
+    targetNodeName: Special Education Teachers
+    frameworkName: bls

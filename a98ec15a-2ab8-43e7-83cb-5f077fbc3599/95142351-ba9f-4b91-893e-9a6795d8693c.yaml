@@ -1,0 +1,83 @@
+id: https://osmt.wgu.edu/api/skills/95142351-ba9f-4b91-893e-9a6795d8693c
+uuid: 95142351-ba9f-4b91-893e-9a6795d8693c
+status: published
+publishDate: '2022-01-25T16:37:16.509738'
+archiveDate: null
+skillName: Productive Student Behavior Reinforcement
+skillStatement: Reinforce productive student behavior in the learning environment.
+category: Disciplinary Procedures
+keywords:
+  - Special Education
+  - InTASC_3a
+  - InTASC_3i
+  - InTASC_3m
+  - InTASC_3n
+  - InTASC_4g
+  - InTASC_6p
+  - InTASC_8n
+  - ISTE.Coach.C.3a
+  - ISTE.Coach.CA.1a
+  - ISTE.Coach.CA.1c
+  - ISTE.Coach.CL.2c
+  - ISTE.Coach.PLF.5b
+  - InTASC_3b
+  - InTASC_3e
+  - InTASC_3f
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_4f
+  - InTASC_5d
+  - CEC_2.1
+  - UETS_3
+  - ISTE_Educators_1c
+  - ISTE_Educators_3a
+  - ISTE_Educators_3b
+  - ISTE.Coach.PLF.5bAAQEP_1a
+  - ISTE_EdLeaders_1d
+  - CEC_1.3
+  - CEC_6.2
+  - CEC_7.1
+  - Disciplinary Procedures
+  - Disciplinary Procedures
+  - 'WGUSID: 3044.2'
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-1020
+    targetNodeName: Math and Computer Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1040
+    targetNodeName: Life Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1050
+    targetNodeName: Physical Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1080
+    targetNodeName: Education and Library Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-2020
+    targetNodeName: Elementary and Middle School Teachers
+    frameworkName: bls
+  - code: 25-2030
+    targetNodeName: Secondary School Teachers
+    frameworkName: bls
+  - code: 25-2050
+    targetNodeName: Special Education Teachers
+    frameworkName: bls
+  - code: 25-4020
+    targetNodeName: Librarians and Media Collections Specialists
+    frameworkName: bls
+  - code: 25-4022
+    targetNodeName: Librarians and Media Collections Specialists
+    frameworkName: bls
+  - code: 25-9030
+    targetNodeName: Instructional Coordinators
+    frameworkName: bls
+  - code: 25-9031
+    targetNodeName: Instructional Coordinators
+    frameworkName: bls
+  - code: 25-9090
+    targetNodeName: Miscellaneous Educational Instruction and Library Workers
+    frameworkName: bls

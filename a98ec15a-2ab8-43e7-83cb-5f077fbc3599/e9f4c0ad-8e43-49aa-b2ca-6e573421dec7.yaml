@@ -1,0 +1,94 @@
+id: https://osmt.wgu.edu/api/skills/e9f4c0ad-8e43-49aa-b2ca-6e573421dec7
+uuid: e9f4c0ad-8e43-49aa-b2ca-6e573421dec7
+status: published
+publishDate: '2022-01-31T17:01:40.904456'
+archiveDate: null
+skillName: Available Resources Selection
+skillStatement: Select available resources to support learning.
+category: Evidence-Based Practice
+keywords:
+  - InTASC_3a
+  - InTASC_3i
+  - InTASC_3n
+  - InTASC_4g
+  - InTASC_8n
+  - ATD.Prof.ID
+  - ATD.Prof.TDF
+  - ISTE.Coach.C.3a
+  - ISTE.Coach.CA.1a
+  - ISTE.Coach.CA.1c
+  - ISTE.Coach.CL.2c
+  - ISTE.Coach.PLF.5b
+  - InTASC_3b
+  - InTASC_3e
+  - InTASC_3f
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_4f
+  - InTASC_5d
+  - ATD.Pers.CL
+  - ATD.Org.CBP
+  - ISTE.Coach.PLF.5a
+  - InTASC_6o
+  - Evidence-Based Practice
+  - Evidence-Based Practice
+  - ISTE_Educators_1c
+  - ISTE_Educators_5a
+  - ISTE_Educators_5b
+  - ISTE_Educators_5c
+  - ISTE_Educators_6a
+  - ISTE_Educators_6b
+  - ISTE_Educators_6c
+  - ISTE_Educators_6d
+  - ISTE.Coach.C.3b
+  - ISTE.Coach.CA.1b
+  - ISTE.Coach.PLF.5bAAQEP_1d
+  - ISTE_EdLeaders_1b
+  - 'WGUSID: 966'
+occupations:
+  - code: 19-0000
+    targetNodeName: Life, Physical, and Social Science Occupations
+    frameworkName: bls
+  - code: 19-4090
+    targetNodeName: Miscellaneous Life, Physical, and Social Science Technicians
+    frameworkName: bls
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-1020
+    targetNodeName: Math and Computer Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1040
+    targetNodeName: Life Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1050
+    targetNodeName: Physical Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1080
+    targetNodeName: Education and Library Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-2020
+    targetNodeName: Elementary and Middle School Teachers
+    frameworkName: bls
+  - code: 25-2030
+    targetNodeName: Secondary School Teachers
+    frameworkName: bls
+  - code: 25-2050
+    targetNodeName: Special Education Teachers
+    frameworkName: bls
+  - code: 25-4020
+    targetNodeName: Librarians and Media Collections Specialists
+    frameworkName: bls
+  - code: 25-4022
+    targetNodeName: Librarians and Media Collections Specialists
+    frameworkName: bls
+  - code: 25-9030
+    targetNodeName: Instructional Coordinators
+    frameworkName: bls
+  - code: 25-9031
+    targetNodeName: Instructional Coordinators
+    frameworkName: bls
+  - code: 25-9090
+    targetNodeName: Miscellaneous Educational Instruction and Library Workers
+    frameworkName: bls

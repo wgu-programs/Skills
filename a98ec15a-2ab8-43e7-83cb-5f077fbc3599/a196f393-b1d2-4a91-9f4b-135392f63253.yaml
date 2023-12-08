@@ -1,0 +1,56 @@
+id: https://osmt.wgu.edu/api/skills/a196f393-b1d2-4a91-9f4b-135392f63253
+uuid: a196f393-b1d2-4a91-9f4b-135392f63253
+status: published
+publishDate: '2022-02-10T20:19:00.930494'
+archiveDate: null
+skillName: Plan Instructional Time
+skillStatement: Plan for instructional time.
+category: Time Management
+keywords:
+  - AAQEP_1f
+  - ISTE_Educators_7c
+  - ISTE_Educators_7a
+  - ISTE_Educators_7b
+  - InTASC_3l
+  - ISTE_Educators_5a
+  - ISTE_Educators_5b
+  - ISTE_Educators_5c
+  - ISTE_EdLeaders_3a
+  - Time Management
+  - Time Management
+  - instruction
+  - 'WGUSID: 5488'
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-1010
+    targetNodeName: Business Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1020
+    targetNodeName: Math and Computer Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1040
+    targetNodeName: Life Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1050
+    targetNodeName: Physical Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1060
+    targetNodeName: Social Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1070
+    targetNodeName: Health Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1080
+    targetNodeName: Education and Library Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1120
+    targetNodeName: Arts, Communications, History, and Humanities Teachers, Postsecondary
+    frameworkName: bls
+  - code: 33-0000
+    targetNodeName: Protective Service Occupations
+    frameworkName: bls
+  - code: 33-3020
+    targetNodeName: Detectives and Criminal Investigators
+    frameworkName: bls

@@ -1,0 +1,78 @@
+id: https://osmt.wgu.edu/api/skills/ace77994-14b0-420c-83fb-f751e9ed5bbe
+uuid: ace77994-14b0-420c-83fb-f751e9ed5bbe
+status: published
+publishDate: '2022-01-31T17:00:22.974568'
+archiveDate: null
+skillName: Achievement Measurement Assessments Development
+skillStatement: Develop assessments to measure student achievement of the learning outcomes.
+category: Instructional Design
+keywords:
+  - ISTE_Educators_4d
+  - ISTE_Educators_7c
+  - InTASC_3a
+  - InTASC_3i
+  - InTASC_3n
+  - InTASC_4g
+  - InTASC_8n
+  - ISTE.Coach.C.3a
+  - ISTE.Coach.CA.1a
+  - ISTE.Coach.CA.1c
+  - ISTE.Coach.CL.2c
+  - ISTE.Coach.DDM.6a
+  - ISTE.Coach.DDM.6b
+  - ISTE.Coach.LD.4a
+  - ISTE.Coach.LD.4b
+  - ISTE.Coach.LD.4d
+  - ISTE.Coach.PLF.5b
+  - ISTE_Educators_7a
+  - ISTE_Educators_7b
+  - InTASC_3b
+  - InTASC_3e
+  - InTASC_3f
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_4f
+  - InTASC_5d
+  - ISTE.Coach.PLF.5c
+  - ISTE.Coach.DDM.6c
+  - ISTE.Coach.CL.2a
+  - ISTE.Coach.CL.2b
+  - ISTE.Coach.PLF.5a
+  - InTASC_6o
+  - ISTE_Educators_3a
+  - ISTE_Educators_3b
+  - ISTE_Educators_5a
+  - ISTE_Educators_5c
+  - ISTE_Educators_6a
+  - ISTE_Educators_6b
+  - ISTE_Educators_6c
+  - ISTE_Educators_6d
+  - InTASC_3c
+  - ISTE_Educators_4b
+  - ISTE_EdLeaders_3e
+  - Instructional Design
+  - Instructional Design Process
+  - ISTE.Coach.PLF.5cISTE_Educators_1c
+  - Instructional Design
+  - InTASC_6r
+  - 'WGUSID: 2450'
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-4020
+    targetNodeName: Librarians and Media Collections Specialists
+    frameworkName: bls
+  - code: 25-4022
+    targetNodeName: Librarians and Media Collections Specialists
+    frameworkName: bls
+  - code: 25-9030
+    targetNodeName: Instructional Coordinators
+    frameworkName: bls
+  - code: 25-9031
+    targetNodeName: Instructional Coordinators
+    frameworkName: bls
+  - code: 25-9090
+    targetNodeName: Miscellaneous Educational Instruction and Library Workers
+    frameworkName: bls

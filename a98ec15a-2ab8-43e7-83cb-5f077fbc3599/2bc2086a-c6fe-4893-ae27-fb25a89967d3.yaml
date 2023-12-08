@@ -1,0 +1,102 @@
+id: https://osmt.wgu.edu/api/skills/2bc2086a-c6fe-4893-ae27-fb25a89967d3
+uuid: 2bc2086a-c6fe-4893-ae27-fb25a89967d3
+status: published
+publishDate: '2022-01-25T16:37:18.060616'
+archiveDate: null
+skillName: Learner Feedback Assessment Analysis
+skillStatement: Analyze assessment data to provide feedback to all learners.
+category: Educational Evaluation
+keywords:
+  - Special Education
+  - ISTE_Educators_7c
+  - InTASC_3a
+  - InTASC_3i
+  - InTASC_3m
+  - InTASC_3n
+  - InTASC_4g
+  - InTASC_6p
+  - InTASC_8n
+  - ISTE_EdLeaders_2c
+  - Educational Evaluation
+  - ATD.Prof.EI
+  - ATD.Prof.ID
+  - ATD.Prof.TA
+  - ATD.Prof.TDF
+  - ISTE.Coach.C.3a
+  - ISTE.Coach.CA.1a
+  - ISTE.Coach.CA.1c
+  - ISTE.Coach.CL.2c
+  - ISTE.Coach.DDM.6a
+  - ISTE.Coach.DDM.6b
+  - ISTE.Coach.LD.4b
+  - ISTE.Coach.PLF.5b
+  - ISTE.Coach.PLF.5cAAQEP_1d
+  - ISTE_Educators_7a
+  - ISTE_Educators_7b
+  - InTASC_3b
+  - InTASC_3e
+  - InTASC_3f
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_4f
+  - InTASC_5d
+  - InTASC_6g
+  - InTASC_6l
+  - ISTE.Coach.PLF.5c
+  - Educational Evaluation
+  - 'WGUSID: 202'
+  - ATD.Org.ODC
+  - ATD.Prof.LS
+  - ISTE.Coach.DDM.6c
+  - CEC_1.1
+  - CEC_2.1
+  - CEC_2.3
+  - CEC_3.2
+  - CEC_4.3
+  - CEC_5.6
+  - CEC_6.3
+  - UETS_3
+  - NGT
+  - K-12 Teacher
+  - ILA_Teachers_3.3
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-1020
+    targetNodeName: Math and Computer Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1040
+    targetNodeName: Life Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1050
+    targetNodeName: Physical Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1080
+    targetNodeName: Education and Library Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-2020
+    targetNodeName: Elementary and Middle School Teachers
+    frameworkName: bls
+  - code: 25-2030
+    targetNodeName: Secondary School Teachers
+    frameworkName: bls
+  - code: 25-2050
+    targetNodeName: Special Education Teachers
+    frameworkName: bls
+  - code: 25-4020
+    targetNodeName: Librarians and Media Collections Specialists
+    frameworkName: bls
+  - code: 25-4022
+    targetNodeName: Librarians and Media Collections Specialists
+    frameworkName: bls
+  - code: 25-9030
+    targetNodeName: Instructional Coordinators
+    frameworkName: bls
+  - code: 25-9031
+    targetNodeName: Instructional Coordinators
+    frameworkName: bls
+  - code: 25-9090
+    targetNodeName: Miscellaneous Educational Instruction and Library Workers
+    frameworkName: bls

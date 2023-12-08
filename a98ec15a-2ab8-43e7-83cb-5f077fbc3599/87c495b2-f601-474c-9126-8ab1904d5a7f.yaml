@@ -1,0 +1,87 @@
+id: https://osmt.wgu.edu/api/skills/87c495b2-f601-474c-9126-8ab1904d5a7f
+uuid: 87c495b2-f601-474c-9126-8ab1904d5a7f
+status: published
+publishDate: '2022-01-25T16:37:17.49501'
+archiveDate: null
+skillName: Knowledge Demonstration Assessment Design
+skillStatement: >-
+  Design assessments that provide opportunities for students to demonstrate
+  knowledge through a variety of products and performances.
+category: Educational Evaluation
+keywords:
+  - Special Education
+  - InTASC_3a
+  - InTASC_3i
+  - InTASC_3m
+  - InTASC_3n
+  - InTASC_4g
+  - InTASC_8n
+  - Educational Evaluation
+  - ISTE.Coach.C.3a
+  - ISTE.Coach.CA.1a
+  - ISTE.Coach.CA.1c
+  - ISTE.Coach.CL.2c
+  - ISTE.Coach.LD.4a
+  - ISTE.Coach.LD.4b
+  - ISTE.Coach.LD.4d
+  - ISTE.Coach.PLF.5b
+  - InTASC_3b
+  - InTASC_3e
+  - InTASC_3f
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_4f
+  - InTASC_5d
+  - Educational Evaluation
+  - ISTE.Coach.PLF.5a
+  - InTASC_6o
+  - ISTE_Educators_1c
+  - ISTE_Educators_5a
+  - ISTE_Educators_5b
+  - ISTE_Educators_5c
+  - ISTE.Coach.PLF.5bAAQEP_1d
+  - ISTE_EdLeaders_3e
+  - 'WGUSID: 2101'
+  - NGT
+  - K-12 Teacher
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-1020
+    targetNodeName: Math and Computer Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1040
+    targetNodeName: Life Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1050
+    targetNodeName: Physical Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1080
+    targetNodeName: Education and Library Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-2020
+    targetNodeName: Elementary and Middle School Teachers
+    frameworkName: bls
+  - code: 25-2030
+    targetNodeName: Secondary School Teachers
+    frameworkName: bls
+  - code: 25-2050
+    targetNodeName: Special Education Teachers
+    frameworkName: bls
+  - code: 25-4020
+    targetNodeName: Librarians and Media Collections Specialists
+    frameworkName: bls
+  - code: 25-4022
+    targetNodeName: Librarians and Media Collections Specialists
+    frameworkName: bls
+  - code: 25-9030
+    targetNodeName: Instructional Coordinators
+    frameworkName: bls
+  - code: 25-9031
+    targetNodeName: Instructional Coordinators
+    frameworkName: bls
+  - code: 25-9090
+    targetNodeName: Miscellaneous Educational Instruction and Library Workers
+    frameworkName: bls

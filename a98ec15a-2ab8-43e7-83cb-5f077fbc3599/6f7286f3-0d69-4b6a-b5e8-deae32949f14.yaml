@@ -1,0 +1,46 @@
+id: https://osmt.wgu.edu/api/skills/6f7286f3-0d69-4b6a-b5e8-deae32949f14
+uuid: 6f7286f3-0d69-4b6a-b5e8-deae32949f14
+status: published
+publishDate: '2022-02-04T01:09:36.791196'
+archiveDate: null
+skillName: Expectations and Classroom Rules Development
+skillStatement: >-
+  Develop expectations and classroom rules with students to establish positive
+  social norms for the classroom.
+category: Instruction Delivery
+keywords:
+  - ISTE_Educators_4d
+  - InTASC_3a
+  - InTASC_3i
+  - InTASC_3n
+  - InTASC_4g
+  - InTASC_8n
+  - InTASC_3b
+  - InTASC_3e
+  - InTASC_3f
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_4f
+  - InTASC_5d
+  - Certifications
+  - InTASC_6o
+  - ISTE_Educators_1c
+  - ISTE_Educators_2b
+  - ISTE_Educators_3a
+  - ISTE_Educators_3b
+  - InTASC_3c
+  - ISTE_EdLeaders_3a
+  - ISTE_EdLeaders_3b
+  - ISTE_Educators_4a
+  - ISTE_Educators_4b
+  - ISTE_Educators_4c
+  - AAQEP_1a
+  - Instruction Delivery
+  - Instruction Delivery
+  - 'SEL: Instructional Techniques'
+  - 'WGUSID: 2606'
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls

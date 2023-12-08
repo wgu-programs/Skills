@@ -1,0 +1,47 @@
+id: https://osmt.wgu.edu/api/skills/7dd8b043-51ed-41ec-b17b-6070c070c79a
+uuid: 7dd8b043-51ed-41ec-b17b-6070c070c79a
+status: published
+publishDate: '2022-02-08T00:32:35.982045'
+archiveDate: null
+skillName: Short-Range Plans Revision
+skillStatement: Revise short-range plans based on student achievement.
+category: Planning
+keywords:
+  - ISTE_Educators_7c
+  - InTASC_3a
+  - InTASC_3i
+  - InTASC_3n
+  - InTASC_4g
+  - InTASC_8n
+  - ISTE_EdLeaders_2c
+  - ISTE_Educators_7a
+  - ISTE_Educators_7b
+  - InTASC_3b
+  - InTASC_3e
+  - InTASC_3f
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_5d
+  - InTASC_6o
+  - InTASC_6s
+  - AAQEP_1d
+  - InTASC_3c
+  - Planning
+  - Planning Tools
+  - Planning
+  - student achievement
+  - 'WGUSID: 3090'
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-2010
+    targetNodeName: Preschool and Kindergarten Teachers
+    frameworkName: bls
+  - code: 25-2020
+    targetNodeName: Elementary and Middle School Teachers
+    frameworkName: bls
+  - code: 25-2030
+    targetNodeName: Secondary School Teachers
+    frameworkName: bls

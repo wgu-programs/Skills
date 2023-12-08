@@ -1,0 +1,57 @@
+id: https://osmt.wgu.edu/api/skills/e290a37e-af48-446f-81e2-ce497a0edf53
+uuid: e290a37e-af48-446f-81e2-ce497a0edf53
+status: published
+publishDate: '2022-01-25T16:54:06.944631'
+archiveDate: null
+skillName: Math Lesson Plans Creation
+skillStatement: Create math lesson plans based on state standards.
+category: Mathematics
+keywords:
+  - Special Education
+  - InTASC_3a
+  - InTASC_3i
+  - InTASC_3n
+  - InTASC_4g
+  - InTASC_8n
+  - ISTE.Coach.C.3a
+  - ISTE.Coach.CA.1a
+  - ISTE.Coach.CA.1c
+  - ISTE.Coach.CL.2c
+  - ISTE.Coach.LD.4a
+  - ISTE.Coach.LD.4d
+  - ISTE.Coach.PLF.5b
+  - InTASC_3b
+  - InTASC_3e
+  - InTASC_3f
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_5d
+  - InTASC_6o
+  - InTASC_6s
+  - CEC_5.3
+  - UETS_7
+  - ISTE_Educators_1c
+  - ISTE_Educators_5a
+  - ISTE_Educators_5b
+  - ISTE_Educators_5c
+  - InTASC_3c
+  - ISTE.Coach.PLF.5bAAQEP_1a
+  - ISTE_EdLeaders_3a
+  - ISTE_EdLeaders_3b
+  - CEC_5.2
+  - Mathematics
+  - 'WGUSID: 1644'
+  - AAQEP_3a
+  - UETS_6
+  - Mathematics
+occupations:
+  - code: 11-3130
+    targetNodeName: Training and Development Managers
+    frameworkName: bls
+  - code: 11-3131
+    targetNodeName: Training and Development Managers
+    frameworkName: bls
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls

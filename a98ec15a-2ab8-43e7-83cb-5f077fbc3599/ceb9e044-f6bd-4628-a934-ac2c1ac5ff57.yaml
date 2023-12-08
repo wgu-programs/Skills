@@ -1,0 +1,57 @@
+id: https://osmt.wgu.edu/api/skills/ceb9e044-f6bd-4628-a934-ac2c1ac5ff57
+uuid: ceb9e044-f6bd-4628-a934-ac2c1ac5ff57
+status: published
+publishDate: '2022-01-31T16:59:14.932366'
+archiveDate: null
+skillName: Information Collection Process Demonstration
+skillStatement: >-
+  Demonstrate the process of collecting information to solve problems related to
+  work as an educator.
+category: Research
+keywords:
+  - AAQEP_1f
+  - InTASC_3a
+  - InTASC_3i
+  - InTASC_4g
+  - InTASC_8n
+  - ISTE_EdLeaders_2c
+  - InTASC_3b
+  - InTASC_3e
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_5d
+  - InTASC_6o
+  - InTASC_6s
+  - ISTE_Educators_1c
+  - ISTE_EdLeaders_3a
+  - ISTE_Educators_1b
+  - Research
+  - Basic Research
+  - Action Research
+  - Applied Research
+  - Clinical Research
+  - Educational Research
+  - Research And Development
+  - Research Design
+  - Research Experiences
+  - Research Methodologies
+  - Research Reports
+  - Research
+  - 'WGUSID: 1957'
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-2010
+    targetNodeName: Preschool and Kindergarten Teachers
+    frameworkName: bls
+  - code: 25-2020
+    targetNodeName: Elementary and Middle School Teachers
+    frameworkName: bls
+  - code: 25-2030
+    targetNodeName: Secondary School Teachers
+    frameworkName: bls
+  - code: 33-0000
+    targetNodeName: Protective Service Occupations
+    frameworkName: bls

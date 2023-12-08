@@ -1,0 +1,56 @@
+id: https://osmt.wgu.edu/api/skills/734c19d9-a900-4611-bef1-d3a6d6e07551
+uuid: 734c19d9-a900-4611-bef1-d3a6d6e07551
+status: published
+publishDate: '2022-01-31T16:58:41.585488'
+archiveDate: null
+skillName: Learning Style Lesson Creation
+skillStatement: Create lessons that meet student learning styles.
+category: Academic Accommodation Plans
+keywords:
+  - ISTE_Educators_4d
+  - ISTE_Educators_7c
+  - ISTE_Educators_7a
+  - ISTE_Educators_7b
+  - ISTE_Educators_1c
+  - ISTE_Educators_2b
+  - ISTE_Educators_3a
+  - ISTE_Educators_3b
+  - ISTE_Educators_5a
+  - ISTE_Educators_5b
+  - ISTE_Educators_5c
+  - ISTE_Educators_6a
+  - ISTE_Educators_6b
+  - ISTE_Educators_6c
+  - ISTE_Educators_6d
+  - AAQEP_1b
+  - ISTE_EdLeaders_3a
+  - ISTE_EdLeaders_3b
+  - AAQEP_1c
+  - ISTE_EdLeaders_3d
+  - ISTE_Educators_4a
+  - ISTE_Educators_4b
+  - ISTE_Educators_4c
+  - AAQEP_1a
+  - InTASC_2a
+  - AAQEP_2c
+  - AAQEP_2b
+  - ISTE_Educators_3d
+  - ISTE_Educators_3c
+  - Academic Accommodation Plans
+  - Accommodations
+  - InTASC_7b
+  - Academic Accommodation Plans
+  - 'WGUSID: 1637'
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-2010
+    targetNodeName: Preschool and Kindergarten Teachers
+    frameworkName: bls
+  - code: 25-2020
+    targetNodeName: Elementary and Middle School Teachers
+    frameworkName: bls
+  - code: 25-2030
+    targetNodeName: Secondary School Teachers
+    frameworkName: bls

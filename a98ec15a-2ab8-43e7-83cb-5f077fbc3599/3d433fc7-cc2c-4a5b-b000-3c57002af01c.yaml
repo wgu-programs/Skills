@@ -1,0 +1,58 @@
+id: https://osmt.wgu.edu/api/skills/3d433fc7-cc2c-4a5b-b000-3c57002af01c
+uuid: 3d433fc7-cc2c-4a5b-b000-3c57002af01c
+status: published
+publishDate: '2022-02-08T00:32:38.455751'
+archiveDate: null
+skillName: Information Format Provision
+skillStatement: Provide information to students in an engaging format.
+category: Presentations
+keywords:
+  - ISTE_Educators_4d
+  - InTASC_3a
+  - InTASC_3i
+  - InTASC_4g
+  - InTASC_8n
+  - InTASC_3b
+  - InTASC_3e
+  - InTASC_3f
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_5d
+  - InTASC_3q
+  - InTASC_6o
+  - InTASC_6s
+  - ISTE_Educators_1c
+  - ISTE_EdLeaders_3a
+  - ISTE_EdLeaders_3b
+  - AAQEP_1a
+  - Presentations
+  - Prezi
+  - Microsoft PowerPoint
+  - Presentation Design
+  - Presentations
+  - engagement
+  - Google Slides
+  - 'WGUSID: 1860'
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-2010
+    targetNodeName: Preschool and Kindergarten Teachers
+    frameworkName: bls
+  - code: 25-2020
+    targetNodeName: Elementary and Middle School Teachers
+    frameworkName: bls
+  - code: 25-2030
+    targetNodeName: Secondary School Teachers
+    frameworkName: bls
+  - code: 33-0000
+    targetNodeName: Protective Service Occupations
+    frameworkName: bls
+  - code: 33-3020
+    targetNodeName: Detectives and Criminal Investigators
+    frameworkName: bls
+  - code: 33-3050
+    targetNodeName: Police Officers
+    frameworkName: bls

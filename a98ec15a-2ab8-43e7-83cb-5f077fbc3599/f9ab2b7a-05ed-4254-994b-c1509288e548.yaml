@@ -1,0 +1,55 @@
+id: https://osmt.wgu.edu/api/skills/f9ab2b7a-05ed-4254-994b-c1509288e548
+uuid: f9ab2b7a-05ed-4254-994b-c1509288e548
+status: published
+publishDate: '2022-02-11T20:43:10.140088'
+archiveDate: null
+skillName: Educational Needs Identification
+skillStatement: Identify the educational needs of others.
+category: Training And Development
+keywords:
+  - ISTE_EdLeaders_2c
+  - ATD.Prof.EI
+  - ATD.Prof.ID
+  - ATD.Prof.TDF
+  - ISTE.Coach.C.3a
+  - ISTE.Coach.CA.1a
+  - ISTE.Coach.CA.1c
+  - ISTE.Coach.CL.2c
+  - InTASC_3l
+  - ISTE.Coach.PLF.5c
+  - ATD.Prof.LS
+  - ISTE.Coach.DDM.6c
+  - ATD.Pers.CL
+  - ISTE.Coach.PLF.5a
+  - ISTE.Coach.PLF.5cAAQEP_1a
+  - ISTE_Educators_4a
+  - Training and Development
+  - ISTE_Educators_2a
+  - Training And Development
+  - Education
+  - 'WGUSID: 3738'
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-4020
+    targetNodeName: Librarians and Media Collections Specialists
+    frameworkName: bls
+  - code: 25-4022
+    targetNodeName: Librarians and Media Collections Specialists
+    frameworkName: bls
+  - code: 25-9030
+    targetNodeName: Instructional Coordinators
+    frameworkName: bls
+  - code: 25-9031
+    targetNodeName: Instructional Coordinators
+    frameworkName: bls
+  - code: 33-0000
+    targetNodeName: Protective Service Occupations
+    frameworkName: bls
+  - code: 33-1010
+    targetNodeName: First-Line Supervisors of Law Enforcement Workers
+    frameworkName: bls
+  - code: 33-3020
+    targetNodeName: Detectives and Criminal Investigators
+    frameworkName: bls

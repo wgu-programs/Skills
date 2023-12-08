@@ -1,0 +1,70 @@
+id: https://osmt.wgu.edu/api/skills/1824b89c-d425-4b91-8d11-399d41eb4a55
+uuid: 1824b89c-d425-4b91-8d11-399d41eb4a55
+status: published
+publishDate: '2022-01-31T16:59:22.580726'
+archiveDate: null
+skillName: Questions for Understanding
+skillStatement: Ask questions to understand points being made.
+category: Active Listening
+keywords:
+  - Character
+  - 21st_Century_Skills
+  - AAQEP_1f
+  - InTASC_3a
+  - InTASC_3g
+  - InTASC_3i
+  - InTASC_3m
+  - InTASC_4g
+  - InTASC_5i
+  - InTASC_6p
+  - InTASC_8n
+  - ISTE_Educators_6a
+  - ISTE_Educators_6b
+  - ISTE_Educators_6c
+  - ISTE_Educators_6d
+  - ISTE_Educators_4b
+  - AAQEP_2a
+  - AAQEP_2c
+  - ISTE_EdLeaders_2a
+  - AAQEP_1e
+  - Active Listening
+  - Active Listening
+  - InTASC_8h
+  - 'WGUSID: 637'
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-1010
+    targetNodeName: Business Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1020
+    targetNodeName: Math and Computer Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1040
+    targetNodeName: Life Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1050
+    targetNodeName: Physical Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1060
+    targetNodeName: Social Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1070
+    targetNodeName: Health Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1080
+    targetNodeName: Education and Library Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1120
+    targetNodeName: Arts, Communications, History, and Humanities Teachers, Postsecondary
+    frameworkName: bls
+  - code: 33-0000
+    targetNodeName: Protective Service Occupations
+    frameworkName: bls
+  - code: 33-1010
+    targetNodeName: First-Line Supervisors of Law Enforcement Workers
+    frameworkName: bls
+  - code: 33-3010
+    targetNodeName: Bailiffs, Correctional Officers, and Jailers
+    frameworkName: bls

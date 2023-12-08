@@ -1,0 +1,42 @@
+id: https://osmt.wgu.edu/api/skills/b2c71409-7586-4a5e-b700-90ec33c4050b
+uuid: b2c71409-7586-4a5e-b700-90ec33c4050b
+status: published
+publishDate: '2022-02-09T23:22:49.581517'
+archiveDate: null
+skillName: Teacher Biases Articulation
+skillStatement: >-
+  Articulate how teachers' inferences about students can create biases that
+  affect student learning.
+category: Social Perceptiveness
+keywords:
+  - Social Perceptiveness
+  - Social Perception
+  - Social Perceptiveness
+  - ISTE_Educators_4d
+  - InTASC_3i
+  - ISTE_EdLeaders_2c
+  - InTASC_3b
+  - InTASC_3e
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_5d
+  - InTASC_6o
+  - ISTE_Educators_2b
+  - AAQEP_1c
+  - ISTE_Educators_4c
+  - InTASC_6d
+  - AAQEP_2b
+  - ISTE_Educators_2a
+  - Learning
+  - biases
+  - students
+  - teachers
+  - inferences
+  - 'WGUSID: 611'
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-2050
+    targetNodeName: Special Education Teachers
+    frameworkName: bls

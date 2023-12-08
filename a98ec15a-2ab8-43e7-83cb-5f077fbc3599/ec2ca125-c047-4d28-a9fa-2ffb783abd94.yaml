@@ -1,0 +1,61 @@
+id: https://osmt.wgu.edu/api/skills/ec2ca125-c047-4d28-a9fa-2ffb783abd94
+uuid: ec2ca125-c047-4d28-a9fa-2ffb783abd94
+status: published
+publishDate: '2022-02-02T14:20:19.75125'
+archiveDate: null
+skillName: Assessment Implementation
+skillStatement: Implement formative and summative assessments throughout curriculum.
+category: Course Evaluations
+keywords:
+  - ISTE_Educators_7c
+  - InTASC_3a
+  - InTASC_3d
+  - InTASC_3g
+  - InTASC_3i
+  - InTASC_3m
+  - InTASC_3n
+  - InTASC_4g
+  - InTASC_5i
+  - InTASC_6p
+  - InTASC_8n
+  - ISTE_Educators_7a
+  - ISTE_Educators_7b
+  - InTASC_3b
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_3j
+  - AAQEP_1d
+  - AAQEP_1a
+  - ISTE_EdLeaders_3e
+  - Course Evaluations
+  - Course Evaluations
+  - 'WGUSID: 4188'
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-1010
+    targetNodeName: Business Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1020
+    targetNodeName: Math and Computer Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1040
+    targetNodeName: Life Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1050
+    targetNodeName: Physical Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1060
+    targetNodeName: Social Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1070
+    targetNodeName: Health Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1080
+    targetNodeName: Education and Library Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1120
+    targetNodeName: Arts, Communications, History, and Humanities Teachers, Postsecondary
+    frameworkName: bls

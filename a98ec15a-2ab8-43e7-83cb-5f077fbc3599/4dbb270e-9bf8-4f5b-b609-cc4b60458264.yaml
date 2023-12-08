@@ -1,0 +1,57 @@
+id: https://osmt.wgu.edu/api/skills/4dbb270e-9bf8-4f5b-b609-cc4b60458264
+uuid: 4dbb270e-9bf8-4f5b-b609-cc4b60458264
+status: published
+publishDate: '2022-02-04T21:15:52.500992'
+archiveDate: null
+skillName: Skill Gap Needs Assessment
+skillStatement: Conduct a needs assessment to determine the gap in knowledge or skill.
+category: Needs Analysis
+keywords:
+  - ISTE_Educators_7c
+  - InTASC_3a
+  - InTASC_3i
+  - InTASC_3n
+  - InTASC_4g
+  - InTASC_8n
+  - ISTE_EdLeaders_2c
+  - ATD.Prof.EI
+  - ATD.Prof.ID
+  - ATD.Prof.TDF
+  - ISTE.Coach.C.3a
+  - ISTE.Coach.CA.1a
+  - ISTE.Coach.CA.1c
+  - ISTE.Coach.CL.2c
+  - ISTE.Coach.LD.4b
+  - ISTE_Educators_7a
+  - ISTE_Educators_7b
+  - InTASC_3b
+  - InTASC_3e
+  - InTASC_3f
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_5d
+  - ATD.Org.ODC
+  - ATD.Prof.LS
+  - ATD.Pers.CL
+  - ATD.Pers.PM
+  - ATD.Org.CBP
+  - ISTE.Coach.PLF.5a
+  - InTASC_6o
+  - InTASC_6s
+  - InTASC_3c
+  - ATD.Pers.C
+  - ISTE_EdLeaders_3e
+  - ISTE.Coach.PLF.5aAAQEP_1d
+  - Needs Analysis
+  - Needs Analysis
+  - 'WGUSID: 1219'
+  - WGU Instructional Faculty
+occupations:
+  - code: 11-3130
+    targetNodeName: Training and Development Managers
+    frameworkName: bls
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: '449919'

@@ -1,0 +1,71 @@
+id: https://osmt.wgu.edu/api/skills/7e2e819e-dacb-45d8-b904-25e377c00fc0
+uuid: 7e2e819e-dacb-45d8-b904-25e377c00fc0
+status: published
+publishDate: '2022-02-02T14:20:21.982487'
+archiveDate: null
+skillName: Decision Outcome Questions
+skillStatement: >-
+  Ask questions to gain feedback about the potential consequences of a decision
+  outcome.
+category: Decision Making
+keywords:
+  - ISTE_Educators_4d
+  - ISTE_EdLeaders_2d
+  - InTASC_3a
+  - InTASC_3d
+  - InTASC_3i
+  - InTASC_3m
+  - InTASC_3n
+  - InTASC_4g
+  - InTASC_6p
+  - InTASC_8n
+  - ATD.Org.DA
+  - ATD.Prof.EI
+  - ATD.Prof.ID
+  - ATD.Prof.TDF
+  - InTASC_3b
+  - InTASC_3f
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_4f
+  - InTASC_5d
+  - ATD.Pers.CL
+  - ATD.Pers.PM
+  - ATD.Org.CBP
+  - Decision Making
+  - ATD.Prof.TDFAAQEP_1f
+  - Decision Making
+  - ISTE_Educators_4a
+  - ISTE_Educators_4b
+  - ISTE_Educators_4c
+  - ATD.Pers.C
+  - 'WGUSID: 641'
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-4020
+    targetNodeName: Librarians and Media Collections Specialists
+    frameworkName: bls
+  - code: 25-4022
+    targetNodeName: Librarians and Media Collections Specialists
+    frameworkName: bls
+  - code: 25-9030
+    targetNodeName: Instructional Coordinators
+    frameworkName: bls
+  - code: 25-9031
+    targetNodeName: Instructional Coordinators
+    frameworkName: bls
+  - code: 33-0000
+    targetNodeName: Protective Service Occupations
+    frameworkName: bls
+  - code: 33-1010
+    targetNodeName: First-Line Supervisors of Law Enforcement Workers
+    frameworkName: bls
+  - code: 33-3020
+    targetNodeName: Detectives and Criminal Investigators
+    frameworkName: bls
+  - code: 33-3050
+    targetNodeName: Police Officers
+    frameworkName: bls

@@ -1,0 +1,47 @@
+id: https://osmt.wgu.edu/api/skills/12ab5a4f-ea71-4739-8256-90607732718b
+uuid: 12ab5a4f-ea71-4739-8256-90607732718b
+status: published
+publishDate: '2022-02-02T14:19:55.795774'
+archiveDate: null
+skillName: Technology Development Research
+skillStatement: Research current technology developments to create materials and lessons.
+category: Computer Literacy
+keywords:
+  - ISTE_EdLeaders_5a
+  - InTASC_3a
+  - InTASC_3d
+  - InTASC_3g
+  - InTASC_3i
+  - InTASC_3m
+  - InTASC_3n
+  - InTASC_4g
+  - InTASC_5i
+  - InTASC_6p
+  - InTASC_8n
+  - InTASC_3b
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - Computer Literacy
+  - InTASC_3j
+  - Computer Literacy
+  - ISTE_Educators_1c
+  - ISTE_Educators_5a
+  - ISTE_Educators_5b
+  - ISTE_Educators_5c
+  - AAQEP_1a
+  - 'WGUSID: 6034'
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-3010
+    targetNodeName: >-
+      Adult Basic Education, Adult Secondary Education, and English as a Second
+      Language Instructors
+    frameworkName: bls
+  - code: 25-3011
+    targetNodeName: >-
+      Adult Basic Education, Adult Secondary Education, and English as a Second
+      Language Instructors
+    frameworkName: bls

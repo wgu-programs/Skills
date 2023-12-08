@@ -1,0 +1,84 @@
+id: https://osmt.wgu.edu/api/skills/2c0f10a9-70bd-48ea-b4aa-b33b0cfc24ee
+uuid: 2c0f10a9-70bd-48ea-b4aa-b33b0cfc24ee
+status: published
+publishDate: '2022-02-08T00:32:39.170471'
+archiveDate: null
+skillName: Solution Information Evaluation
+skillStatement: >-
+  Evaluate information and results to choose the best solution and solve
+  problems.
+category: Problem Solving
+keywords:
+  - GeneralEducation2019
+  - InTASC_3a
+  - InTASC_3i
+  - InTASC_4g
+  - InTASC_8n
+  - ISTE_EdLeaders_2c
+  - ATD.Prof.EI
+  - ATD.Prof.ID
+  - ATD.Prof.TDF
+  - ISTE.Coach.C.3a
+  - ISTE.Coach.CA.1a
+  - ISTE.Coach.CA.1c
+  - ISTE.Coach.CL.2c
+  - ISTE.Coach.DDM.6a
+  - ISTE.Coach.DDM.6b
+  - ISTE.Coach.PLF.5b
+  - ISTE.Coach.PLF.5cAAQEP_1d
+  - ISTE_Educators_7a
+  - ISTE_Educators_7b
+  - InTASC_3b
+  - InTASC_3e
+  - InTASC_3f
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_5d
+  - ISTE.Coach.PLF.5c
+  - ATD.Org.ODC
+  - ISTE.Coach.DDM.6c
+  - ATD.Pers.CL
+  - ATD.Pers.PM
+  - ATD.Org.CBP
+  - ATD.Prof.KM
+  - ISTE.Coach.CL.2a
+  - ISTE.Coach.CL.2b
+  - ISTE.Coach.PLF.5a
+  - InTASC_3q
+  - InTASC_6o
+  - InTASC_6s
+  - Problem Solving
+  - ISTE.Coach.CA.1e
+  - ISTE.Coach.C.3c
+  - Troubleshooting (Problem Solving)
+  - Problem Solving
+  - 'WGUSID: 3130'
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-4020
+    targetNodeName: Librarians and Media Collections Specialists
+    frameworkName: bls
+  - code: 25-4022
+    targetNodeName: Librarians and Media Collections Specialists
+    frameworkName: bls
+  - code: 25-9030
+    targetNodeName: Instructional Coordinators
+    frameworkName: bls
+  - code: 25-9031
+    targetNodeName: Instructional Coordinators
+    frameworkName: bls
+  - code: 33-0000
+    targetNodeName: Protective Service Occupations
+    frameworkName: bls
+  - code: 33-1010
+    targetNodeName: First-Line Supervisors of Law Enforcement Workers
+    frameworkName: bls
+  - code: 33-3020
+    targetNodeName: Detectives and Criminal Investigators
+    frameworkName: bls
+  - code: 33-3050
+    targetNodeName: Police Officers
+    frameworkName: bls

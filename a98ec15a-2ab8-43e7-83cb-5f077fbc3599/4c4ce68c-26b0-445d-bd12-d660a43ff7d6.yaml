@@ -1,0 +1,45 @@
+id: https://osmt.wgu.edu/api/skills/4c4ce68c-26b0-445d-bd12-d660a43ff7d6
+uuid: 4c4ce68c-26b0-445d-bd12-d660a43ff7d6
+status: published
+publishDate: '2022-02-09T23:21:31.51637'
+archiveDate: null
+skillName: Performance Goal Practices Implementation
+skillStatement: >-
+  Implement practices to produce performance goals both inside and outside the
+  classroom.
+category: Self-Sufficiency
+keywords:
+  - AAQEP_1f
+  - ISTE_Educators_7c
+  - InTASC_3i
+  - InTASC_3b
+  - InTASC_3e
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_5d
+  - InTASC_6o
+  - ISTE_Educators_3a
+  - ISTE_Educators_3b
+  - ISTE_Educators_6a
+  - ISTE_Educators_6b
+  - ISTE_Educators_6c
+  - ISTE_Educators_6d
+  - ISTE_EdLeaders_2b
+  - ISTE_Educators_4b
+  - ISTE_Educators_4c
+  - ISTE_EdLeaders_2a
+  - InTASC_6d
+  - Performance
+  - Self-Sufficiency
+  - Self-Efficacy
+  - Self-Sufficiency
+  - 'WGUSID: 3283'
+  - practices
+  - classroom
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-2050
+    targetNodeName: Special Education Teachers
+    frameworkName: bls

@@ -1,0 +1,56 @@
+id: https://osmt.wgu.edu/api/skills/e75261bb-8e1c-4569-95ce-590ace4280cb
+uuid: e75261bb-8e1c-4569-95ce-590ace4280cb
+status: published
+publishDate: '2022-12-02T20:34:13.090535'
+archiveDate: null
+skillName: Adapting Assessment Using Objectives
+skillStatement: Adapt assessments to match learning objectives.
+category: Educational Assessment
+keywords:
+  - InTASC
+  - Educational Assessment
+  - InTASC_6b
+  - InTASC_6t
+  - Educational Assessment
+occupations:
+  - code: 25-2011.00
+    targetNodeName: Preschool Teachers, Except Special Education
+    frameworkName: o*net
+  - code: 25-2012.00
+    targetNodeName: Kindergarten Teachers, Except Special Education
+    frameworkName: o*net
+  - code: 25-2021.00
+    targetNodeName: Elementary School Teachers, Except Special Education
+    frameworkName: o*net
+  - code: 25-2022.00
+    targetNodeName: Middle School Teachers, Except Special and Career/Technical Education
+    frameworkName: o*net
+  - code: 25-2031.00
+    targetNodeName: Secondary School Teachers, Except Special and Career/Technical Education
+    frameworkName: o*net
+  - code: 25-2051.00
+    targetNodeName: Special Education Teachers, Preschool
+    frameworkName: o*net
+  - code: 25-2055.00
+    targetNodeName: Special Education Teachers, Kindergarten
+    frameworkName: o*net
+  - code: 25-2056.00
+    targetNodeName: Special Education Teachers, Elementary School
+    frameworkName: o*net
+  - code: 25-2057.00
+    targetNodeName: Special Education Teachers, Middle School
+    frameworkName: o*net
+  - code: 25-2058.00
+    targetNodeName: Special Education Teachers, Secondary School
+    frameworkName: o*net
+  - code: 25-2059.00
+    targetNodeName: Special Education Teachers, All Other
+    frameworkName: o*net
+  - code: 25-9042.00
+    targetNodeName: >-
+      Teaching Assistants, Preschool, Elementary, Middle, and Secondary School,
+      Except Special Education
+    frameworkName: o*net
+  - code: 25-9043.00
+    targetNodeName: Teaching Assistants, Special Education
+    frameworkName: o*net

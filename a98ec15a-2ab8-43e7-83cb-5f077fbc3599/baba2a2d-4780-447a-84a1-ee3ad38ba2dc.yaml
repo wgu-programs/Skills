@@ -1,0 +1,46 @@
+id: https://osmt.wgu.edu/api/skills/baba2a2d-4780-447a-84a1-ee3ad38ba2dc
+uuid: baba2a2d-4780-447a-84a1-ee3ad38ba2dc
+status: published
+publishDate: '2022-01-25T16:37:19.385153'
+archiveDate: null
+skillName: Collect Student Progress Information
+skillStatement: >-
+  Collect information about individual student progress to guide the learning
+  process.
+category: Educational Evaluation
+keywords:
+  - Special Education
+  - ISTE_Educators_7c
+  - InTASC_3a
+  - InTASC_3i
+  - InTASC_3m
+  - InTASC_3n
+  - InTASC_4g
+  - InTASC_8n
+  - ISTE_EdLeaders_2c
+  - Educational Evaluation
+  - ISTE_Educators_7a
+  - ISTE_Educators_7b
+  - InTASC_3b
+  - InTASC_3e
+  - InTASC_3f
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_4f
+  - InTASC_5d
+  - Educational Evaluation
+  - InTASC_6o
+  - UETS_5
+  - AAQEP_1d
+  - CEC_4.2
+  - 'WGUSID: 3544'
+  - TESOL_K12 Teacher Prep_2c
+  - TESOL_K12 Teacher Prep_4b
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-2050
+    targetNodeName: Special Education Teachers
+    frameworkName: bls

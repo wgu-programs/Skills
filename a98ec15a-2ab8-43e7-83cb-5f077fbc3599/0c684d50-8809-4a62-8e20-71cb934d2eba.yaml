@@ -1,0 +1,47 @@
+id: https://osmt.wgu.edu/api/skills/0c684d50-8809-4a62-8e20-71cb934d2eba
+uuid: 0c684d50-8809-4a62-8e20-71cb934d2eba
+status: published
+publishDate: '2022-01-31T17:01:05.352448'
+archiveDate: null
+skillName: Ask Questions Based on Results
+skillStatement: Ask education-based questions based on learning analytic data results.
+category: Instructional Design
+keywords:
+  - ISTE_Educators_4d
+  - InTASC_3a
+  - InTASC_3i
+  - InTASC_3n
+  - InTASC_4g
+  - InTASC_8n
+  - ISTE_EdLeaders_2c
+  - InTASC_3b
+  - InTASC_3e
+  - InTASC_3f
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_4f
+  - InTASC_5d
+  - InTASC_6o
+  - ISTE_Educators_1c
+  - ISTE_Educators_3a
+  - ISTE_Educators_3b
+  - InTASC_3c
+  - ISTE_Educators_4a
+  - ISTE_Educators_4b
+  - ISTE_Educators_4c
+  - Instructional Design
+  - Instructional Design
+  - Learner Analytics
+  - InTASC_6r
+  - 'WGUSID: 10947'
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-9030
+    targetNodeName: Instructional Coordinators
+    frameworkName: bls
+  - code: 25-9031
+    targetNodeName: Instructional Coordinators
+    frameworkName: bls

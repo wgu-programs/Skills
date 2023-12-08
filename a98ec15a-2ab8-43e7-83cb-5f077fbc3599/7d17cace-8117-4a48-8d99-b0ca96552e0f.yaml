@@ -1,0 +1,42 @@
+id: https://osmt.wgu.edu/api/skills/7d17cace-8117-4a48-8d99-b0ca96552e0f
+uuid: 7d17cace-8117-4a48-8d99-b0ca96552e0f
+status: published
+publishDate: '2022-02-08T22:53:34.442143'
+archiveDate: null
+skillName: Educator Ability Confidence
+skillStatement: Be confident in one's abilities as an educator.
+category: Self Confident
+keywords:
+  - AAQEP_1f
+  - InTASC_3i
+  - InTASC_3b
+  - InTASC_3e
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_5d
+  - InTASC_6o
+  - InTASC_6s
+  - ISTE_Educators_1c
+  - ISTE_EdLeaders_3a
+  - ISTE_Educators_1a
+  - ISTE_Educators_1b
+  - ISTE_Educators_2a
+  - Self Confident
+  - Self Confident
+  - Self-Confidence
+  - educator
+  - 'WGUSID: 819'
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-2010
+    targetNodeName: Preschool and Kindergarten Teachers
+    frameworkName: bls
+  - code: 25-2020
+    targetNodeName: Elementary and Middle School Teachers
+    frameworkName: bls
+  - code: 25-2030
+    targetNodeName: Secondary School Teachers
+    frameworkName: bls

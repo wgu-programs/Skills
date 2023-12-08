@@ -1,0 +1,40 @@
+id: https://osmt.wgu.edu/api/skills/7c81eabd-db09-4e63-8812-c109451d15ff
+uuid: 7c81eabd-db09-4e63-8812-c109451d15ff
+status: published
+publishDate: '2022-02-03T00:19:42.712634'
+archiveDate: null
+skillName: Learning Style Lesson Design
+skillStatement: Design lessons based on students' learning styles.
+category: Differentiated Instruction
+keywords:
+  - InTASC_3a
+  - InTASC_3i
+  - InTASC_3m
+  - InTASC_3n
+  - InTASC_4g
+  - InTASC_6p
+  - InTASC_8n
+  - InTASC_3b
+  - InTASC_3f
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_4f
+  - InTASC_5d
+  - ISTE_Educators_5a
+  - ISTE_Educators_5b
+  - ISTE_Educators_5c
+  - Differentiated Instruction
+  - Differentiated Instruction
+  - ISTE_EdLeaders_3d
+  - AAQEP_1a
+  - InTASC_2a
+  - ISTE_EdLeaders_3e
+  - 'WGUSID: 2124'
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-2050
+    targetNodeName: Special Education Teachers
+    frameworkName: bls

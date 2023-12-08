@@ -1,0 +1,47 @@
+id: https://osmt.wgu.edu/api/skills/b635aa39-c36e-410a-8622-aff5f2fed834
+uuid: b635aa39-c36e-410a-8622-aff5f2fed834
+status: published
+publishDate: '2022-02-08T00:32:38.682841'
+archiveDate: null
+skillName: Individual Student Needs Response
+skillStatement: Respond to each student's individual needs to avoid frustrating situations.
+category: Patience
+keywords:
+  - InTASC_3a
+  - InTASC_3i
+  - InTASC_3n
+  - InTASC_4g
+  - InTASC_8n
+  - InTASC_3b
+  - InTASC_3e
+  - InTASC_3f
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_5d
+  - InTASC_6o
+  - InTASC_6s
+  - ISTE_Educators_1c
+  - ISTE_Educators_3a
+  - ISTE_Educators_3b
+  - ISTE_Educators_5a
+  - ISTE_Educators_5b
+  - ISTE_Educators_5c
+  - ISTE_Educators_6a
+  - ISTE_Educators_6b
+  - ISTE_Educators_6c
+  - InTASC_3c
+  - AAQEP_1b
+  - ISTE_EdLeaders_3a
+  - ISTE_EdLeaders_3d
+  - Patience
+  - Patience
+  - student needs
+  - 'WGUSID: 368'
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-2050
+    targetNodeName: Special Education Teachers
+    frameworkName: bls

@@ -1,0 +1,65 @@
+id: https://osmt.wgu.edu/api/skills/4fed03be-4c3f-439d-b647-2dc215f35164
+uuid: 4fed03be-4c3f-439d-b647-2dc215f35164
+status: published
+publishDate: '2022-01-31T16:59:08.219864'
+archiveDate: null
+skillName: Articulate School District Policy and Procedure Alignment
+skillStatement: >-
+  Articulate policy and procedure alignment to the mission, vision, and values
+  of one's school district.
+category: Organizational Awareness
+keywords:
+  - ISTE_EdLeaders_2d
+  - InTASC_3a
+  - InTASC_3i
+  - InTASC_3n
+  - InTASC_4g
+  - InTASC_8n
+  - InTASC_3b
+  - InTASC_3e
+  - InTASC_3f
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_5d
+  - InTASC_6o
+  - InTASC_6s
+  - InTASC_3c
+  - ISTE_Educators_2a
+  - Organizational Awareness
+  - 'WGUSID: 621'
+  - Organizational Awareness
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-2010
+    targetNodeName: Preschool and Kindergarten Teachers
+    frameworkName: bls
+  - code: 25-2011
+    targetNodeName: Preschool Teachers, Except Special Education
+    frameworkName: bls
+  - code: 25-2012
+    targetNodeName: Kindergarten Teachers, Except Special Education
+    frameworkName: bls
+  - code: 25-2020
+    targetNodeName: Elementary and Middle School Teachers
+    frameworkName: bls
+  - code: 25-2021
+    targetNodeName: Elementary School Teachers, Except Special Education
+    frameworkName: bls
+  - code: 25-2022
+    targetNodeName: Middle School Teachers, Except Special and Career/Technical Education
+    frameworkName: bls
+  - code: 25-2023
+    targetNodeName: Career/Technical Education Teachers, Middle School
+    frameworkName: bls
+  - code: 25-2030
+    targetNodeName: Secondary School Teachers
+    frameworkName: bls
+  - code: 25-2031
+    targetNodeName: Secondary School Teachers, Except Special and Career/Technical Education
+    frameworkName: bls
+  - code: 25-2032
+    targetNodeName: Career/Technical Education Teachers, Secondary School
+    frameworkName: bls

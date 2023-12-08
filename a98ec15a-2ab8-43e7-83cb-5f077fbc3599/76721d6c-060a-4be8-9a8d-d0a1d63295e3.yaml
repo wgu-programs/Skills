@@ -1,0 +1,59 @@
+id: https://osmt.wgu.edu/api/skills/76721d6c-060a-4be8-9a8d-d0a1d63295e3
+uuid: 76721d6c-060a-4be8-9a8d-d0a1d63295e3
+status: published
+publishDate: '2022-02-10T20:18:58.436728'
+archiveDate: null
+skillName: Lesson Objectives Establishment and Communication
+skillStatement: Establish clear objectives and communicate those objectives to learners.
+category: Thought Leadership
+keywords:
+  - ISTE_Educators_7c
+  - ISTE.Coach.C.3a
+  - ISTE.Coach.CA.1a
+  - ISTE.Coach.CA.1c
+  - ISTE.Coach.CL.2c
+  - ISTE.Coach.LD.4a
+  - ISTE.Coach.LD.4d
+  - ISTE.Coach.PLF.5b
+  - ISTE_Educators_7b
+  - InTASC_3l
+  - ISTE_Educators_5a
+  - ISTE_Educators_5b
+  - ISTE_Educators_5c
+  - ISTE.Coach.PLF.5bAAQEP_1a
+  - ISTE_EdLeaders_3a
+  - ISTE_EdLeaders_3b
+  - Thought Leadership
+  - Thought Leadership
+  - Communicate
+  - objectives
+  - learners
+  - 'WGUSID: 3012'
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-1010
+    targetNodeName: Business Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1020
+    targetNodeName: Math and Computer Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1040
+    targetNodeName: Life Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1050
+    targetNodeName: Physical Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1060
+    targetNodeName: Social Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1070
+    targetNodeName: Health Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1080
+    targetNodeName: Education and Library Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1120
+    targetNodeName: Arts, Communications, History, and Humanities Teachers, Postsecondary
+    frameworkName: bls

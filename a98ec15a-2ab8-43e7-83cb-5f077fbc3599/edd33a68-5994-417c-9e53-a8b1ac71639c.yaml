@@ -1,0 +1,83 @@
+id: https://osmt.wgu.edu/api/skills/edd33a68-5994-417c-9e53-a8b1ac71639c
+uuid: edd33a68-5994-417c-9e53-a8b1ac71639c
+status: published
+publishDate: '2022-01-31T17:01:48.936307'
+archiveDate: null
+skillName: Learning Experiences Sequencing
+skillStatement: >-
+  Sequence learning experiences that align to learning objectives and student
+  goals.
+category: Learning Development
+keywords:
+  - ISTE_Educators_4d
+  - ISTE_Educators_7c
+  - InTASC_3a
+  - InTASC_3i
+  - InTASC_3n
+  - InTASC_4g
+  - InTASC_8n
+  - ISTE.Coach.C.3a
+  - ISTE.Coach.CA.1a
+  - ISTE.Coach.CA.1c
+  - ISTE.Coach.CL.2c
+  - ISTE.Coach.DDM.6a
+  - ISTE.Coach.DDM.6b
+  - ISTE.Coach.LD.4a
+  - ISTE.Coach.LD.4d
+  - ISTE.Coach.PLF.5b
+  - ISTE_Educators_7a
+  - ISTE_Educators_7b
+  - InTASC_3b
+  - InTASC_3e
+  - InTASC_3f
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_5d
+  - ISTE.Coach.PLF.5c
+  - ISTE.Coach.DDM.6c
+  - ISTE.Coach.CL.2a
+  - ISTE.Coach.CL.2b
+  - InTASC_6o
+  - InTASC_6s
+  - ISTE_Educators_1c
+  - ISTE_Educators_2b
+  - ISTE_Educators_3a
+  - ISTE_Educators_3b
+  - ISTE_Educators_5a
+  - ISTE_Educators_5b
+  - ISTE_Educators_5c
+  - ISTE_Educators_6a
+  - ISTE_Educators_6b
+  - ISTE_Educators_6c
+  - ISTE_Educators_6d
+  - InTASC_3c
+  - ISTE.Coach.PLF.5cAAQEP_1a
+  - ISTE_EdLeaders_3a
+  - ISTE_EdLeaders_3b
+  - ISTE_Educators_4a
+  - ISTE_Educators_4b
+  - ISTE_Educators_4c
+  - Learning Development
+  - Educational Outcomes
+  - InTASC_7b
+  - 'WGUSID: 6249'
+  - NGT
+  - K-12 Teacher
+  - Learning Development
+occupations:
+  - code: 11-3130
+    targetNodeName: Training and Development Managers
+    frameworkName: bls
+  - code: 11-3131
+    targetNodeName: Training and Development Managers
+    frameworkName: bls
+  - code: 11-9033
+    targetNodeName: Education Administrators, Postsecondary
+    frameworkName: bls
+  - code: 11-9039
+    targetNodeName: Education Administrators, All Other
+    frameworkName: bls
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls

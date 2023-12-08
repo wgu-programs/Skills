@@ -1,0 +1,62 @@
+id: https://osmt.wgu.edu/api/skills/724fad0f-3e43-454e-a740-3b1f2702c56c
+uuid: 724fad0f-3e43-454e-a740-3b1f2702c56c
+status: published
+publishDate: '2022-02-04T01:10:51.568641'
+archiveDate: null
+skillName: Make Cross-Content Curriculum Choices
+skillStatement: >-
+  Make intentional choices that allow curriculum and standards to cross content
+  areas.
+category: Integration
+keywords:
+  - ISTE_Educators_4d
+  - InTASC_3a
+  - InTASC_3i
+  - InTASC_3n
+  - InTASC_4g
+  - InTASC_8n
+  - InTASC_3b
+  - InTASC_3e
+  - InTASC_3f
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_4f
+  - InTASC_5d
+  - InTASC_6o
+  - InTASC_6s
+  - ISTE_Educators_2b
+  - ISTE_Educators_3a
+  - ISTE_Educators_3b
+  - ISTE_Educators_5a
+  - ISTE_Educators_5b
+  - ISTE_Educators_5c
+  - ISTE_Educators_6a
+  - ISTE_Educators_6b
+  - ISTE_Educators_6c
+  - ISTE_Educators_6d
+  - InTASC_3c
+  - ISTE_EdLeaders_3a
+  - ISTE_Educators_4a
+  - ISTE_Educators_4b
+  - ISTE_Educators_4c
+  - AAQEP_1a
+  - AAQEP_2f
+  - ISTE_Educators_2a
+  - AAQEP_3a
+  - Integration
+  - Integration
+  - 'WGUSID: 4884'
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-2010
+    targetNodeName: Preschool and Kindergarten Teachers
+    frameworkName: bls
+  - code: 25-2020
+    targetNodeName: Elementary and Middle School Teachers
+    frameworkName: bls
+  - code: 25-2030
+    targetNodeName: Secondary School Teachers
+    frameworkName: bls

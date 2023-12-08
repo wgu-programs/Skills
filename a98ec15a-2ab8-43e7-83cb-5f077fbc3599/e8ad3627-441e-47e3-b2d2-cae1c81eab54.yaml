@@ -1,0 +1,69 @@
+id: https://osmt.wgu.edu/api/skills/e8ad3627-441e-47e3-b2d2-cae1c81eab54
+uuid: e8ad3627-441e-47e3-b2d2-cae1c81eab54
+status: published
+publishDate: '2022-02-02T14:19:37.891688'
+archiveDate: null
+skillName: Gender and Culture Contribution Content Integration
+skillStatement: >-
+  Integrate content that reflects positive contributions of genders and diverse
+  cultures.
+category: Cultural Sensitivity
+keywords:
+  - ISTE_Educators_4d
+  - Cultural Sensitivity
+  - Cultural Awareness
+  - Cultural Sensitivity
+  - InTASC_3a
+  - InTASC_3d
+  - InTASC_3i
+  - InTASC_3m
+  - InTASC_3n
+  - InTASC_4g
+  - InTASC_6p
+  - InTASC_8n
+  - InTASC_3b
+  - InTASC_3f
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_5d
+  - ISTE_Educators_2b
+  - ISTE_Educators_5b
+  - ISTE_Educators_6a
+  - ISTE_Educators_6b
+  - ISTE_Educators_6c
+  - ISTE_Educators_6d
+  - ISTE_EdLeaders_3d
+  - ISTE_Educators_4c
+  - AAQEP_1a
+  - AAQEP_2b
+  - InTASC_4m
+  - 'WGUSID: 4514'
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-1010
+    targetNodeName: Business Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1020
+    targetNodeName: Math and Computer Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1040
+    targetNodeName: Life Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1050
+    targetNodeName: Physical Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1060
+    targetNodeName: Social Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1070
+    targetNodeName: Health Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1080
+    targetNodeName: Education and Library Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1120
+    targetNodeName: Arts, Communications, History, and Humanities Teachers, Postsecondary
+    frameworkName: bls

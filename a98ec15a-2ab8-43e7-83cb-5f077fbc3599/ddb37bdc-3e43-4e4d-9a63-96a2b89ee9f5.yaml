@@ -1,0 +1,49 @@
+id: https://osmt.wgu.edu/api/skills/ddb37bdc-3e43-4e4d-9a63-96a2b89ee9f5
+uuid: ddb37bdc-3e43-4e4d-9a63-96a2b89ee9f5
+status: published
+publishDate: '2022-02-08T22:53:37.674656'
+archiveDate: null
+skillName: Incorporate School or District Resources
+skillStatement: Incorporate resources from a school or district.
+category: Resource Management
+keywords:
+  - ISTE_Educators_4d
+  - InTASC_3a
+  - InTASC_3i
+  - InTASC_3b
+  - InTASC_3e
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_5d
+  - InTASC_6o
+  - InTASC_6s
+  - ISTE_Educators_3a
+  - ISTE_Educators_3b
+  - ISTE_Educators_6a
+  - ISTE_Educators_6b
+  - ISTE_Educators_6c
+  - ISTE_Educators_6d
+  - ISTE_EdLeaders_3a
+  - ISTE_EdLeaders_3b
+  - ISTE_Educators_4b
+  - ISTE_Educators_4c
+  - Resource Management
+  - AAQEP_3e
+  - Resource Management
+  - school resources
+  - district resources
+  - 'WGUSID: 5254.1'
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-2010
+    targetNodeName: Preschool and Kindergarten Teachers
+    frameworkName: bls
+  - code: 25-2020
+    targetNodeName: Elementary and Middle School Teachers
+    frameworkName: bls
+  - code: 25-2030
+    targetNodeName: Secondary School Teachers
+    frameworkName: bls

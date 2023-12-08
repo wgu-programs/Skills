@@ -1,0 +1,64 @@
+id: https://osmt.wgu.edu/api/skills/7d176a43-7503-4892-bc8b-c062840958c4
+uuid: 7d176a43-7503-4892-bc8b-c062840958c4
+status: published
+publishDate: '2022-01-31T16:59:18.690875'
+archiveDate: null
+skillName: Idea Sharing with Educators
+skillStatement: Communicate ideas to share with other educators and staff.
+category: Teamwork
+keywords:
+  - ISTE_Educators_4d
+  - ISTE_EdLeaders_2d
+  - InTASC_3l
+  - Team Oriented
+  - Teamwork
+  - ISTE_Educators_4a
+  - AAQEP_2f
+  - ISTE_Educators_2a
+  - Team Building
+  - Team Management
+  - Teamwork
+  - 'WGUSID: 1031'
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-2010
+    targetNodeName: Preschool and Kindergarten Teachers
+    frameworkName: bls
+  - code: 25-2011
+    targetNodeName: Preschool Teachers, Except Special Education
+    frameworkName: bls
+  - code: 25-2012
+    targetNodeName: Kindergarten Teachers, Except Special Education
+    frameworkName: bls
+  - code: 25-2020
+    targetNodeName: Elementary and Middle School Teachers
+    frameworkName: bls
+  - code: 25-2021
+    targetNodeName: Elementary School Teachers, Except Special Education
+    frameworkName: bls
+  - code: 25-2022
+    targetNodeName: Middle School Teachers, Except Special and Career/Technical Education
+    frameworkName: bls
+  - code: 25-2023
+    targetNodeName: Career/Technical Education Teachers, Middle School
+    frameworkName: bls
+  - code: 25-2030
+    targetNodeName: Secondary School Teachers
+    frameworkName: bls
+  - code: 25-2031
+    targetNodeName: Secondary School Teachers, Except Special and Career/Technical Education
+    frameworkName: bls
+  - code: 25-2032
+    targetNodeName: Career/Technical Education Teachers, Secondary School
+    frameworkName: bls
+  - code: 33-0000
+    targetNodeName: Protective Service Occupations
+    frameworkName: bls
+  - code: 33-3020
+    targetNodeName: Detectives and Criminal Investigators
+    frameworkName: bls
+  - code: 33-3050
+    targetNodeName: Police Officers
+    frameworkName: bls

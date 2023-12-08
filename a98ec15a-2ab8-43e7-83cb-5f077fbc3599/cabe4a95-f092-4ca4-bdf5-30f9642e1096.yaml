@@ -1,0 +1,42 @@
+id: https://osmt.wgu.edu/api/skills/cabe4a95-f092-4ca4-bdf5-30f9642e1096
+uuid: cabe4a95-f092-4ca4-bdf5-30f9642e1096
+status: published
+publishDate: '2022-01-25T16:54:06.329329'
+archiveDate: null
+skillName: Educational Relationship Development
+skillStatement: >-
+  Develop relationships with educational professionals to share expertise to
+  improve student outcomes.
+category: Teamwork
+keywords:
+  - Special Education
+  - ISTE_Educators_4d
+  - InTASC_3l
+  - Team Oriented
+  - Teamwork
+  - ISTE_Educators_4a
+  - AAQEP_2f
+  - ISTE_EdLeaders_2a
+  - ISTE_Educators_2a
+  - CEC_7.0
+  - UETS_9
+  - Team Building
+  - Team Management
+  - Teamwork
+  - 'WGUSID: 2464'
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-2050
+    targetNodeName: Special Education Teachers
+    frameworkName: bls
+  - code: 33-0000
+    targetNodeName: Protective Service Occupations
+    frameworkName: bls
+  - code: 33-3020
+    targetNodeName: Detectives and Criminal Investigators
+    frameworkName: bls
+  - code: 33-3050
+    targetNodeName: Police Officers
+    frameworkName: bls

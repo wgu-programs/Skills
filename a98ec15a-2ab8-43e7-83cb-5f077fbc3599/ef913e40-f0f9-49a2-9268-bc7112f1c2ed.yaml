@@ -1,0 +1,67 @@
+id: https://osmt.wgu.edu/api/skills/ef913e40-f0f9-49a2-9268-bc7112f1c2ed
+uuid: ef913e40-f0f9-49a2-9268-bc7112f1c2ed
+status: published
+publishDate: '2022-02-04T20:55:41.581101'
+archiveDate: null
+skillName: Program and Resource Selection
+skillStatement: Select computing programs and online resources.
+category: Access Controls
+keywords:
+  - ISTE_Educators_4d
+  - ISTE_Educators_7c
+  - ISTE_EdLeaders_2d
+  - InTASC_3g
+  - InTASC_3m
+  - InTASC_4g
+  - InTASC_5i
+  - InTASC_6p
+  - InTASC_8n
+  - ISTE_Educators_7a
+  - ISTE_Educators_7b
+  - AZ-304
+  - AAQEP_1d
+  - ISTE_Educators_1c
+  - ISTE_Educators_2b
+  - ISTE_Educators_3a
+  - ISTE_Educators_3b
+  - ISTE_Educators_5a
+  - ISTE_Educators_5b
+  - ISTE_Educators_5c
+  - ISTE_Educators_6b
+  - ISTE_Educators_6c
+  - ISTE_Educators_6d
+  - ISTE_Educators_4a
+  - ISTE_Educators_4b
+  - ISTE_Educators_4c
+  - AAQEP_1a
+  - InTASC_8a
+  - AAQEP_2c
+  - ISTE_Educators_1b
+  - ISTE_Educators_2a
+  - ISTE_Educators_2c
+  - CompTIA_ITF+
+  - Access Controls
+  - Access Controls
+  - NetSupport School
+  - LockDown Browser
+  - 'WGUSID: 2207'
+occupations:
+  - code: 15-0000
+    targetNodeName: Computer and Mathematical Occupations
+    frameworkName: bls
+  - code: '15_1210'
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: '25_1010'
+  - code: '25_1020'
+  - code: '25_1040'
+  - code: '25_1050'
+  - code: '25_1060'
+  - code: '25_1070'
+  - code: '25_1080'
+  - code: '25_1120'
+  - code: 33-0000
+    targetNodeName: Protective Service Occupations
+    frameworkName: bls
+  - code: '33_1010'

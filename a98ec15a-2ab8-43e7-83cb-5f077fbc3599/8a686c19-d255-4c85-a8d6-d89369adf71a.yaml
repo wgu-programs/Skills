@@ -1,0 +1,55 @@
+id: https://osmt.wgu.edu/api/skills/8a686c19-d255-4c85-a8d6-d89369adf71a
+uuid: 8a686c19-d255-4c85-a8d6-d89369adf71a
+status: published
+publishDate: '2022-02-04T21:15:47.076545'
+archiveDate: null
+skillName: Instruction and Learning Effectiveness Assessment
+skillStatement: >-
+  Implement ongoing assessment to determine the effectiveness of instruction and
+  student learning.
+category: Lesson Planning
+keywords:
+  - ISTE_Educators_7c
+  - InTASC_3a
+  - InTASC_3i
+  - InTASC_3n
+  - InTASC_4g
+  - InTASC_8n
+  - ISTE_Educators_7a
+  - ISTE_Educators_7b
+  - InTASC_3b
+  - InTASC_3e
+  - InTASC_3f
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_5d
+  - Certifications
+  - InTASC_6o
+  - InTASC_6s
+  - AAQEP_1d
+  - InTASC_3c
+  - ISTE_EdLeaders_4a
+  - AAQEP_1a
+  - Lesson Planning
+  - Lesson Planning
+  - ISTE_EdLeaders_4b
+  - Assessment
+  - instruction
+  - 'WGUSID: 4264'
+  - NGT
+  - K-12 Teacher
+occupations:
+  - code: 11-3130
+    targetNodeName: Training and Development Managers
+    frameworkName: bls
+  - code: 11-9033
+    targetNodeName: Education Administrators, Postsecondary
+    frameworkName: bls
+  - code: 11-9039
+    targetNodeName: Education Administrators, All Other
+    frameworkName: bls
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: '449919'

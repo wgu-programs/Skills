@@ -1,0 +1,72 @@
+id: https://osmt.wgu.edu/api/skills/a50a8c5d-a99c-4558-829f-35f35a9b38ec
+uuid: a50a8c5d-a99c-4558-829f-35f35a9b38ec
+status: published
+publishDate: '2022-01-25T16:49:12.606766'
+archiveDate: null
+skillName: Student Self-Monitoring Behavior Motivation
+skillStatement: Motivate students to self-monitor their behavior and performance.
+category: High Motivation
+keywords:
+  - InTASC_3a
+  - InTASC_3i
+  - InTASC_3n
+  - InTASC_4g
+  - InTASC_8n
+  - ISTE.Coach.C.3a
+  - ISTE.Coach.CA.1a
+  - ISTE.Coach.CA.1c
+  - ISTE.Coach.CL.2c
+  - ISTE.Coach.LD.4a
+  - ISTE.Coach.LD.4b
+  - ISTE.Coach.LD.4d
+  - ISTE.Coach.PLF.5b
+  - InTASC_3b
+  - InTASC_3e
+  - InTASC_3f
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_4f
+  - InTASC_5d
+  - Curriculum & Instruction
+  - MSCIN
+  - NBPTS_Core_Proposition_3
+  - InTASC_6o
+  - ISTE_Educators_1c
+  - ISTE_Educators_3a
+  - ISTE_Educators_3b
+  - ISTE_Educators_5a
+  - ISTE_Educators_5b
+  - ISTE_Educators_5c
+  - ISTE_Educators_6a
+  - ISTE_Educators_6b
+  - ISTE_Educators_6c
+  - ISTE_Educators_6d
+  - NBPTS_Core_Proposition_1
+  - N/A - WGU SKILL
+  - ISTE_EdLeaders_3a
+  - ISTE_EdLeaders_3b
+  - ISTE.Coach.PLF.5bAAQEP_1e
+  - NEA.TeacherLeader:CSJLE
+  - NEA.TeacherLeader:ECI
+  - High Motivation
+  - 'WGUSID: 5165'
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-4020
+    targetNodeName: Librarians and Media Collections Specialists
+    frameworkName: bls
+  - code: 25-4022
+    targetNodeName: Librarians and Media Collections Specialists
+    frameworkName: bls
+  - code: 25-9030
+    targetNodeName: Instructional Coordinators
+    frameworkName: bls
+  - code: 25-9031
+    targetNodeName: Instructional Coordinators
+    frameworkName: bls
+  - code: 25-9090
+    targetNodeName: Miscellaneous Educational Instruction and Library Workers
+    frameworkName: bls

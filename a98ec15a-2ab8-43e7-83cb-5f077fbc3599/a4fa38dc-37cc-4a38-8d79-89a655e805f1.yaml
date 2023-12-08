@@ -1,0 +1,59 @@
+id: https://osmt.wgu.edu/api/skills/a4fa38dc-37cc-4a38-8d79-89a655e805f1
+uuid: a4fa38dc-37cc-4a38-8d79-89a655e805f1
+status: published
+publishDate: '2022-12-04T00:24:30.710208'
+archiveDate: null
+skillName: Reflection on Instruction Response
+skillStatement: Reflect on response to instruction for improved practice.
+category: Reflective Practice
+keywords:
+  - Reflective Practice
+  - InTASC_9n
+  - InTASC
+  - InTASC_9m
+  - InTASC_9g
+  - InTASC_9l
+  - InTASC_10r
+  - Reflective Practice
+occupations:
+  - code: 25-2011.00
+    targetNodeName: Preschool Teachers, Except Special Education
+    frameworkName: o*net
+  - code: 25-2012.00
+    targetNodeName: Kindergarten Teachers, Except Special Education
+    frameworkName: o*net
+  - code: 25-2021.00
+    targetNodeName: Elementary School Teachers, Except Special Education
+    frameworkName: o*net
+  - code: 25-2022.00
+    targetNodeName: Middle School Teachers, Except Special and Career/Technical Education
+    frameworkName: o*net
+  - code: 25-2031.00
+    targetNodeName: Secondary School Teachers, Except Special and Career/Technical Education
+    frameworkName: o*net
+  - code: 25-2051.00
+    targetNodeName: Special Education Teachers, Preschool
+    frameworkName: o*net
+  - code: 25-2055.00
+    targetNodeName: Special Education Teachers, Kindergarten
+    frameworkName: o*net
+  - code: 25-2056.00
+    targetNodeName: Special Education Teachers, Elementary School
+    frameworkName: o*net
+  - code: 25-2057.00
+    targetNodeName: Special Education Teachers, Middle School
+    frameworkName: o*net
+  - code: 25-2058.00
+    targetNodeName: Special Education Teachers, Secondary School
+    frameworkName: o*net
+  - code: 25-2059.00
+    targetNodeName: Special Education Teachers, All Other
+    frameworkName: o*net
+  - code: 25-9042.00
+    targetNodeName: >-
+      Teaching Assistants, Preschool, Elementary, Middle, and Secondary School,
+      Except Special Education
+    frameworkName: o*net
+  - code: 25-9043.00
+    targetNodeName: Teaching Assistants, Special Education
+    frameworkName: o*net

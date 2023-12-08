@@ -1,0 +1,53 @@
+id: https://osmt.wgu.edu/api/skills/43693477-81b4-45d8-8aec-58237db89c69
+uuid: 43693477-81b4-45d8-8aec-58237db89c69
+status: published
+publishDate: '2022-02-02T14:20:18.751182'
+archiveDate: null
+skillName: Positive Working Relationship Development
+skillStatement: >-
+  Develop a positive working relationship with families, community members, and
+  partners.
+category: Community Management
+keywords:
+  - ISTE_Educators_4d
+  - ISTE_EdLeaders_2d
+  - InTASC_3a
+  - InTASC_3d
+  - InTASC_3g
+  - InTASC_3i
+  - InTASC_3m
+  - InTASC_3n
+  - InTASC_4g
+  - InTASC_5i
+  - InTASC_6p
+  - InTASC_8n
+  - InTASC_3b
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_3j
+  - ISTE_Educators_4a
+  - ISTE_Educators_4b
+  - ISTE_Educators_4c
+  - ISTE_Educators_2a
+  - InTASC_10d
+  - AAQEP_1e
+  - Community Management
+  - Community Relations
+  - Community Management
+  - InTASC_10q
+  - Healthy Learning Strategies
+  - NAEYC_2b
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-2010
+    targetNodeName: Preschool and Kindergarten Teachers
+    frameworkName: bls
+  - code: 25-2020
+    targetNodeName: Elementary and Middle School Teachers
+    frameworkName: bls
+  - code: 25-2030
+    targetNodeName: Secondary School Teachers
+    frameworkName: bls

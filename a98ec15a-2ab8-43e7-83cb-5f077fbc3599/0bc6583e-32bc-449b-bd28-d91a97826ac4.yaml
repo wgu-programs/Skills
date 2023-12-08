@@ -1,0 +1,94 @@
+id: https://osmt.wgu.edu/api/skills/0bc6583e-32bc-449b-bd28-d91a97826ac4
+uuid: 0bc6583e-32bc-449b-bd28-d91a97826ac4
+status: published
+publishDate: '2022-01-25T16:40:30.846222'
+archiveDate: null
+skillName: Instructional Replacement Technology Selection
+skillStatement: Select technologies that can replace other modes of instruction.
+category: Educational Technologies
+keywords:
+  - Special Education
+  - InTASC_3a
+  - InTASC_3i
+  - InTASC_3m
+  - InTASC_3n
+  - InTASC_4g
+  - InTASC_8n
+  - ATD.Org.DA
+  - ATD.Prof.EI
+  - ATD.Prof.ID
+  - ATD.Prof.TA
+  - ATD.Prof.TDF
+  - ISTE.Coach.C.3a
+  - ISTE.Coach.CA.1a
+  - ISTE.Coach.CA.1c
+  - ISTE.Coach.CL.2c
+  - ISTE.Coach.LD.4d
+  - ISTE.Coach.PLF.5b
+  - InTASC_3b
+  - InTASC_3e
+  - InTASC_3f
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_4f
+  - InTASC_5d
+  - ATD.Org.FR
+  - ATD.Org.CBP
+  - ISTE.Coach.CL.2a
+  - ISTE.Coach.CL.2b
+  - ISTE.Coach.PLF.5a
+  - InTASC_6o
+  - ISTE_Educators_1c
+  - ISTE_Educators_5a
+  - ISTE_Educators_5b
+  - ISTE_Educators_5c
+  - ISTE.Coach.PLF.5bAAQEP_1a
+  - ISTE_EdLeaders_3a
+  - ISTE_EdLeaders_3b
+  - ISTE.Coach.C.3d
+  - ISTE.Coach.CA.1b
+  - Educational Technologies
+  - Educational Technologies
+  - 'WGUSID: 6217'
+  - UDL_1.2
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-1020
+    targetNodeName: Math and Computer Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1040
+    targetNodeName: Life Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1050
+    targetNodeName: Physical Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1080
+    targetNodeName: Education and Library Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-2020
+    targetNodeName: Elementary and Middle School Teachers
+    frameworkName: bls
+  - code: 25-2030
+    targetNodeName: Secondary School Teachers
+    frameworkName: bls
+  - code: 25-2050
+    targetNodeName: Special Education Teachers
+    frameworkName: bls
+  - code: 25-4020
+    targetNodeName: Librarians and Media Collections Specialists
+    frameworkName: bls
+  - code: 25-4022
+    targetNodeName: Librarians and Media Collections Specialists
+    frameworkName: bls
+  - code: 25-9030
+    targetNodeName: Instructional Coordinators
+    frameworkName: bls
+  - code: 25-9031
+    targetNodeName: Instructional Coordinators
+    frameworkName: bls
+  - code: 25-9090
+    targetNodeName: Miscellaneous Educational Instruction and Library Workers
+    frameworkName: bls

@@ -1,0 +1,63 @@
+id: https://osmt.wgu.edu/api/skills/03dfa8a9-e130-4089-8f9b-26461258e4a0
+uuid: 03dfa8a9-e130-4089-8f9b-26461258e4a0
+status: published
+publishDate: '2022-02-02T14:19:56.861433'
+archiveDate: null
+skillName: Educational Innovation Testing
+skillStatement: Test educational innovations to improve educational performance.
+category: Continuous Quality Improvement (CQI)
+keywords:
+  - ISTE_Educators_7c
+  - InTASC_3a
+  - InTASC_3d
+  - InTASC_3g
+  - InTASC_3i
+  - InTASC_3m
+  - InTASC_3n
+  - InTASC_4g
+  - InTASC_5i
+  - InTASC_6p
+  - InTASC_8n
+  - ISTE_EdLeaders_2c
+  - ISTE_Educators_7a
+  - ISTE_Educators_7b
+  - InTASC_3b
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_3j
+  - AAQEP_3d
+  - ISTE_Educators_5a
+  - ISTE_Educators_5b
+  - ISTE_Educators_5c
+  - Continuous Quality Improvement (CQI)
+  - Continuous Quality Improvement (CQI)
+  - 'WGUSID: 6455'
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-1010
+    targetNodeName: Business Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1020
+    targetNodeName: Math and Computer Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1040
+    targetNodeName: Life Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1050
+    targetNodeName: Physical Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1060
+    targetNodeName: Social Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1070
+    targetNodeName: Health Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1080
+    targetNodeName: Education and Library Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1120
+    targetNodeName: Arts, Communications, History, and Humanities Teachers, Postsecondary
+    frameworkName: bls

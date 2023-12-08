@@ -1,0 +1,88 @@
+id: https://osmt.wgu.edu/api/skills/0bbb9649-a41d-421f-9eab-2a2423fb9cc5
+uuid: 0bbb9649-a41d-421f-9eab-2a2423fb9cc5
+status: published
+publishDate: '2022-01-25T15:48:03.48566'
+archiveDate: null
+skillName: Address Goals Through Collaboration
+skillStatement: Collaborate with teachers, faculty, and other professionals to address goals.
+category: Collaboration
+keywords:
+  - Character
+  - 21st_Century_Skills
+  - AAQEP_1f
+  - ISTE_Educators_4d
+  - InTASC_3a
+  - InTASC_3d
+  - InTASC_3g
+  - InTASC_3i
+  - InTASC_3m
+  - InTASC_3n
+  - InTASC_4g
+  - InTASC_5i
+  - InTASC_6p
+  - InTASC_8n
+  - ISTE.Coach.C.3a
+  - ISTE.Coach.CA.1a
+  - ISTE.Coach.CA.1c
+  - ISTE.Coach.CL.2c
+  - InTASC_3b
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - ISTE.Coach.PLF.5c
+  - ISTE.Coach.DDM.6c
+  - InTASC_3j
+  - ISTE.Coach.CL.2a
+  - ISTE.Coach.CL.2b
+  - ISTE_EdLeaders_2b
+  - ISTE_EdLeaders_4a
+  - Character Education
+  - ISTE_Educators_4a
+  - ISTE_Educators_4b
+  - ISTE_Educators_4c
+  - AAQEP_1a
+  - AAQEP_2f
+  - NELP_7.2
+  - PSEL_1b
+  - Collaboration
+  - Collaboration
+  - InTASC_10b
+  - 'WGUSID: 979.2'
+  - InTASC_10c
+  - ISTE.Coach.CA.1e
+  - InTASC_9d
+  - InTASC_10d
+  - InTASC_10e
+  - AAQEP_1e
+  - NBPTS_Core_Proposition_5
+  - PSEL_7g
+  - NELP_7.3
+  - NELP_2.3
+  - PSEL_7e
+  - PSEL_2b
+  - PSEL_7c
+  - PSEL_10d
+  - NELP_1.1
+  - PSEL_7f
+  - '988'
+  - NEA.TeacherLeader:FCR
+  - ISTE.Coach.PLF.5cAAQEP_1e
+  - NELP_7.1
+  - PSEL_1f
+  - UDL_3.9
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-4020
+    targetNodeName: Librarians and Media Collections Specialists
+    frameworkName: bls
+  - code: 25-4022
+    targetNodeName: Librarians and Media Collections Specialists
+    frameworkName: bls
+  - code: 25-9030
+    targetNodeName: Instructional Coordinators
+    frameworkName: bls
+  - code: 25-9031
+    targetNodeName: Instructional Coordinators
+    frameworkName: bls

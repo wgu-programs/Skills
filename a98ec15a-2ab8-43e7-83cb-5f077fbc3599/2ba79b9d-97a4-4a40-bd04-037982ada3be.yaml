@@ -1,0 +1,83 @@
+id: https://osmt.wgu.edu/api/skills/2ba79b9d-97a4-4a40-bd04-037982ada3be
+uuid: 2ba79b9d-97a4-4a40-bd04-037982ada3be
+status: published
+publishDate: '2022-02-08T22:53:30.794075'
+archiveDate: null
+skillName: Goal Commitment Plan Creation
+skillStatement: Create a plan to commit to personal and professional goals.
+category: Self Starter
+keywords:
+  - ISTE_EdLeaders_5a
+  - InTASC_3i
+  - ATD.Prof.ID
+  - ATD.Prof.TDF
+  - ISTE.Coach.C.3a
+  - ISTE.Coach.CA.1a
+  - ISTE.Coach.CA.1c
+  - ISTE.Coach.CL.2c
+  - ISTE.Coach.PLF.5b
+  - InTASC_3b
+  - InTASC_3e
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_5d
+  - ISTE.Coach.PLF.5c
+  - ISTE.Coach.DDM.6c
+  - ATD.Pers.CL
+  - ISTE.Coach.PLF.5a
+  - InTASC_6o
+  - InTASC_6s
+  - ISTE_Educators_1c
+  - ISTE.Coach.PLF.5cAAQEP_1a
+  - ISTE_EdLeaders_3a
+  - ISTE_Educators_1a
+  - ISTE_Educators_1b
+  - ISTE_Educators_2a
+  - ATD.Pers.LL
+  - AAQEP_2e
+  - Self-Motivation
+  - Self Starter
+  - Self Starter
+  - personal goals
+  - professional goals
+  - 'WGUSID: 1462'
+  - Influencer
+  - Transferrable Skills Across Occupations
+  - Transferrable Skills for Leaders
+  - Entrepreneur
+  - Professional Development and Career Management
+  - Entrepreneurship
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-1010
+    targetNodeName: Business Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1020
+    targetNodeName: Math and Computer Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1040
+    targetNodeName: Life Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1050
+    targetNodeName: Physical Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1060
+    targetNodeName: Social Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1070
+    targetNodeName: Health Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1080
+    targetNodeName: Education and Library Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1120
+    targetNodeName: Arts, Communications, History, and Humanities Teachers, Postsecondary
+    frameworkName: bls
+  - code: 33-0000
+    targetNodeName: Protective Service Occupations
+    frameworkName: bls
+  - code: 33-3020
+    targetNodeName: Detectives and Criminal Investigators
+    frameworkName: bls

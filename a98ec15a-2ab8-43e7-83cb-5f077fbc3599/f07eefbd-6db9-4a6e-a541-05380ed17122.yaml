@@ -1,0 +1,47 @@
+id: https://osmt.wgu.edu/api/skills/f07eefbd-6db9-4a6e-a541-05380ed17122
+uuid: f07eefbd-6db9-4a6e-a541-05380ed17122
+status: published
+publishDate: '2022-02-04T21:15:55.255951'
+archiveDate: null
+skillName: Teaching Practice Development
+skillStatement: >-
+  Develop teaching practice by seeking new learning opportunities and
+  challenges.
+category: Mindset
+keywords:
+  - AAQEP_1f
+  - InTASC_3a
+  - InTASC_3i
+  - InTASC_3n
+  - InTASC_4g
+  - InTASC_8n
+  - InTASC_3b
+  - InTASC_3e
+  - InTASC_3f
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_5d
+  - InTASC_6o
+  - InTASC_6s
+  - ISTE_Educators_1c
+  - InTASC_3c
+  - Mindset
+  - Self Evaluation
+  - Problem Solving
+  - Positive Mental Attitude
+  - Mental Process
+  - ISTE_Educators_1a
+  - ISTE_Educators_1b
+  - ISTE_EdLeaders_5d
+  - 'WGUSID: 619'
+  - Healthy Learning Strategies
+  - TC Disposition 4
+occupations:
+  - code: 11-3130
+    targetNodeName: Training and Development Managers
+    frameworkName: bls
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: '449919'

@@ -1,0 +1,68 @@
+id: https://osmt.wgu.edu/api/skills/9d8257c3-f515-46e9-ae3f-01095b2df045
+uuid: 9d8257c3-f515-46e9-ae3f-01095b2df045
+status: published
+publishDate: '2022-02-08T22:53:23.915575'
+archiveDate: null
+skillName: Learning Outcomes Evaluation
+skillStatement: Evaluate learners' achievement of the learning outcomes.
+category: Progress Monitoring
+keywords:
+  - ISTE_Educators_7c
+  - InTASC_3a
+  - InTASC_3i
+  - InTASC_4g
+  - InTASC_8n
+  - ISTE_EdLeaders_2c
+  - ATD.Org.DA
+  - ATD.Prof.EI
+  - ATD.Prof.ID
+  - ATD.Prof.TA
+  - ATD.Prof.TDF
+  - ISTE.Coach.C.3a
+  - ISTE.Coach.CA.1a
+  - ISTE.Coach.CA.1c
+  - ISTE.Coach.CL.2c
+  - ISTE.Coach.DDM.6a
+  - ISTE.Coach.DDM.6b
+  - ISTE.Coach.PLF.5b
+  - ISTE.Coach.PLF.5cAAQEP_1d
+  - ISTE_Educators_7b
+  - InTASC_3b
+  - InTASC_3e
+  - InTASC_3f
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_5d
+  - ISTE.Coach.PLF.5c
+  - ATD.Prof.LS
+  - ISTE.Coach.DDM.6c
+  - ATD.Pers.CL
+  - Progress Monitoring
+  - Certifications
+  - ATD.Org.CBP
+  - ATD.Prof.KM
+  - ISTE.Coach.PLF.5a
+  - InTASC_3q
+  - InTASC_6o
+  - InTASC_6s
+  - Progress Monitoring
+  - Certification
+  - learning outcomes
+  - 'WGUSID: 3152'
+occupations:
+  - code: 11-9033
+    targetNodeName: Education Administrators, Postsecondary
+    frameworkName: bls
+  - code: 11-9039
+    targetNodeName: Education Administrators, All Other
+    frameworkName: bls
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-9030
+    targetNodeName: Instructional Coordinators
+    frameworkName: bls
+  - code: 25-9031
+    targetNodeName: Instructional Coordinators
+    frameworkName: bls

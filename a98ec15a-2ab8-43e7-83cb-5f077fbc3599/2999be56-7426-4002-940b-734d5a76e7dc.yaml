@@ -1,0 +1,99 @@
+id: https://osmt.wgu.edu/api/skills/2999be56-7426-4002-940b-734d5a76e7dc
+uuid: 2999be56-7426-4002-940b-734d5a76e7dc
+status: published
+publishDate: '2022-01-25T16:54:06.65627'
+archiveDate: null
+skillName: Professional Expertise Instruction Design
+skillStatement: Design instruction with professionals who have specialized expertise.
+category: Teamwork
+keywords:
+  - Special Education
+  - 'SEL: Interpersonal Communication'
+  - ISTE_Educators_4d
+  - ATD.Prof.ID
+  - ATD.Prof.TDF
+  - ISTE.Coach.C.3a
+  - ISTE.Coach.CA.1a
+  - ISTE.Coach.CA.1c
+  - ISTE.Coach.CL.2c
+  - ISTE.Coach.LD.4a
+  - ISTE.Coach.LD.4d
+  - ISTE.Coach.PLF.5b
+  - InTASC_3l
+  - ATD.Pers.CL
+  - ATD.Org.CBP
+  - ISTE.Coach.CL.2b
+  - ISTE.Coach.PLF.5a
+  - CEC_4.1
+  - UETS_5
+  - Team Oriented
+  - Teamwork
+  - ISTE_EdLeaders_3a
+  - ISTE_Educators_4a
+  - ISTE_Educators_2a
+  - ISTE.Coach.CA.1e
+  - Team Building
+  - Team Management
+  - 'WGUSID: 2110'
+  - ISTE.Coach.PLF.5bAAQEP_2f
+  - Teamwork
+  - TESOL_K12 Teacher Prep_3d
+  - English Language Learning
+occupations:
+  - code: 11-9033
+    targetNodeName: Education Administrators, Postsecondary
+    frameworkName: bls
+  - code: 11-9039
+    targetNodeName: Education Administrators, All Other
+    frameworkName: bls
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-1020
+    targetNodeName: Math and Computer Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1040
+    targetNodeName: Life Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1050
+    targetNodeName: Physical Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1080
+    targetNodeName: Education and Library Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-2020
+    targetNodeName: Elementary and Middle School Teachers
+    frameworkName: bls
+  - code: 25-2030
+    targetNodeName: Secondary School Teachers
+    frameworkName: bls
+  - code: 25-2050
+    targetNodeName: Special Education Teachers
+    frameworkName: bls
+  - code: 25-4020
+    targetNodeName: Librarians and Media Collections Specialists
+    frameworkName: bls
+  - code: 25-4022
+    targetNodeName: Librarians and Media Collections Specialists
+    frameworkName: bls
+  - code: 25-9030
+    targetNodeName: Instructional Coordinators
+    frameworkName: bls
+  - code: 25-9031
+    targetNodeName: Instructional Coordinators
+    frameworkName: bls
+  - code: 25-9090
+    targetNodeName: Miscellaneous Educational Instruction and Library Workers
+    frameworkName: bls
+  - code: 33-0000
+    targetNodeName: Protective Service Occupations
+    frameworkName: bls
+  - code: 33-1010
+    targetNodeName: First-Line Supervisors of Law Enforcement Workers
+    frameworkName: bls
+  - code: 33-3020
+    targetNodeName: Detectives and Criminal Investigators
+    frameworkName: bls
+  - code: 33-3050
+    targetNodeName: Police Officers
+    frameworkName: bls

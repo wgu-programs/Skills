@@ -1,0 +1,96 @@
+id: https://osmt.wgu.edu/api/skills/fcd7cfca-3866-4194-ac22-9728e775d747
+uuid: fcd7cfca-3866-4194-ac22-9728e775d747
+status: published
+publishDate: '2022-02-02T14:19:58.330969'
+archiveDate: null
+skillName: Cultural Experience Integration
+skillStatement: Integrate cultural experiences in instructional planning.
+category: Cultural Sensitivity
+keywords:
+  - 21st_Century_Skills
+  - ISTE_Educators_4d
+  - Cultural Sensitivity
+  - Cultural Awareness
+  - Cultural Sensitivity
+  - InTASC_3a
+  - InTASC_3d
+  - InTASC_3i
+  - InTASC_3m
+  - InTASC_3n
+  - InTASC_4g
+  - InTASC_6p
+  - InTASC_8n
+  - ATD.Prof.ID
+  - ATD.Prof.TDF
+  - ISTE.Coach.C.3a
+  - ISTE.Coach.CA.1a
+  - ISTE.Coach.CA.1c
+  - ISTE.Coach.CL.2c
+  - ISTE.Coach.LD.4a
+  - ISTE.Coach.LD.4d
+  - ISTE.Coach.PLF.5b
+  - InTASC_3b
+  - InTASC_3f
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_5d
+  - ATD.Org.ODC
+  - ATD.Prof.LS
+  - SEL
+  - ISTE_Educators_2b
+  - ISTE_Educators_5b
+  - ISTE_Educators_6a
+  - ISTE_Educators_6b
+  - ISTE_Educators_6c
+  - ISTE_Educators_6d
+  - ISTE.Coach.PLF.5bAAQEP_1a
+  - ISTE.Coach.C.3b
+  - ISTE.Coach.CA.1b
+  - ISTE_EdLeaders_3d
+  - ISTE_Educators_4c
+  - AAQEP_2b
+  - ATD.Pers.CA
+  - 'SEL: Social Awareness'
+  - InTASC_4m
+  - 'WGUSID: 4516'
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-1020
+    targetNodeName: Math and Computer Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1040
+    targetNodeName: Life Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1050
+    targetNodeName: Physical Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1080
+    targetNodeName: Education and Library Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-2020
+    targetNodeName: Elementary and Middle School Teachers
+    frameworkName: bls
+  - code: 25-2030
+    targetNodeName: Secondary School Teachers
+    frameworkName: bls
+  - code: 25-2050
+    targetNodeName: Special Education Teachers
+    frameworkName: bls
+  - code: 25-4020
+    targetNodeName: Librarians and Media Collections Specialists
+    frameworkName: bls
+  - code: 25-4022
+    targetNodeName: Librarians and Media Collections Specialists
+    frameworkName: bls
+  - code: 25-9030
+    targetNodeName: Instructional Coordinators
+    frameworkName: bls
+  - code: 25-9031
+    targetNodeName: Instructional Coordinators
+    frameworkName: bls
+  - code: 25-9090
+    targetNodeName: Miscellaneous Educational Instruction and Library Workers
+    frameworkName: bls

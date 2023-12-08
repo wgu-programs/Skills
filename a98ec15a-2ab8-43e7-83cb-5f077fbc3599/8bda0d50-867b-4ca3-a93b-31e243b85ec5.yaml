@@ -1,0 +1,103 @@
+id: https://osmt.wgu.edu/api/skills/8bda0d50-867b-4ca3-a93b-31e243b85ec5
+uuid: 8bda0d50-867b-4ca3-a93b-31e243b85ec5
+status: published
+publishDate: '2022-02-08T00:32:44.377632'
+archiveDate: null
+skillName: Culture of Responsibility Promotion
+skillStatement: Promote a common culture of student and group responsibility for quality work.
+category: Positive School Culture
+keywords:
+  - AAQEP_1f
+  - ISTE_Educators_4d
+  - InTASC_3a
+  - InTASC_3i
+  - InTASC_4g
+  - InTASC_8n
+  - ISTE.Coach.C.3a
+  - ISTE.Coach.CA.1a
+  - ISTE.Coach.CA.1c
+  - ISTE.Coach.CL.2c
+  - ISTE.Coach.LD.4a
+  - ISTE.Coach.LD.4d
+  - InTASC_3b
+  - InTASC_3e
+  - InTASC_3f
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_5d
+  - InTASC_3q
+  - InTASC_6o
+  - InTASC_6s
+  - ISTE_Educators_1c
+  - ISTE_Educators_2b
+  - ISTE_Educators_3a
+  - ISTE_Educators_3b
+  - ISTE_Educators_6a
+  - ISTE_Educators_6b
+  - ISTE_Educators_6c
+  - ISTE_Educators_6d
+  - InTASC_3c
+  - ISTE_EdLeaders_3a
+  - ISTE_EdLeaders_3b
+  - ISTE_Educators_4a
+  - ISTE_Educators_4b
+  - ISTE_Educators_4c
+  - AAQEP_2f
+  - Positive School Culture
+  - AAQEP_2b
+  - ISTE_Educators_1a
+  - ISTE_Educators_1b
+  - ISTE_Educators_2a
+  - ISTE_Educators_3d
+  - ISTE.Coach.PLF.5bAAQEP_1e
+  - ISTE_Coach_C_3a
+  - ISTE_Coach_CA_1a
+  - ISTE_Coach_CA_1c
+  - ISTE_Coach_CL_2c
+  - ISTE_Coach_PLF_5b
+  - student responsibility
+  - group responsibility
+  - 'WGUSID: 1345'
+  - ISTE_Coach_LD_4a
+  - ISTE_Coach_LD_4d
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-1020
+    targetNodeName: Math and Computer Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1040
+    targetNodeName: Life Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1050
+    targetNodeName: Physical Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1080
+    targetNodeName: Education and Library Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-2020
+    targetNodeName: Elementary and Middle School Teachers
+    frameworkName: bls
+  - code: 25-2030
+    targetNodeName: Secondary School Teachers
+    frameworkName: bls
+  - code: 25-2050
+    targetNodeName: Special Education Teachers
+    frameworkName: bls
+  - code: 25-4020
+    targetNodeName: Librarians and Media Collections Specialists
+    frameworkName: bls
+  - code: 25-4022
+    targetNodeName: Librarians and Media Collections Specialists
+    frameworkName: bls
+  - code: 25-9030
+    targetNodeName: Instructional Coordinators
+    frameworkName: bls
+  - code: 25-9031
+    targetNodeName: Instructional Coordinators
+    frameworkName: bls
+  - code: 25-9090
+    targetNodeName: Miscellaneous Educational Instruction and Library Workers
+    frameworkName: bls

@@ -1,0 +1,57 @@
+id: https://osmt.wgu.edu/api/skills/a4348b2d-29b1-4e30-b7ae-93fdc89f13fe
+uuid: a4348b2d-29b1-4e30-b7ae-93fdc89f13fe
+status: published
+publishDate: '2022-02-02T14:20:57.510047'
+archiveDate: null
+skillName: Classroom Computer Proficiency Demonstration
+skillStatement: >-
+  Demonstrate proficiency with computers and relevant applications for classroom
+  instruction.
+category: Computer Literacy
+keywords:
+  - ISTE_EdLeaders_2d
+  - InTASC_3a
+  - InTASC_3d
+  - InTASC_3g
+  - InTASC_3i
+  - InTASC_3m
+  - InTASC_3n
+  - InTASC_4g
+  - InTASC_5i
+  - InTASC_6p
+  - InTASC_8n
+  - InTASC_3b
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - Computer Literacy
+  - InTASC_3j
+  - Computer Literacy
+  - ISTE_Educators_1c
+  - ISTE_Educators_3b
+  - ISTE_Educators_4a
+  - ISTE_Educators_4b
+  - ISTE_Educators_4c
+  - AAQEP_1a
+  - ISTE_Educators_3d
+  - ISTE_Educators_3c
+  - ISTE_EdLeaders_1a
+  - Google Certified Trainer (for teachers)
+  - 'WGUSID: 1926'
+  - NSQ_Teaching_B4
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-2010
+    targetNodeName: Preschool and Kindergarten Teachers
+    frameworkName: bls
+  - code: 25-2020
+    targetNodeName: Elementary and Middle School Teachers
+    frameworkName: bls
+  - code: 25-2030
+    targetNodeName: Secondary School Teachers
+    frameworkName: bls
+  - code: 33-0000
+    targetNodeName: Protective Service Occupations
+    frameworkName: bls

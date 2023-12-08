@@ -1,0 +1,56 @@
+id: https://osmt.wgu.edu/api/skills/626f459b-a432-4b1d-9ae2-ffe4acf0874e
+uuid: 626f459b-a432-4b1d-9ae2-ffe4acf0874e
+status: published
+publishDate: '2022-12-04T00:45:42.945368'
+archiveDate: null
+skillName: Collaboration on Personalized Objectives
+skillStatement: Collaborate with students to identify personalized learning objectives.
+category: Student Engagement
+keywords:
+  - Student Engagement
+  - InTASC
+  - InTASC_7c
+  - Student Engagement
+  - UDL_3.7
+occupations:
+  - code: 25-2011.00
+    targetNodeName: Preschool Teachers, Except Special Education
+    frameworkName: o*net
+  - code: 25-2012.00
+    targetNodeName: Kindergarten Teachers, Except Special Education
+    frameworkName: o*net
+  - code: 25-2021.00
+    targetNodeName: Elementary School Teachers, Except Special Education
+    frameworkName: o*net
+  - code: 25-2022.00
+    targetNodeName: Middle School Teachers, Except Special and Career/Technical Education
+    frameworkName: o*net
+  - code: 25-2031.00
+    targetNodeName: Secondary School Teachers, Except Special and Career/Technical Education
+    frameworkName: o*net
+  - code: 25-2051.00
+    targetNodeName: Special Education Teachers, Preschool
+    frameworkName: o*net
+  - code: 25-2055.00
+    targetNodeName: Special Education Teachers, Kindergarten
+    frameworkName: o*net
+  - code: 25-2056.00
+    targetNodeName: Special Education Teachers, Elementary School
+    frameworkName: o*net
+  - code: 25-2057.00
+    targetNodeName: Special Education Teachers, Middle School
+    frameworkName: o*net
+  - code: 25-2058.00
+    targetNodeName: Special Education Teachers, Secondary School
+    frameworkName: o*net
+  - code: 25-2059.00
+    targetNodeName: Special Education Teachers, All Other
+    frameworkName: o*net
+  - code: 25-9042.00
+    targetNodeName: >-
+      Teaching Assistants, Preschool, Elementary, Middle, and Secondary School,
+      Except Special Education
+    frameworkName: o*net
+  - code: 25-9043.00
+    targetNodeName: Teaching Assistants, Special Education
+    frameworkName: o*net

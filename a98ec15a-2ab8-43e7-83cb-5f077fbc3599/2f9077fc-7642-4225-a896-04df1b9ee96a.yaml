@@ -1,0 +1,74 @@
+id: https://osmt.wgu.edu/api/skills/2f9077fc-7642-4225-a896-04df1b9ee96a
+uuid: 2f9077fc-7642-4225-a896-04df1b9ee96a
+status: published
+publishDate: '2022-02-08T22:53:36.202411'
+archiveDate: null
+skillName: Academic Activity Resource Prediction
+skillStatement: Predict the resources that will be needed for academic activities.
+category: Resource Management
+keywords:
+  - ISTE_Educators_7c
+  - InTASC_3a
+  - InTASC_3i
+  - ISTE.Coach.C.3a
+  - ISTE.Coach.CA.1a
+  - ISTE.Coach.CA.1c
+  - ISTE.Coach.CL.2c
+  - ISTE.Coach.LD.4a
+  - ISTE.Coach.LD.4d
+  - ISTE.Coach.PLF.5b
+  - ISTE_Educators_7b
+  - InTASC_3b
+  - InTASC_3e
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_5d
+  - ISTE.Coach.PLF.5a
+  - InTASC_6o
+  - InTASC_6s
+  - ISTE_Educators_5a
+  - ISTE_Educators_5b
+  - ISTE_Educators_5c
+  - ISTE_EdLeaders_2b
+  - ISTE.Coach.CA.1b
+  - Resource Management
+  - Competency-basedEducation:ProgramDesign2019
+  - Resource Management
+  - ISTE.Coach.PLF.5bAAQEP_3e
+  - academic
+  - 'WGUSID: 5539'
+occupations:
+  - code: 11-9033
+    targetNodeName: Education Administrators, Postsecondary
+    frameworkName: bls
+  - code: 11-9039
+    targetNodeName: Education Administrators, All Other
+    frameworkName: bls
+  - code: 13-0000
+    targetNodeName: Business and Financial Operations Occupations
+    frameworkName: bls
+  - code: 13-1150
+    targetNodeName: Training and Development Specialists
+    frameworkName: bls
+  - code: 13-1151
+    targetNodeName: Training and Development Specialists
+    frameworkName: bls
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-4020
+    targetNodeName: Librarians and Media Collections Specialists
+    frameworkName: bls
+  - code: 25-4022
+    targetNodeName: Librarians and Media Collections Specialists
+    frameworkName: bls
+  - code: 25-9030
+    targetNodeName: Instructional Coordinators
+    frameworkName: bls
+  - code: 25-9031
+    targetNodeName: Instructional Coordinators
+    frameworkName: bls
+  - code: 25-9090
+    targetNodeName: Miscellaneous Educational Instruction and Library Workers
+    frameworkName: bls

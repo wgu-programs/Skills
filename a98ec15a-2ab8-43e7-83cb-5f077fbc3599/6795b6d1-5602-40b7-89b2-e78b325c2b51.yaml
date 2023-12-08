@@ -1,0 +1,71 @@
+id: https://osmt.wgu.edu/api/skills/6795b6d1-5602-40b7-89b2-e78b325c2b51
+uuid: 6795b6d1-5602-40b7-89b2-e78b325c2b51
+status: published
+publishDate: '2022-02-02T14:19:35.33945'
+archiveDate: null
+skillName: Promote Student Voice
+skillStatement: Promote each student's voice.
+category: Classroom Management
+keywords:
+  - AAQEP_1f
+  - ISTE_Educators_4d
+  - InTASC_3a
+  - InTASC_3d
+  - InTASC_3g
+  - InTASC_3i
+  - InTASC_3m
+  - InTASC_3n
+  - InTASC_4g
+  - InTASC_5i
+  - InTASC_6p
+  - InTASC_8n
+  - InTASC_3l
+  - InTASC_3o
+  - ISTE_Educators_2b
+  - ISTE_Educators_3a
+  - ISTE_Educators_3b
+  - ISTE_Educators_5a
+  - ISTE_Educators_5c
+  - ISTE_Educators_6a
+  - ISTE_Educators_6b
+  - ISTE_Educators_6c
+  - ISTE_Educators_6d
+  - ISTE_Educators_4b
+  - AAQEP_2c
+  - AAQEP_2b
+  - ISTE_EdLeaders_3c
+  - Classroom Management
+  - Classroom Management
+  - 'WGUSID: 159'
+  - NGT
+  - K-12 Teacher
+  - Healthy Learning Strategies
+  - TC Disposition 2
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-1010
+    targetNodeName: Business Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1020
+    targetNodeName: Math and Computer Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1040
+    targetNodeName: Life Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1050
+    targetNodeName: Physical Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1060
+    targetNodeName: Social Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1070
+    targetNodeName: Health Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1080
+    targetNodeName: Education and Library Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1120
+    targetNodeName: Arts, Communications, History, and Humanities Teachers, Postsecondary
+    frameworkName: bls

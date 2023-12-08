@@ -1,0 +1,54 @@
+id: https://osmt.wgu.edu/api/skills/eea7f017-139c-48a7-bd9b-462f554568e7
+uuid: eea7f017-139c-48a7-bd9b-462f554568e7
+status: published
+publishDate: '2022-02-08T00:32:33.803977'
+archiveDate: null
+skillName: Conduct Professional Activities for Special Education
+skillStatement: >-
+  Conduct professional activities in adherence to applicable federal and state
+  special education laws and regulations.
+category: Professionalism
+keywords:
+  - Special Education
+  - InTASC_3a
+  - InTASC_3i
+  - InTASC_4g
+  - InTASC_8n
+  - InTASC_3b
+  - InTASC_3e
+  - InTASC_3f
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_5d
+  - InTASC_3q
+  - InTASC_6o
+  - InTASC_6s
+  - ISTE_Educators_1c
+  - ISTE_EdLeaders_3a
+  - AAQEP_1a
+  - ISTE_Educators_1a
+  - ISTE_Educators_1b
+  - ISTE_Educators_2a
+  - Professionalism
+  - Professionalism
+  - Laws
+  - regulations
+  - professional activities
+  - 'WGUSID: 1233'
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-2050
+    targetNodeName: Special Education Teachers
+    frameworkName: bls
+  - code: 33-0000
+    targetNodeName: Protective Service Occupations
+    frameworkName: bls
+  - code: 33-3020
+    targetNodeName: Detectives and Criminal Investigators
+    frameworkName: bls
+  - code: 33-3050
+    targetNodeName: Police Officers
+    frameworkName: bls

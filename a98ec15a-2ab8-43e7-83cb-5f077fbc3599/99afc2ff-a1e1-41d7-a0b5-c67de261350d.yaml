@@ -1,0 +1,49 @@
+id: https://osmt.wgu.edu/api/skills/99afc2ff-a1e1-41d7-a0b5-c67de261350d
+uuid: 99afc2ff-a1e1-41d7-a0b5-c67de261350d
+status: published
+publishDate: '2022-01-31T16:58:53.452011'
+archiveDate: null
+skillName: Learner Needs Instruction Modification
+skillStatement: Modify instruction to meet the needs of individual or groups of learners.
+category: Differentiated Instruction
+keywords:
+  - InTASC_3a
+  - InTASC_3i
+  - InTASC_3m
+  - InTASC_3n
+  - InTASC_4g
+  - InTASC_6p
+  - InTASC_8n
+  - InTASC_3b
+  - InTASC_3f
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_4f
+  - InTASC_5d
+  - ISTE_Educators_5a
+  - ISTE_Educators_5b
+  - ISTE_Educators_5c
+  - ISTE_Educators_6a
+  - ISTE_Educators_6b
+  - ISTE_Educators_6c
+  - ISTE_Educators_6d
+  - Differentiated Instruction
+  - Differentiated Instruction
+  - ISTE_EdLeaders_3d
+  - AAQEP_1a
+  - InTASC_8a
+  - 'WGUSID: 5077'
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-2010
+    targetNodeName: Preschool and Kindergarten Teachers
+    frameworkName: bls
+  - code: 25-2020
+    targetNodeName: Elementary and Middle School Teachers
+    frameworkName: bls
+  - code: 25-2030
+    targetNodeName: Secondary School Teachers
+    frameworkName: bls

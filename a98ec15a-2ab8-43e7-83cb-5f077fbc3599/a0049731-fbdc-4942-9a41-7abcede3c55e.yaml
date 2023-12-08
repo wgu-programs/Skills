@@ -1,0 +1,56 @@
+id: https://osmt.wgu.edu/api/skills/a0049731-fbdc-4942-9a41-7abcede3c55e
+uuid: a0049731-fbdc-4942-9a41-7abcede3c55e
+status: published
+publishDate: '2022-02-04T01:09:36.723094'
+archiveDate: null
+skillName: Student Expectations Establishment
+skillStatement: >-
+  Establish expectations for students to perform academic tasks with increasing
+  independence from adults.
+category: Instruction Delivery
+keywords:
+  - ISTE_Educators_4d
+  - ISTE_Educators_7c
+  - InTASC_3a
+  - InTASC_3i
+  - InTASC_3n
+  - InTASC_4g
+  - InTASC_8n
+  - ISTE_Educators_7a
+  - ISTE_Educators_7b
+  - InTASC_3b
+  - InTASC_3e
+  - InTASC_3f
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_4f
+  - InTASC_5d
+  - Certifications
+  - InTASC_6o
+  - ISTE_Educators_1c
+  - ISTE_Educators_3a
+  - ISTE_Educators_3b
+  - ISTE_Educators_5a
+  - ISTE_Educators_5b
+  - ISTE_Educators_5c
+  - ISTE_Educators_6a
+  - ISTE_Educators_6b
+  - ISTE_Educators_6c
+  - ISTE_Educators_6d
+  - InTASC_3c
+  - ISTE_EdLeaders_3a
+  - ISTE_EdLeaders_3b
+  - ISTE_Educators_4b
+  - ISTE_Educators_4c
+  - AAQEP_1a
+  - ISTE_EdLeaders_3c
+  - Instruction Delivery
+  - Instruction Delivery
+  - 'SEL: Instructional Techniques'
+  - 'WGUSID: 3018'
+  - UDL_3.9
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls

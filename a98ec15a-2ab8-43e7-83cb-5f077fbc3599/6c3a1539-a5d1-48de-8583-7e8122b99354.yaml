@@ -1,0 +1,53 @@
+id: https://osmt.wgu.edu/api/skills/6c3a1539-a5d1-48de-8583-7e8122b99354
+uuid: 6c3a1539-a5d1-48de-8583-7e8122b99354
+status: published
+publishDate: '2022-02-04T20:54:52.69599'
+archiveDate: null
+skillName: Policy Enforcement
+skillStatement: Enforce policies regarding online resources.
+category: Access Controls
+keywords:
+  - ISTE_Educators_4d
+  - InTASC_3g
+  - InTASC_3m
+  - InTASC_4g
+  - InTASC_5i
+  - InTASC_6p
+  - InTASC_8n
+  - AZ-303
+  - AZ-304
+  - ISTE_Educators_1c
+  - ISTE_Educators_6a
+  - ISTE_EdLeaders_4a
+  - InTASC_9f
+  - AAQEP_1a
+  - AAQEP_2c
+  - ISTE_Educators_3d
+  - AZ-204
+  - AZ-104
+  - AZ
+  - DP-203
+  - CompTIA_ITF+
+  - ISTE_Educators_3c
+  - Access Controls
+  - Access Controls
+occupations:
+  - code: 15-0000
+    targetNodeName: Computer and Mathematical Occupations
+    frameworkName: bls
+  - code: '15_1210'
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: '25_1010'
+  - code: '25_1020'
+  - code: '25_1040'
+  - code: '25_1050'
+  - code: '25_1060'
+  - code: '25_1070'
+  - code: '25_1080'
+  - code: '25_1120'
+  - code: 33-0000
+    targetNodeName: Protective Service Occupations
+    frameworkName: bls
+  - code: '33_1010'

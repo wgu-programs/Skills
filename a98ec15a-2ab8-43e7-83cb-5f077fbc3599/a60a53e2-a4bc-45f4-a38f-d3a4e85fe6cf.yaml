@@ -1,0 +1,57 @@
+id: https://osmt.wgu.edu/api/skills/a60a53e2-a4bc-45f4-a38f-d3a4e85fe6cf
+uuid: a60a53e2-a4bc-45f4-a38f-d3a4e85fe6cf
+status: published
+publishDate: '2022-02-02T14:19:57.767439'
+archiveDate: null
+skillName: Classroom Situation Solution Implementation
+skillStatement: Implement potential solutions to a given situation in the classroom.
+category: Critical Thinking
+keywords:
+  - InTASC_3a
+  - InTASC_3d
+  - InTASC_3g
+  - InTASC_3i
+  - InTASC_3m
+  - InTASC_3n
+  - InTASC_4g
+  - InTASC_6p
+  - InTASC_8n
+  - InTASC_3b
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_5d
+  - InTASC_3j
+  - Critical Thinking
+  - Operations
+  - Critical Thinking
+  - ISTE_Educators_1c
+  - ISTE_Educators_3a
+  - ISTE_Educators_3b
+  - ISTE_Educators_6a
+  - ISTE_Educators_6b
+  - ISTE_Educators_6c
+  - ISTE_Educators_6d
+  - ISTE_Educators_4b
+  - AAQEP_1a
+  - ISTE_EdLeaders_3e
+  - 'WGUSID: 6449.1'
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-2010
+    targetNodeName: Preschool and Kindergarten Teachers
+    frameworkName: bls
+  - code: 25-2020
+    targetNodeName: Elementary and Middle School Teachers
+    frameworkName: bls
+  - code: 25-2030
+    targetNodeName: Secondary School Teachers
+    frameworkName: bls
+  - code: 33-0000
+    targetNodeName: Protective Service Occupations
+    frameworkName: bls
+  - code: 33-3020
+    targetNodeName: Detectives and Criminal Investigators
+    frameworkName: bls

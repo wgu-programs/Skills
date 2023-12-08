@@ -1,0 +1,67 @@
+id: https://osmt.wgu.edu/api/skills/21e8a4cf-0bf9-4d80-a41d-46ba96061723
+uuid: 21e8a4cf-0bf9-4d80-a41d-46ba96061723
+status: published
+publishDate: '2022-01-25T16:37:19.286632'
+archiveDate: null
+skillName: Performance-Based Assessment Creation
+skillStatement: Create performance-based assessments.
+category: Educational Evaluation
+keywords:
+  - Special Education
+  - InTASC_3a
+  - InTASC_3i
+  - InTASC_3m
+  - InTASC_3n
+  - InTASC_4g
+  - InTASC_8n
+  - Educational Evaluation
+  - ATD.Prof.ID
+  - ATD.Prof.TDF
+  - ISTE.Coach.C.3a
+  - ISTE.Coach.CA.1a
+  - ISTE.Coach.CA.1c
+  - ISTE.Coach.CL.2c
+  - ISTE.Coach.LD.4a
+  - ISTE.Coach.LD.4b
+  - ISTE.Coach.LD.4d
+  - ISTE.Coach.PLF.5b
+  - InTASC_3b
+  - InTASC_3e
+  - InTASC_3f
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_4f
+  - InTASC_5d
+  - Educational Evaluation
+  - ATD.Prof.LS
+  - ISTE.Coach.PLF.5a
+  - InTASC_6o
+  - ISTE_Educators_1c
+  - ISTE_Educators_5a
+  - ISTE_Educators_5b
+  - ISTE_Educators_5c
+  - ISTE_EdLeaders_3a
+  - ISTE_EdLeaders_3b
+  - ISTE.Coach.PLF.5bAAQEP_1d
+  - ISTE_EdLeaders_3e
+  - 'WGUSID: 1671'
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-4020
+    targetNodeName: Librarians and Media Collections Specialists
+    frameworkName: bls
+  - code: 25-4022
+    targetNodeName: Librarians and Media Collections Specialists
+    frameworkName: bls
+  - code: 25-9030
+    targetNodeName: Instructional Coordinators
+    frameworkName: bls
+  - code: 25-9031
+    targetNodeName: Instructional Coordinators
+    frameworkName: bls
+  - code: 25-9090
+    targetNodeName: Miscellaneous Educational Instruction and Library Workers
+    frameworkName: bls

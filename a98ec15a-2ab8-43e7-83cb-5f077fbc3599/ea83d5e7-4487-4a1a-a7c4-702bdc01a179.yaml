@@ -1,0 +1,57 @@
+id: https://osmt.wgu.edu/api/skills/ea83d5e7-4487-4a1a-a7c4-702bdc01a179
+uuid: ea83d5e7-4487-4a1a-a7c4-702bdc01a179
+status: published
+publishDate: '2022-01-27T22:23:45.166825'
+archiveDate: null
+skillName: Implement Personal and Professional Goals
+skillStatement: Implement long- and short-term personal and professional goals and objectives.
+category: Goal Oriented
+keywords:
+  - InTASC_3a
+  - InTASC_3i
+  - InTASC_3n
+  - InTASC_4g
+  - InTASC_8n
+  - ATD.Prof.ID
+  - ATD.Prof.TDF
+  - ISTE.Coach.C.3a
+  - ISTE.Coach.CA.1a
+  - ISTE.Coach.CA.1c
+  - ISTE.Coach.CL.2c
+  - InTASC_3b
+  - InTASC_3e
+  - InTASC_3f
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_4f
+  - InTASC_5d
+  - InTASC_6o
+  - ISTE_Educators_1c
+  - ISTE_EdLeaders_4a
+  - Goal Oriented
+  - Goal Setting
+  - Goal Oriented
+  - ISTE_Educators_1a
+  - ISTE_Educators_1b
+  - ATD.Pers.LL
+  - 'Social Emotional Learning (SEL): General'
+  - 'Social Emotional Learning (SEL): Self Management'
+  - 'WGUSID: 4241'
+  - ISTE.Coach.CL.2cAAQEP_2e
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-4020
+    targetNodeName: Librarians and Media Collections Specialists
+    frameworkName: bls
+  - code: 25-4022
+    targetNodeName: Librarians and Media Collections Specialists
+    frameworkName: bls
+  - code: 25-9030
+    targetNodeName: Instructional Coordinators
+    frameworkName: bls
+  - code: 25-9031
+    targetNodeName: Instructional Coordinators
+    frameworkName: bls

@@ -1,0 +1,50 @@
+id: https://osmt.wgu.edu/api/skills/005a545a-ff4d-4d3e-a584-f12df957529c
+uuid: 005a545a-ff4d-4d3e-a584-f12df957529c
+status: published
+publishDate: '2022-02-09T23:22:33.997318'
+archiveDate: null
+skillName: Learning Communication Technologies Implementation
+skillStatement: Implement communication technologies to make learning effective for learners.
+category: Social Media
+keywords:
+  - InTASC_3i
+  - InTASC_3b
+  - InTASC_3e
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_5d
+  - InTASC_6o
+  - ISTE_Educators_3a
+  - ISTE_Educators_3b
+  - ISTE_Educators_6a
+  - ISTE_Educators_6b
+  - ISTE_Educators_6c
+  - ISTE_Educators_6d
+  - ISTE_EdLeaders_4a
+  - ISTE_Educators_4b
+  - ISTE_Educators_4c
+  - AAQEP_1a
+  - InTASC_6d
+  - ISTE_Educators_3d
+  - ISTE_Educators_3c
+  - Social Media
+  - Learning
+  - Social Content
+  - Social Media
+  - learners
+  - communication technologies
+  - 'WGUSID: 4126'
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-3010
+    targetNodeName: >-
+      Adult Basic Education, Adult Secondary Education, and English as a Second
+      Language Instructors
+    frameworkName: bls
+  - code: 25-3011
+    targetNodeName: >-
+      Adult Basic Education, Adult Secondary Education, and English as a Second
+      Language Instructors
+    frameworkName: bls

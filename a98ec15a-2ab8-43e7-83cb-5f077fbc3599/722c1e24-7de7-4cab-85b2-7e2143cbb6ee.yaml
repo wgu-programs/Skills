@@ -1,0 +1,96 @@
+id: https://osmt.wgu.edu/api/skills/722c1e24-7de7-4cab-85b2-7e2143cbb6ee
+uuid: 722c1e24-7de7-4cab-85b2-7e2143cbb6ee
+status: published
+publishDate: '2022-01-25T17:02:22.804642'
+archiveDate: null
+skillName: Incorporate Knowledge into Lessons
+skillStatement: >-
+  Incorporate the knowledge gained through reflection into lessons on a regular
+  basis.
+category: Reflective Practice
+keywords:
+  - Character
+  - 21st_Century_Skills
+  - ISTE_Educators_4d
+  - InTASC_3a
+  - InTASC_3i
+  - InTASC_4g
+  - InTASC_8n
+  - ISTE.Coach.C.3a
+  - ISTE.Coach.CA.1a
+  - ISTE.Coach.CA.1c
+  - ISTE.Coach.CL.2c
+  - ISTE.Coach.LD.4a
+  - ISTE.Coach.LD.4d
+  - ISTE.Coach.PLF.5b
+  - InTASC_3b
+  - InTASC_3e
+  - InTASC_3f
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_5d
+  - Curriculum & Instruction
+  - NBPTS_Core_Proposition_3
+  - NEA.TeacherLeader:RP
+  - ISTE.Coach.PLF.5a
+  - InTASC_3q
+  - InTASC_6o
+  - InTASC_6s
+  - NBPTS_Core_Proposition_4
+  - ISTE_EdLeaders_3a
+  - ISTE.Coach.PLF.5bAAQEP_1f
+  - ISTE_Educators_1b
+  - Reflective Practice
+  - NEA.TeacherLeader:CSJLE
+  - ISTE_EdLeaders_5c
+  - Reflective Practice
+  - Self-Reflection
+  - Growth Mindset
+  - Constructivism
+  - 'WGUSID: 4443'
+  - '11278'
+  - NAEYC_5c
+  - NAEYC_6e
+  - TESOL_K12 Teacher Prep_3c
+  - TESOL_K12 Teacher Prep_5d
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-1020
+    targetNodeName: Math and Computer Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1040
+    targetNodeName: Life Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1050
+    targetNodeName: Physical Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1080
+    targetNodeName: Education and Library Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-2020
+    targetNodeName: Elementary and Middle School Teachers
+    frameworkName: bls
+  - code: 25-2030
+    targetNodeName: Secondary School Teachers
+    frameworkName: bls
+  - code: 25-2050
+    targetNodeName: Special Education Teachers
+    frameworkName: bls
+  - code: 25-4020
+    targetNodeName: Librarians and Media Collections Specialists
+    frameworkName: bls
+  - code: 25-4022
+    targetNodeName: Librarians and Media Collections Specialists
+    frameworkName: bls
+  - code: 25-9030
+    targetNodeName: Instructional Coordinators
+    frameworkName: bls
+  - code: 25-9031
+    targetNodeName: Instructional Coordinators
+    frameworkName: bls
+  - code: 25-9090
+    targetNodeName: Miscellaneous Educational Instruction and Library Workers
+    frameworkName: bls

@@ -1,0 +1,57 @@
+id: https://osmt.wgu.edu/api/skills/2222fe11-049f-4e66-a45f-ef0edf4c931d
+uuid: 2222fe11-049f-4e66-a45f-ef0edf4c931d
+status: published
+publishDate: '2022-01-31T17:00:26.737754'
+archiveDate: null
+skillName: Student Goals Lesson Implementation
+skillStatement: >-
+  Implement single lessons and sequences of lessons that align to student needs,
+  goals, and objectives.
+category: Lesson Planning
+keywords:
+  - InTASC_3a
+  - InTASC_3i
+  - InTASC_3n
+  - InTASC_4g
+  - InTASC_8n
+  - ISTE.Coach.C.3a
+  - ISTE.Coach.CA.1a
+  - ISTE.Coach.CA.1c
+  - ISTE.Coach.CL.2c
+  - ISTE.Coach.DDM.6a
+  - ISTE.Coach.DDM.6b
+  - ISTE.Coach.PLF.5b
+  - InTASC_3b
+  - InTASC_3e
+  - InTASC_3f
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_5d
+  - Certifications
+  - InTASC_6o
+  - InTASC_6s
+  - ISTE_Educators_6a
+  - ISTE_Educators_6b
+  - ISTE_Educators_6c
+  - ISTE_Educators_6d
+  - InTASC_3c
+  - ISTE.Coach.PLF.5bAAQEP_1a
+  - ISTE_EdLeaders_4a
+  - InTASC_7a
+  - Lesson Planning
+  - Lesson Planning
+  - ISTE_EdLeaders_4b
+  - 'WGUSID: 4325'
+  - SL_GL1
+  - SL_GL4
+occupations:
+  - code: 11-3130
+    targetNodeName: Training and Development Managers
+    frameworkName: bls
+  - code: 11-3131
+    targetNodeName: Training and Development Managers
+    frameworkName: bls
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls

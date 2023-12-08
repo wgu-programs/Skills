@@ -1,0 +1,51 @@
+id: https://osmt.wgu.edu/api/skills/3c56d8d1-2a16-462e-98b2-9e94bc5d7055
+uuid: 3c56d8d1-2a16-462e-98b2-9e94bc5d7055
+status: published
+publishDate: '2022-02-02T14:20:25.520693'
+archiveDate: null
+skillName: School Policy Adherence
+skillStatement: >-
+  Demonstrate responsibility for job duties by adhering to school and district
+  policies.
+category: Accountability
+keywords:
+  - AAQEP_1f
+  - ISTE_Educators_4d
+  - ISTE_Educators_7c
+  - InTASC_3g
+  - InTASC_3m
+  - InTASC_4g
+  - InTASC_5i
+  - InTASC_6p
+  - InTASC_8n
+  - ISTE_Educators_7a
+  - ISTE_Educators_7b
+  - ISTE_Educators_1c
+  - ISTE_Educators_2b
+  - ISTE_Educators_3a
+  - ISTE_Educators_3b
+  - ISTE_Educators_5a
+  - ISTE_Educators_5b
+  - ISTE_Educators_5c
+  - ISTE_Educators_6a
+  - ISTE_Educators_6b
+  - ISTE_Educators_6c
+  - ISTE_Educators_6d
+  - ISTE_EdLeaders_1d
+  - ISTE_Educators_4b
+  - ISTE_Educators_4c
+  - AAQEP_2a
+  - ISTE_Educators_3d
+  - AAQEP_1e
+  - ISTE_Educators_3c
+  - Accountability
+  - Accountability
+  - 'WGUSID: 1937'
+  - InTASC_9o
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-2050
+    targetNodeName: Special Education Teachers
+    frameworkName: bls

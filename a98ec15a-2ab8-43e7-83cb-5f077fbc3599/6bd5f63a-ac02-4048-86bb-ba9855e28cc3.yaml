@@ -1,0 +1,70 @@
+id: https://osmt.wgu.edu/api/skills/6bd5f63a-ac02-4048-86bb-ba9855e28cc3
+uuid: 6bd5f63a-ac02-4048-86bb-ba9855e28cc3
+status: published
+publishDate: '2022-01-25T17:02:21.573638'
+archiveDate: null
+skillName: Student Cultural and Personal Experiences Evaluation
+skillStatement: >-
+  Evaluate a student's cultural, religious, family, intellectual, and personal
+  experiences.
+category: Learner Analysis
+keywords:
+  - ISTE_Educators_7c
+  - InTASC_3a
+  - InTASC_3i
+  - InTASC_3n
+  - InTASC_4g
+  - InTASC_8n
+  - ISTE_EdLeaders_2c
+  - ISTE.Coach.C.3a
+  - ISTE.Coach.CA.1a
+  - ISTE.Coach.CA.1c
+  - ISTE.Coach.CL.2c
+  - ISTE.Coach.LD.4a
+  - ISTE.Coach.LD.4d
+  - ISTE.Coach.PLF.5b
+  - ISTE.Coach.PLF.5cAAQEP_1d
+  - ISTE_Educators_7a
+  - ISTE_Educators_7b
+  - InTASC_3b
+  - InTASC_3e
+  - InTASC_3f
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_4f
+  - InTASC_5d
+  - ISTE.Coach.PLF.5c
+  - Curriculum & Instruction
+  - ISTE.Coach.DDM.6c
+  - ISTE.Coach.PLF.5a
+  - InTASC_6o
+  - InTASC_6s
+  - Learner Analysis
+  - ISTE_Educators_1c
+  - ISTE_Educators_2b
+  - ISTE_Educators_3a
+  - ISTE_Educators_3b
+  - ISTE_Educators_5a
+  - ISTE_Educators_5b
+  - ISTE_Educators_5c
+  - ISTE_Educators_6a
+  - ISTE_Educators_6b
+  - ISTE_Educators_6c
+  - ISTE_Educators_6d
+  - InTASC_3c
+  - Learner Analysis
+  - ISTE.Coach.C.3b
+  - ISTE.Coach.DCA.7c
+  - AAQEP_2b
+  - 'WGUSID: 3067'
+occupations:
+  - code: 11-3130
+    targetNodeName: Training and Development Managers
+    frameworkName: bls
+  - code: 11-3131
+    targetNodeName: Training and Development Managers
+    frameworkName: bls
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls

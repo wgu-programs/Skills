@@ -1,0 +1,65 @@
+id: https://osmt.wgu.edu/api/skills/f2c57213-cfb3-40a5-a951-257807f55b27
+uuid: f2c57213-cfb3-40a5-a951-257807f55b27
+status: published
+publishDate: '2022-02-02T14:20:18.677234'
+archiveDate: null
+skillName: Student Collaborative Skill Development
+skillStatement: Develop student collaborative skills through interactive classroom activities.
+category: Collaboration
+keywords:
+  - ISTE_Educators_4d
+  - InTASC_3a
+  - InTASC_3d
+  - InTASC_3i
+  - InTASC_3m
+  - InTASC_3n
+  - InTASC_4g
+  - InTASC_5i
+  - InTASC_6p
+  - InTASC_8n
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_3j
+  - ISTE_Educators_5a
+  - ISTE_Educators_5b
+  - ISTE_Educators_5c
+  - ISTE_Educators_6a
+  - ISTE_Educators_4b
+  - ISTE_Educators_4c
+  - AAQEP_1a
+  - ISTE_EdLeaders_3c
+  - Collaboration
+  - Collaboration
+  - AAQEP_1e
+  - Google Docs
+  - 'WGUSID: 2633'
+  - NSQ_Teaching_B3
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-1010
+    targetNodeName: Business Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1020
+    targetNodeName: Math and Computer Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1040
+    targetNodeName: Life Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1050
+    targetNodeName: Physical Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1060
+    targetNodeName: Social Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1070
+    targetNodeName: Health Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1080
+    targetNodeName: Education and Library Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1120
+    targetNodeName: Arts, Communications, History, and Humanities Teachers, Postsecondary
+    frameworkName: bls

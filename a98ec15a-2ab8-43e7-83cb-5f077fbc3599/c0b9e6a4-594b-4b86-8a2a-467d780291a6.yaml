@@ -1,0 +1,50 @@
+id: https://osmt.wgu.edu/api/skills/c0b9e6a4-594b-4b86-8a2a-467d780291a6
+uuid: c0b9e6a4-594b-4b86-8a2a-467d780291a6
+status: published
+publishDate: '2022-02-08T22:53:34.353219'
+archiveDate: null
+skillName: Class Routine Creation
+skillStatement: Create a routine for the class so the students feel organized.
+category: Scheduling
+keywords:
+  - InTASC_3i
+  - ISTE.Coach.C.3a
+  - ISTE.Coach.CA.1a
+  - ISTE.Coach.CA.1c
+  - ISTE.Coach.PLF.5b
+  - InTASC_3b
+  - InTASC_3e
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_5d
+  - InTASC_6o
+  - InTASC_6s
+  - ISTE_Educators_5a
+  - ISTE_Educators_5b
+  - ISTE_Educators_5c
+  - ISTE.Coach.PLF.5bAAQEP_1a
+  - ISTE_EdLeaders_3a
+  - ISTE.Coach.C.3b
+  - ISTE_Educators_4a
+  - Scheduling
+  - Scheduling
+  - Outlook
+  - students
+  - Google Calendar- invites
+  - meeting scheduler
+  - class routine
+  - 'WGUSID: 1478'
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-2010
+    targetNodeName: Preschool and Kindergarten Teachers
+    frameworkName: bls
+  - code: 25-2020
+    targetNodeName: Elementary and Middle School Teachers
+    frameworkName: bls
+  - code: 25-2030
+    targetNodeName: Secondary School Teachers
+    frameworkName: bls

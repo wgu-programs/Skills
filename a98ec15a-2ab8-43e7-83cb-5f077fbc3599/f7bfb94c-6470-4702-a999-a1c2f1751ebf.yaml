@@ -1,0 +1,46 @@
+id: https://osmt.wgu.edu/api/skills/f7bfb94c-6470-4702-a999-a1c2f1751ebf
+uuid: f7bfb94c-6470-4702-a999-a1c2f1751ebf
+status: published
+publishDate: '2022-01-31T17:01:46.060079'
+archiveDate: null
+skillName: Communication of  Classroom Practices
+skillStatement: >-
+  Develop classroom practices where communicating perspectives and feelings
+  regarding a situation is routine.
+category: Instruction Delivery
+keywords:
+  - ISTE_Educators_4d
+  - ISTE_EdLeaders_2d
+  - InTASC_3a
+  - InTASC_3i
+  - InTASC_3n
+  - InTASC_4g
+  - InTASC_8n
+  - InTASC_3b
+  - InTASC_3e
+  - InTASC_3f
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_4f
+  - InTASC_5d
+  - Certifications
+  - InTASC_6o
+  - ISTE_Educators_1c
+  - ISTE_Educators_2b
+  - ISTE_Educators_3a
+  - ISTE_Educators_3b
+  - InTASC_3c
+  - ISTE_Educators_4a
+  - ISTE_Educators_4b
+  - ISTE_Educators_4c
+  - AAQEP_1a
+  - ISTE_EdLeaders_3c
+  - Instruction Delivery
+  - Instruction Delivery
+  - 'SEL: Instructional Techniques'
+  - 'WGUSID: 2462'
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls

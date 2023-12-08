@@ -1,0 +1,66 @@
+id: https://osmt.wgu.edu/api/skills/4884b327-718f-4429-904f-449238af5a1b
+uuid: 4884b327-718f-4429-904f-449238af5a1b
+status: published
+publishDate: '2022-01-31T17:01:31.425351'
+archiveDate: null
+skillName: Classroom Environment Creation
+skillStatement: Create a safe and caring classroom environment.
+category: Classroom Management
+keywords:
+  - AAQEP_1f
+  - InTASC_3d
+  - InTASC_3g
+  - InTASC_3i
+  - InTASC_3m
+  - InTASC_3n
+  - InTASC_4g
+  - InTASC_5i
+  - InTASC_6p
+  - InTASC_8n
+  - InTASC_3o
+  - ISTE_Educators_2b
+  - ISTE_Educators_3a
+  - ISTE_Educators_3b
+  - ISTE_Educators_6a
+  - ISTE_Educators_6d
+  - ISTE_EdLeaders_3a
+  - ISTE_EdLeaders_1d
+  - AAQEP_2c
+  - AAQEP_2b
+  - ISTE_Educators_3d
+  - AAQEP_1e
+  - Classroom Management
+  - Classroom Management
+  - xInTASC_3l
+  - ISTE_Educators_3c
+  - 'WGUSID: 1480'
+  - NAEYC_4a
+  - TESOL_K12 Teacher Prep_3a
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-1010
+    targetNodeName: Business Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1020
+    targetNodeName: Math and Computer Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1040
+    targetNodeName: Life Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1050
+    targetNodeName: Physical Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1060
+    targetNodeName: Social Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1070
+    targetNodeName: Health Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1080
+    targetNodeName: Education and Library Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1120
+    targetNodeName: Arts, Communications, History, and Humanities Teachers, Postsecondary
+    frameworkName: bls

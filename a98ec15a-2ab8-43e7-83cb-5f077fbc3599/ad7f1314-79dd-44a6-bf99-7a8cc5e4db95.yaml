@@ -1,0 +1,46 @@
+id: https://osmt.wgu.edu/api/skills/ad7f1314-79dd-44a6-bf99-7a8cc5e4db95
+uuid: ad7f1314-79dd-44a6-bf99-7a8cc5e4db95
+status: published
+publishDate: '2022-02-04T20:55:36.577788'
+archiveDate: null
+skillName: Performance Monitoring
+skillStatement: Monitor performance to make improvements or take corrective actions.
+category: Analytical Techniques
+keywords:
+  - ISTE_Educators_7c
+  - Analytical Techniques
+  - InTASC_3a
+  - InTASC_3g
+  - InTASC_3i
+  - InTASC_3m
+  - InTASC_4g
+  - InTASC_5i
+  - InTASC_6p
+  - InTASC_8n
+  - ISTE_Educators_7a
+  - ISTE_Educators_7b
+  - AAQEP_3d
+  - AAQEP_1d
+  - AAQEP_1a
+  - AAQEP_2c
+  - ISTE_EdLeaders_2a
+  - Microsoft Excel
+  - Analytical Techniques
+  - Google Sheets
+  - Analytical Skills
+  - 'WGUSID: 5132'
+  - Learner Communication Management
+  - ILA_Professionals_7.1
+  - ILA_Professionals_3.2
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: '25_1010'
+  - code: '25_1020'
+  - code: '25_1040'
+  - code: '25_1050'
+  - code: '25_1060'
+  - code: '25_1070'
+  - code: '25_1080'
+  - code: '25_1120'

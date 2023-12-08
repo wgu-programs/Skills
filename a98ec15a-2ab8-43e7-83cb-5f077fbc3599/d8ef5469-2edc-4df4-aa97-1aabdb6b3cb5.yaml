@@ -1,0 +1,48 @@
+id: https://osmt.wgu.edu/api/skills/d8ef5469-2edc-4df4-aa97-1aabdb6b3cb5
+uuid: d8ef5469-2edc-4df4-aa97-1aabdb6b3cb5
+status: published
+publishDate: '2022-02-03T00:34:28.930552'
+archiveDate: null
+skillName: Student Engagement Commitment
+skillStatement: Commit to engage with each student according to law and school policy.
+category: Ethical Responsibility
+keywords:
+  - AAQEP_1f
+  - ISTE_Educators_4d
+  - InTASC_3a
+  - InTASC_3i
+  - InTASC_3n
+  - InTASC_4g
+  - InTASC_8n
+  - InTASC_3b
+  - InTASC_3e
+  - InTASC_3f
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_4f
+  - InTASC_5d
+  - InTASC_6o
+  - ISTE_Educators_3a
+  - ISTE_Educators_3b
+  - ISTE_Educators_6d
+  - ISTE_EdLeaders_2a
+  - AAQEP_1e
+  - Professional Responsibility
+  - Ethical Responsibility
+  - Moral Reasoning
+  - Ethical Responsibility
+  - 'WGUSID: 2904'
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-2010
+    targetNodeName: Preschool and Kindergarten Teachers
+    frameworkName: bls
+  - code: 25-2020
+    targetNodeName: Elementary and Middle School Teachers
+    frameworkName: bls
+  - code: 25-2030
+    targetNodeName: Secondary School Teachers
+    frameworkName: bls

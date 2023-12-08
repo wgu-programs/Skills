@@ -1,0 +1,58 @@
+id: https://osmt.wgu.edu/api/skills/6b53959a-f607-4668-a0b9-10daa9ff6fe0
+uuid: 6b53959a-f607-4668-a0b9-10daa9ff6fe0
+status: published
+publishDate: '2022-02-02T14:19:23.985274'
+archiveDate: null
+skillName: Rationale for Decisions
+skillStatement: >-
+  Explain the rationale for decisions made to students, colleagues, or
+  administrators.
+category: Accountability
+keywords:
+  - AAQEP_1f
+  - ISTE_Educators_4d
+  - ISTE_EdLeaders_2d
+  - InTASC_3a
+  - InTASC_3g
+  - InTASC_3m
+  - InTASC_4g
+  - InTASC_5i
+  - InTASC_6p
+  - InTASC_8n
+  - ISTE_Educators_1c
+  - ISTE_Educators_2b
+  - ISTE_Educators_3a
+  - ISTE_Educators_3b
+  - ISTE_Educators_5c
+  - ISTE_Educators_6a
+  - ISTE_Educators_6d
+  - ISTE_EdLeaders_3a
+  - ISTE_Educators_4b
+  - ISTE_Educators_4c
+  - AAQEP_2a
+  - AAQEP_2c
+  - AAQEP_2f
+  - ISTE_Educators_2c
+  - Accountability
+  - Accountability
+  - 'WGUSID: 3381'
+occupations:
+  - code: 11-9033
+    targetNodeName: Education Administrators, Postsecondary
+    frameworkName: bls
+  - code: 11-9039
+    targetNodeName: Education Administrators, All Other
+    frameworkName: bls
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-3010
+    targetNodeName: >-
+      Adult Basic Education, Adult Secondary Education, and English as a Second
+      Language Instructors
+    frameworkName: bls
+  - code: 25-3011
+    targetNodeName: >-
+      Adult Basic Education, Adult Secondary Education, and English as a Second
+      Language Instructors
+    frameworkName: bls

@@ -1,0 +1,46 @@
+id: https://osmt.wgu.edu/api/skills/2b8d22be-583e-4f2c-9cf3-5a40c8958318
+uuid: 2b8d22be-583e-4f2c-9cf3-5a40c8958318
+status: published
+publishDate: '2022-02-08T00:32:34.906321'
+archiveDate: null
+skillName: School Hierarchy Defined
+skillStatement: Define the hierarchy and chain of command in a school and school district.
+category: Organizational Awareness
+keywords:
+  - InTASC_3a
+  - InTASC_3i
+  - InTASC_3n
+  - InTASC_4g
+  - InTASC_8n
+  - InTASC_3b
+  - InTASC_3e
+  - InTASC_3f
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_5d
+  - InTASC_6o
+  - InTASC_6s
+  - InTASC_3c
+  - ISTE_EdLeaders_4a
+  - ISTE_Educators_2a
+  - Organizational Awareness
+  - Organizational Awareness
+  - hierarchy
+  - school
+  - school district
+  - chain of command
+  - 'WGUSID: 5276'
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-2010
+    targetNodeName: Preschool and Kindergarten Teachers
+    frameworkName: bls
+  - code: 25-2020
+    targetNodeName: Elementary and Middle School Teachers
+    frameworkName: bls
+  - code: 25-2030
+    targetNodeName: Secondary School Teachers
+    frameworkName: bls

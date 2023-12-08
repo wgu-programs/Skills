@@ -1,0 +1,69 @@
+id: https://osmt.wgu.edu/api/skills/1d1ce2ea-0c6d-4aff-ace4-6e03f58ba2b1
+uuid: 1d1ce2ea-0c6d-4aff-ace4-6e03f58ba2b1
+status: published
+publishDate: '2022-01-31T17:00:44.825974'
+archiveDate: null
+skillName: Educational Advocacy
+skillStatement: Advocate for students, the school, the community, and the teaching profession.
+category: Advocacy
+keywords:
+  - ISTE_EdLeaders_2d
+  - InTASC_3a
+  - InTASC_3g
+  - InTASC_3i
+  - InTASC_3m
+  - InTASC_4g
+  - InTASC_5i
+  - InTASC_6p
+  - InTASC_8n
+  - ISTE.Coach.C.3a
+  - ISTE.Coach.CA.1a
+  - ISTE.Coach.CA.1c
+  - ISTE.Coach.CL.2c
+  - ISTE.Coach.CL.2a
+  - ISTE.Coach.CL.2b
+  - ISTE_Educators_1c
+  - ISTE_Educators_2b
+  - ISTE_EdLeaders_2b
+  - AAQEP_2a
+  - AAQEP_2c
+  - ISTE_EdLeaders_2a
+  - AAQEP_2b
+  - ISTE_Educators_2a
+  - ISTE.Coach.CA.1d
+  - Advocacy
+  - Educational Advocacy
+  - Marketing
+  - InTASC_7q
+  - InTASC_10j
+  - InTASC_10k
+  - Advocacy
+  - ISTE_EdLeaders_5d
+  - 'WGUSID: 133'
+  - ISTE.Coach.CL.2cAAQEP_1f
+  - NAEYC_6a
+occupations:
+  - code: 11-9033
+    targetNodeName: Education Administrators, Postsecondary
+    frameworkName: bls
+  - code: 11-9039
+    targetNodeName: Education Administrators, All Other
+    frameworkName: bls
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-4020
+    targetNodeName: Librarians and Media Collections Specialists
+    frameworkName: bls
+  - code: 25-4022
+    targetNodeName: Librarians and Media Collections Specialists
+    frameworkName: bls
+  - code: 25-9030
+    targetNodeName: Instructional Coordinators
+    frameworkName: bls
+  - code: 25-9031
+    targetNodeName: Instructional Coordinators
+    frameworkName: bls
+  - code: 25-9090
+    targetNodeName: Miscellaneous Educational Instruction and Library Workers
+    frameworkName: bls

@@ -1,0 +1,71 @@
+id: https://osmt.wgu.edu/api/skills/1a221b18-9890-43ff-866c-d56ae16498b5
+uuid: 1a221b18-9890-43ff-866c-d56ae16498b5
+status: published
+publishDate: '2022-02-02T14:20:24.032488'
+archiveDate: null
+skillName: Assessment and Testing Modification
+skillStatement: >-
+  Modify assessments and testing conditions for learners who require
+  accommodation.
+category: Academic Accommodation Plans
+keywords:
+  - ISTE_Educators_7c
+  - InTASC_3m
+  - InTASC_6p
+  - ATD.Prof.ID
+  - ATD.Prof.TA
+  - ATD.Prof.TDF
+  - ISTE.Coach.C.3a
+  - ISTE.Coach.CA.1a
+  - ISTE.Coach.CA.1c
+  - ISTE.Coach.CL.2c
+  - ISTE.Coach.LD.4b
+  - ISTE.Coach.PLF.5b
+  - ISTE_Educators_7a
+  - ISTE_Educators_7b
+  - ATD.Prof.LS
+  - AAQEP_1d
+  - ISTE_Educators_1c
+  - ISTE_Educators_2b
+  - ISTE_Educators_5a
+  - ISTE_Educators_5b
+  - ISTE_Educators_5c
+  - ISTE_Educators_6a
+  - ISTE_Educators_6b
+  - ISTE_Educators_6c
+  - ISTE_Educators_6d
+  - ISTE.Coach.LD.4c
+  - ISTE.Coach.PLF.5bAAQEP_1a
+  - ISTE_EdLeaders_3a
+  - ATD.Pers.CE
+  - AAQEP_1c
+  - ISTE_EdLeaders_3d
+  - ISTE_Educators_4b
+  - ISTE_Educators_4c
+  - AAQEP_2c
+  - AAQEP_2b
+  - Academic Accommodation Plans
+  - Accommodations
+  - Academic Accommodation Plans
+  - InTASC_6h
+  - InTASC_6u
+  - 'WGUSID: 5068'
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-4020
+    targetNodeName: Librarians and Media Collections Specialists
+    frameworkName: bls
+  - code: 25-4022
+    targetNodeName: Librarians and Media Collections Specialists
+    frameworkName: bls
+  - code: 25-9030
+    targetNodeName: Instructional Coordinators
+    frameworkName: bls
+  - code: 25-9031
+    targetNodeName: Instructional Coordinators
+    frameworkName: bls
+  - code: 25-9090
+    targetNodeName: Miscellaneous Educational Instruction and Library Workers
+    frameworkName: bls

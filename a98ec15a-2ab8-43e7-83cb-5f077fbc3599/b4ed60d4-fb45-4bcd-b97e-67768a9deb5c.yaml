@@ -1,0 +1,68 @@
+id: https://osmt.wgu.edu/api/skills/b4ed60d4-fb45-4bcd-b97e-67768a9deb5c
+uuid: b4ed60d4-fb45-4bcd-b97e-67768a9deb5c
+status: published
+publishDate: '2022-01-31T17:01:31.511922'
+archiveDate: null
+skillName: Student Performance Monitoring
+skillStatement: Monitor student performance and take necessary corrective actions.
+category: Classroom Management
+keywords:
+  - ISTE_Educators_7c
+  - InTASC_3a
+  - InTASC_3d
+  - InTASC_3g
+  - InTASC_3i
+  - InTASC_3m
+  - InTASC_3n
+  - InTASC_4g
+  - InTASC_5i
+  - InTASC_6p
+  - InTASC_8n
+  - ISTE_Educators_7a
+  - ISTE_Educators_7b
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_3j
+  - AAQEP_1d
+  - ISTE_Educators_1c
+  - ISTE_Educators_6a
+  - ISTE_Educators_6b
+  - ISTE_Educators_6c
+  - ISTE_Educators_6d
+  - ISTE_EdLeaders_2b
+  - AAQEP_2c
+  - ISTE_EdLeaders_2a
+  - AAQEP_2b
+  - Classroom Management
+  - Classroom Management
+  - 'WGUSID: 5145'
+  - IDA_KPS_3.6
+  - NSQ_Teaching_D1
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-1010
+    targetNodeName: Business Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1020
+    targetNodeName: Math and Computer Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1040
+    targetNodeName: Life Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1050
+    targetNodeName: Physical Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1060
+    targetNodeName: Social Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1070
+    targetNodeName: Health Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1080
+    targetNodeName: Education and Library Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1120
+    targetNodeName: Arts, Communications, History, and Humanities Teachers, Postsecondary
+    frameworkName: bls

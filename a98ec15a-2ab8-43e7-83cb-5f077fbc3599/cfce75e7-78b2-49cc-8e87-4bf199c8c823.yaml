@@ -1,0 +1,72 @@
+id: https://osmt.wgu.edu/api/skills/cfce75e7-78b2-49cc-8e87-4bf199c8c823
+uuid: cfce75e7-78b2-49cc-8e87-4bf199c8c823
+status: published
+publishDate: '2022-01-25T16:05:27.947796'
+archiveDate: null
+skillName: Culturally Sensitive Strategy Incorporation
+skillStatement: Incorporate strategies for improving cultural sensitivity.
+category: Cultural Sensitivity
+keywords:
+  - 'Diversity, Equity, and Inclusion (DEI): General'
+  - DEI_Collection
+  - 21st_Century_Skills
+  - ISTE_Educators_4d
+  - Cultural Sensitivity
+  - Cultural Awareness
+  - Cultural Sensitivity
+  - InTASC_3a
+  - InTASC_3d
+  - InTASC_3i
+  - InTASC_3m
+  - InTASC_3n
+  - InTASC_4g
+  - InTASC_6p
+  - InTASC_8n
+  - InTASC_3b
+  - InTASC_3f
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_5d
+  - ISTE_Educators_6a
+  - ISTE_Educators_6b
+  - ISTE_Educators_6c
+  - ISTE_Educators_6d
+  - ISTE_EdLeaders_3d
+  - AAQEP_1a
+  - AAQEP_2b
+  - ISTE_EdLeaders_3c
+  - InTASC_4m
+  - InTASC_8k
+  - 'WGUSID: 4436'
+  - 'Social Emotional Learning (SEL): General'
+  - 'Social Emotional Learning (SEL): Social Awareness'
+occupations:
+  - code: 11-9033
+    targetNodeName: Education Administrators, Postsecondary
+    frameworkName: bls
+  - code: 11-9039
+    targetNodeName: Education Administrators, All Other
+    frameworkName: bls
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-3010
+    targetNodeName: >-
+      Adult Basic Education, Adult Secondary Education, and English as a Second
+      Language Instructors
+    frameworkName: bls
+  - code: 25-3011
+    targetNodeName: >-
+      Adult Basic Education, Adult Secondary Education, and English as a Second
+      Language Instructors
+    frameworkName: bls
+  - code: 33-0000
+    targetNodeName: Protective Service Occupations
+    frameworkName: bls
+  - code: 33-1010
+    targetNodeName: First-Line Supervisors of Law Enforcement Workers
+    frameworkName: bls
+  - code: 33-3010
+    targetNodeName: Bailiffs, Correctional Officers, and Jailers
+    frameworkName: bls

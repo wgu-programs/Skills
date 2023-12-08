@@ -1,0 +1,73 @@
+id: https://osmt.wgu.edu/api/skills/74708396-3c7d-4394-bc2a-9bbc7f9393d7
+uuid: 74708396-3c7d-4394-bc2a-9bbc7f9393d7
+status: published
+publishDate: '2022-02-08T22:53:30.286031'
+archiveDate: null
+skillName: Meeting and Committee Contribution
+skillStatement: Take part in staff meetings and committees.
+category: Relationship Building
+keywords:
+  - AAQEP_1f
+  - ISTE_Educators_4d
+  - ISTE_Educators_7c
+  - ISTE_EdLeaders_2d
+  - InTASC_3a
+  - InTASC_3i
+  - InTASC_4g
+  - InTASC_8n
+  - InTASC_3b
+  - InTASC_3e
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_5d
+  - InTASC_3q
+  - InTASC_6o
+  - InTASC_6s
+  - ISTE_Educators_1c
+  - ISTE_Educators_2b
+  - ISTE_Educators_6d
+  - Relationship Management
+  - ISTE_Educators_4a
+  - ISTE_Educators_4b
+  - ISTE_Educators_4c
+  - ISTE_Educators_2a
+  - Relationship Building
+  - Relationship Building
+  - meetings
+  - committees
+  - 'WGUSID: 1351'
+occupations:
+  - code: 11-9033
+    targetNodeName: Education Administrators, Postsecondary
+    frameworkName: bls
+  - code: 11-9039
+    targetNodeName: Education Administrators, All Other
+    frameworkName: bls
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-1010
+    targetNodeName: Business Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1020
+    targetNodeName: Math and Computer Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1040
+    targetNodeName: Life Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1050
+    targetNodeName: Physical Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1060
+    targetNodeName: Social Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1070
+    targetNodeName: Health Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1080
+    targetNodeName: Education and Library Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1120
+    targetNodeName: Arts, Communications, History, and Humanities Teachers, Postsecondary
+    frameworkName: bls

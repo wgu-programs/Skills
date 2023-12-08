@@ -1,0 +1,67 @@
+id: https://osmt.wgu.edu/api/skills/e190f27f-6343-4393-aa42-acfcaa42d698
+uuid: e190f27f-6343-4393-aa42-acfcaa42d698
+status: published
+publishDate: '2022-01-31T17:01:19.496923'
+archiveDate: null
+skillName: Monitor Safe Learning Environments
+skillStatement: >-
+  Monitor elements of a safe and productive learning environment including
+  norms, expectations, routines, and organizational structures.
+category: Safety Standards
+keywords:
+  - Special Education
+  - AAQEP_1f
+  - ISTE_Educators_4d
+  - InTASC_3i
+  - ISTE_EdLeaders_2c
+  - InTASC_3b
+  - InTASC_3e
+  - InTASC_3h
+  - InTASC_3o
+  - InTASC_5d
+  - InTASC_6o
+  - InTASC_6s
+  - ISTE_Educators_1c
+  - ISTE_Educators_2b
+  - ISTE_Educators_3a
+  - ISTE_Educators_3b
+  - ISTE_Educators_5a
+  - ISTE_Educators_5b
+  - ISTE_Educators_5c
+  - ISTE_Educators_4b
+  - ISTE_Educators_4c
+  - ISTE_Educators_1a
+  - ISTE_Educators_1b
+  - ISTE_Educators_2a
+  - Teaching
+  - Safety Standards
+  - AAQEP_3e
+  - xInTASC_3l
+  - Safety Standards
+  - 'WGUSID: 5110'
+  - 'WGUSID: 5111'
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-1020
+    targetNodeName: Math and Computer Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1040
+    targetNodeName: Life Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1050
+    targetNodeName: Physical Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1080
+    targetNodeName: Education and Library Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-2020
+    targetNodeName: Elementary and Middle School Teachers
+    frameworkName: bls
+  - code: 25-2030
+    targetNodeName: Secondary School Teachers
+    frameworkName: bls
+  - code: 25-2050
+    targetNodeName: Special Education Teachers
+    frameworkName: bls

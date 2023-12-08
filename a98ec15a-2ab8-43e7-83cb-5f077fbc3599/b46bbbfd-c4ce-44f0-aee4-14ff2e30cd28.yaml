@@ -1,0 +1,82 @@
+id: https://osmt.wgu.edu/api/skills/b46bbbfd-c4ce-44f0-aee4-14ff2e30cd28
+uuid: b46bbbfd-c4ce-44f0-aee4-14ff2e30cd28
+status: published
+publishDate: '2022-01-31T17:01:51.329446'
+archiveDate: null
+skillName: Learning Activities for Development
+skillStatement: Complete learning and mentorship activities to develop teaching skills.
+category: Mentorship
+keywords:
+  - 'SEL: Interpersonal Communication'
+  - TC-ProfessionalCore2019
+  - ISTE_Educators_4d
+  - InTASC_3a
+  - InTASC_3i
+  - InTASC_3n
+  - InTASC_4g
+  - InTASC_8n
+  - ATD.Prof.ID
+  - ATD.Prof.TDF
+  - ISTE.Coach.C.3a
+  - ISTE.Coach.CA.1a
+  - ISTE.Coach.CA.1c
+  - ISTE.Coach.CL.2c
+  - ISTE.Coach.DDM.6a
+  - ISTE.Coach.DDM.6b
+  - ISTE.Coach.LD.4a
+  - ISTE.Coach.LD.4b
+  - ISTE.Coach.LD.4d
+  - ISTE.Coach.PLF.5b
+  - InTASC_3b
+  - InTASC_3e
+  - InTASC_3f
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_5d
+  - ISTE.Coach.PLF.5c
+  - ISTE.Coach.DDM.6c
+  - ATD.Pers.CL
+  - ISTE.Coach.PLF.5a
+  - InTASC_6o
+  - InTASC_6s
+  - ISTE_Educators_1c
+  - ISTE_Educators_2b
+  - ISTE_Educators_6d
+  - InTASC_3c
+  - Mentorship
+  - Mentorship
+  - ISTE.Coach.LD.4c
+  - ISTE.Coach.C.3b
+  - ISTE.Coach.DCA.7d
+  - ISTE.Coach.DCA.7c
+  - ISTE.Coach.PLF.5cAAQEP_1f
+  - ISTE.Coach.C.3d
+  - ISTE.Coach.DCA.7a
+  - ISTE.Coach.DCA.7b
+  - ISTE_Educators_4a
+  - ISTE_Educators_4b
+  - ISTE_Educators_4c
+  - ISTE_EdLeaders_2a
+  - ISTE_Educators_2a
+  - ISTE_Educators_3d
+  - ATD.Pers.C
+  - ATD.Pers.LL
+  - ISTE_Educators_2c
+  - ISTE_Educators_3c
+  - 'WGUSID: 1139'
+  - ILA_Teachers_6.3
+  - ILA_Teachers_6.1
+occupations:
+  - code: 11-3130
+    targetNodeName: Training and Development Managers
+    frameworkName: bls
+  - code: 11-3131
+    targetNodeName: Training and Development Managers
+    frameworkName: bls
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 33-0000
+    targetNodeName: Protective Service Occupations
+    frameworkName: bls

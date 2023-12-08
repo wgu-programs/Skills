@@ -1,0 +1,63 @@
+id: https://osmt.wgu.edu/api/skills/99d47efe-c414-41bc-b998-1cd09656ecf6
+uuid: 99d47efe-c414-41bc-b998-1cd09656ecf6
+status: published
+publishDate: '2022-01-25T16:37:17.240973'
+archiveDate: null
+skillName: Pedagogical Instructional Design
+skillStatement: Design instruction using pedagogical instructional strategies.
+category: Education Theories
+keywords:
+  - Special Education
+  - InTASC_3a
+  - InTASC_3i
+  - InTASC_3m
+  - InTASC_3n
+  - InTASC_4g
+  - InTASC_6p
+  - InTASC_8n
+  - InTASC_3b
+  - InTASC_3e
+  - InTASC_3f
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_4f
+  - InTASC_5d
+  - ISTE_Educators_1c
+  - ISTE_Educators_5a
+  - ISTE_Educators_5b
+  - ISTE_Educators_5c
+  - Education Theories
+  - ISTE_EdLeaders_3a
+  - ISTE_EdLeaders_3b
+  - InTASC_7i
+  - Education Theories
+  - 'WGUSID: 2111'
+  - NGT
+  - K-12 Teacher
+  - NAEYC_5b
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-1020
+    targetNodeName: Math and Computer Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1040
+    targetNodeName: Life Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1050
+    targetNodeName: Physical Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1080
+    targetNodeName: Education and Library Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-2020
+    targetNodeName: Elementary and Middle School Teachers
+    frameworkName: bls
+  - code: 25-2030
+    targetNodeName: Secondary School Teachers
+    frameworkName: bls
+  - code: 25-2050
+    targetNodeName: Special Education Teachers
+    frameworkName: bls

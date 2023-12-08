@@ -1,0 +1,64 @@
+id: https://osmt.wgu.edu/api/skills/b26c9748-4145-4dab-a2f4-34206978b4da
+uuid: b26c9748-4145-4dab-a2f4-34206978b4da
+status: published
+publishDate: '2022-02-03T19:16:42.943324'
+archiveDate: null
+skillName: Constructive Feedback Communication Strategy Selection
+skillStatement: Select strategies to develop and communicate constructive feedback.
+category: Educational Evaluation
+keywords:
+  - ISTE_Educators_7c
+  - InTASC_3a
+  - InTASC_3i
+  - InTASC_3m
+  - InTASC_3n
+  - InTASC_4g
+  - InTASC_8n
+  - Educational Evaluation
+  - ISTE_Educators_7a
+  - ISTE_Educators_7b
+  - InTASC_3b
+  - InTASC_3e
+  - InTASC_3f
+  - InTASC_3h
+  - InTASC_3o
+  - InTASC_4f
+  - InTASC_5d
+  - Educational Evaluation
+  - InTASC_6o
+  - ISTE_Educators_1c
+  - ISTE_Educators_3a
+  - ISTE_Educators_3b
+  - ISTE_Educators_6a
+  - ISTE_Educators_6b
+  - ISTE_Educators_6c
+  - ISTE_Educators_4b
+  - AAQEP_1a
+  - ISTE_EdLeaders_3c
+  - 'WGUSID: 6213'
+  - NSQ_Teaching_B1
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-1020
+    targetNodeName: Math and Computer Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1040
+    targetNodeName: Life Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1050
+    targetNodeName: Physical Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1080
+    targetNodeName: Education and Library Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-2020
+    targetNodeName: Elementary and Middle School Teachers
+    frameworkName: bls
+  - code: 25-2030
+    targetNodeName: Secondary School Teachers
+    frameworkName: bls
+  - code: 25-2050
+    targetNodeName: Special Education Teachers
+    frameworkName: bls

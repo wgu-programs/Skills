@@ -1,0 +1,46 @@
+id: https://osmt.wgu.edu/api/skills/fe28d9b9-1532-42b0-9f74-b6bb3796a637
+uuid: fe28d9b9-1532-42b0-9f74-b6bb3796a637
+status: published
+publishDate: '2022-02-04T21:15:59.661153'
+archiveDate: null
+skillName: School Regulations and Compliance Implementation
+skillStatement: >-
+  Implement regulations, compliance, and policies from governing bodies of the
+  school and district on a local, state, and federal level.
+category: Legal Knowledge
+keywords:
+  - InTASC_3a
+  - InTASC_3i
+  - InTASC_3n
+  - InTASC_4g
+  - InTASC_8n
+  - InTASC_3b
+  - InTASC_3e
+  - InTASC_3f
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_5d
+  - InTASC_6o
+  - InTASC_6s
+  - ISTE_Educators_6a
+  - ISTE_Educators_6b
+  - InTASC_3c
+  - ISTE_EdLeaders_4a
+  - ISTE_Educators_3d
+  - Legal Knowledge
+  - Legal Knowledge
+  - Federal
+  - State and Local education laws
+  - mandates and policies.
+  - 'WGUSID: 4298'
+  - NSQ_Teaching_E4
+  - TESOL_K12 Teacher Prep_5b
+occupations:
+  - code: 11-3130
+    targetNodeName: Training and Development Managers
+    frameworkName: bls
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: '449919'

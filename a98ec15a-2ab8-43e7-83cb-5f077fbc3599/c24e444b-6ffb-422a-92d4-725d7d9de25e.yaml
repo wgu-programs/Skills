@@ -1,0 +1,56 @@
+id: https://osmt.wgu.edu/api/skills/c24e444b-6ffb-422a-92d4-725d7d9de25e
+uuid: c24e444b-6ffb-422a-92d4-725d7d9de25e
+status: published
+publishDate: '2022-01-31T17:00:25.113661'
+archiveDate: null
+skillName: Align Assessment Activities
+skillStatement: Align assessment activities to instructional goals and learning outcomes.
+category: Instructional Design
+keywords:
+  - ISTE_Educators_4d
+  - ISTE_Educators_7c
+  - InTASC_3a
+  - InTASC_3i
+  - InTASC_3n
+  - InTASC_4g
+  - InTASC_8n
+  - Educational Evaluation
+  - ISTE_Educators_7a
+  - ISTE_Educators_7b
+  - InTASC_3b
+  - InTASC_3e
+  - InTASC_3f
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_4f
+  - InTASC_5d
+  - InTASC_6o
+  - InTASC_6s
+  - ISTE_Educators_1c
+  - ISTE_Educators_3a
+  - ISTE_Educators_3b
+  - ISTE_Educators_5a
+  - ISTE_Educators_5b
+  - ISTE_Educators_5c
+  - ISTE_Educators_6c
+  - InTASC_3c
+  - ISTE_EdLeaders_2b
+  - ISTE_Educators_4a
+  - ISTE_Educators_4b
+  - ISTE_Educators_4c
+  - ISTE_EdLeaders_2a
+  - Instructional Design
+  - Instructional Design
+  - Assessment
+  - 'WGUSID: 10929'
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-9030
+    targetNodeName: Instructional Coordinators
+    frameworkName: bls
+  - code: 25-9031
+    targetNodeName: Instructional Coordinators
+    frameworkName: bls

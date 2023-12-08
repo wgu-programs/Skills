@@ -1,0 +1,43 @@
+id: https://osmt.wgu.edu/api/skills/d959f582-c46c-4d50-b906-d4bb64247622
+uuid: d959f582-c46c-4d50-b906-d4bb64247622
+status: published
+publishDate: '2022-02-04T21:16:00.236277'
+archiveDate: null
+skillName: Respect Student Privacy
+skillStatement: >-
+  Respect student privacy by maintaining the confidentiality of all
+  interactions, correspondence, and records.
+category: Legal Knowledge
+keywords:
+  - InTASC_3a
+  - InTASC_3i
+  - InTASC_3n
+  - InTASC_4g
+  - InTASC_8n
+  - InTASC_3b
+  - InTASC_3e
+  - InTASC_3f
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_5d
+  - InTASC_6o
+  - InTASC_6s
+  - InTASC_3c
+  - ISTE_EdLeaders_3a
+  - ISTE_EdLeaders_1d
+  - ISTE_Educators_3d
+  - Legal Knowledge
+  - Legal Knowledge
+  - ISTE_Educators_3c
+  - student privacy
+  - 'WGUSID: 6068'
+  - NSQ_Teaching_B5
+occupations:
+  - code: 11-3130
+    targetNodeName: Training and Development Managers
+    frameworkName: bls
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: '449919'

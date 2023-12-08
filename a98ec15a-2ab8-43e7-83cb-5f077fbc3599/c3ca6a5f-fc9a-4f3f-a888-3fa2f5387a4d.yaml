@@ -1,0 +1,87 @@
+id: https://osmt.wgu.edu/api/skills/c3ca6a5f-fc9a-4f3f-a888-3fa2f5387a4d
+uuid: c3ca6a5f-fc9a-4f3f-a888-3fa2f5387a4d
+status: published
+publishDate: '2022-01-31T17:00:54.057585'
+archiveDate: null
+skillName: Instructional Strategy Adaptation
+skillStatement: >-
+  Adapt instructional strategies and content based on learner needs while
+  teaching.
+category: Differentiated Instruction
+keywords:
+  - InTASC_3a
+  - InTASC_3d
+  - InTASC_3i
+  - InTASC_3m
+  - InTASC_3n
+  - InTASC_4g
+  - InTASC_6p
+  - InTASC_8n
+  - ISTE.Coach.C.3a
+  - ISTE.Coach.CA.1a
+  - ISTE.Coach.CA.1c
+  - ISTE.Coach.CL.2c
+  - ISTE.Coach.PLF.5b
+  - InTASC_3b
+  - InTASC_3f
+  - InTASC_3h
+  - InTASC_3l
+  - InTASC_3o
+  - InTASC_4f
+  - InTASC_5d
+  - ISTE_Educators_5a
+  - ISTE_Educators_5b
+  - ISTE_Educators_5c
+  - Differentiated Instruction
+  - Differentiated Instruction
+  - ISTE.Coach.LD.4c
+  - ISTE.Coach.PLF.5bAAQEP_1a
+  - ISTE.Coach.C.3d
+  - ISTE.Coach.CA.1b
+  - ISTE_EdLeaders_3d
+  - InTASC_2a
+  - InTASC_8a
+  - Instructional Design
+  - 'WGUSID: 52'
+  - ILA_Professionals_7.1
+  - NAEYC_4b
+occupations:
+  - code: 25-0000
+    targetNodeName: Educational Instruction and Library Occupations
+    frameworkName: bls
+  - code: 25-1020
+    targetNodeName: Math and Computer Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1040
+    targetNodeName: Life Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1050
+    targetNodeName: Physical Sciences Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-1080
+    targetNodeName: Education and Library Science Teachers, Postsecondary
+    frameworkName: bls
+  - code: 25-2020
+    targetNodeName: Elementary and Middle School Teachers
+    frameworkName: bls
+  - code: 25-2030
+    targetNodeName: Secondary School Teachers
+    frameworkName: bls
+  - code: 25-2050
+    targetNodeName: Special Education Teachers
+    frameworkName: bls
+  - code: 25-4020
+    targetNodeName: Librarians and Media Collections Specialists
+    frameworkName: bls
+  - code: 25-4022
+    targetNodeName: Librarians and Media Collections Specialists
+    frameworkName: bls
+  - code: 25-9030
+    targetNodeName: Instructional Coordinators
+    frameworkName: bls
+  - code: 25-9031
+    targetNodeName: Instructional Coordinators
+    frameworkName: bls
+  - code: 25-9090
+    targetNodeName: Miscellaneous Educational Instruction and Library Workers
+    frameworkName: bls
